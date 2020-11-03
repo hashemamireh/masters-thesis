@@ -1,0 +1,1905 @@
+game.id,seller.id,buyer.id,game.seller_buyer,session.code,game.round_number,game.first_player,game.second_player,game.id_in_subsession,game.RANDOM_TRANSFER_SUCCESS,game.BUYER_DECISION_FIRST,game.SELLER_META_BELIEVE,game.BUYER_TRANSFER,game.BUYER_BELIEVE,seller.participant.id_in_session,seller.participant.last_page_index,seller.participant._max_page_index,seller.participant.last_app_visited,seller.participant.last_page_visited,seller.participant.final_payoff,seller.participant.final_payoff_plus_participation_fee,seller.participant.ability_to_lie,seller.participant.ability_to_detect_lies,seller.player.id_in_group,seller.player.player_round_num,seller.player.payoff,seller.participant.gender,seller.participant.age,seller.participant.education,seller.participant.political_beliefs,seller.participant.comments,buyer.participant.id_in_session,buyer.participant.last_page_index,buyer.participant._max_page_index,buyer.participant.last_app_visited,buyer.participant.last_page_visited,buyer.participant.final_payoff,buyer.participant.final_payoff_plus_participation_fee,buyer.participant.ability_to_lie,buyer.participant.ability_to_detect_lies,buyer.player.id_in_group,buyer.player.player_round_num,buyer.player.payoff,buyer.participant.gender,buyer.participant.age,buyer.participant.education,buyer.participant.political_beliefs,buyer.participant.comments,game.chat_log,game.seller_lied,game.useful_convo,seller.participant.general_instructions_timedout,seller.participant.self_rating_timedout,seller.participant.demographics_timedout,buyer.participant.general_instructions_timedout,buyer.participant.self_rating_timedout,buyer.participant.demographics_timedout,game.buyer_intructions_timedout,game.seller_intructions_timedout,game.buyer_decision_timedout,game.seller_decision_timedout
+qwyowsv5_1,tqwt671t,vp8atvt1,tqwt671t_vp8atvt1,qwyowsv5,1,5,3,2,1,1,0.85,0,0,5,363,365,demographics_app,summary_page,4,7,0.8,0.7,1,1,1,,NA,,NA,,3,366,365,demographics_app,completion_code,5,8,0.71,0.97,2,1,1,Woman,30,Completed undergraduate University/College degree,-39,,"Buyer: Hi
+Seller: Hello!
+Buyer: Have you received the $1.00 payment
+Seller: The last screen said the the amount didn't transfer.
+Buyer: thanks
+Seller: I have 0.00
+Seller: Yeah np",1,1,0,0,NA,0,0,0,0,0,0,0
+qwyowsv5_2,lqu28rjs,5e017hfb,lqu28rjs_5e017hfb,qwyowsv5,2,6,1,3,1,1,0.05,1,0.3,6,366,365,demographics_app,completion_code,5,8,0.09,0.23,1,1,2,Man,28,Completed undergraduate University/College degree,40,"no technical issues, it all worked well.",1,366,365,demographics_app,completion_code,4,7,0.9,0.75,2,1,0,Man,32,"Completed advanced University/College degree (Masters, PhD...)",-30,None.,"Buyer: hello
+Seller: hi
+Buyer: you got $1 ?
+Seller: the amount was not shown up
+Buyer: what is iit showing 
+Seller: not sure why
+Seller: not see it
+Buyer: you're supposed to know if you got it or no 
+Seller: yeah I looked, maybe it's this program not working
+Seller: right
+Buyer: oh ok",1,1,0,0,0,0,0,0,0,0,0,0
+qwyowsv5_3,ypvg2u66,5y50c006,ypvg2u66_5y50c006,qwyowsv5,3,2,4,4,0,1,0.1,0,0.35,2,366,365,demographics_app,completion_code,3,6,0.75,0.4,1,1,0,Man,21,Completed secondary school/high school,28,,4,366,365,demographics_app,completion_code,4,7,0.95,0.23,2,1,0,Woman,58,Completed secondary school/high school,30,,"Buyer: Hi, did you get the payment?
+Seller: Hey, It looks like the transfer failed. I'm not sure what happened. I did not receive the payment yet, no.
+Buyer: Let's be honest with each other to benefit us both because I would rather take nothing and give you nothing than come out on the short end.
+Seller: That seems fair, I want us to both get out of this fairly. I'm not here to scam you :)",NA,1,0,0,0,0,0,0,0,1,0,0
+qwyowsv5_4,oxnr974n,tqwt671t,oxnr974n_tqwt671t,qwyowsv5,4,7,5,5,0,1,0,0,0.05,7,366,365,demographics_app,completion_code,4,7,1,1,1,1,0,Man,33,Completed undergraduate University/College degree,50,,5,363,365,demographics_app,summary_page,4,7,0.8,0.7,2,2,0,,NA,,NA,,"Buyer: Hiya
+Seller: Hello
+Seller: why did the transfer fail?
+Buyer: I wouldn't know that
+Buyer: I was just told it was 50/50
+Seller: Oh  :(
+Buyer: I can transfer it again if you didn't get it.
+Seller: Ok :)",NA,1,0,0,0,0,0,NA,0,0,0,0
+qwyowsv5_5,lqu28rjs,vp8atvt1,lqu28rjs_vp8atvt1,qwyowsv5,5,6,3,6,1,0,0.09,0,0,6,366,365,demographics_app,completion_code,5,8,0.09,0.23,1,2,1,Man,28,Completed undergraduate University/College degree,40,"no technical issues, it all worked well.",3,366,365,demographics_app,completion_code,5,8,0.71,0.97,2,2,1,Woman,30,Completed undergraduate University/College degree,-39,,"Seller: what is wrong with this hit?
+Seller: the amount supposed show does not
+Buyer: Hi, have you received payment of $1.00
+Seller: not yet
+Seller: just looked
+Seller: said no
+Buyer: thanks",1,1,0,0,0,0,0,0,0,0,0,0
+qwyowsv5_6,5e017hfb,5y50c006,5e017hfb_5y50c006,qwyowsv5,6,1,4,7,0,1,0.4,1,0.8,1,366,365,demographics_app,completion_code,4,7,0.9,0.75,1,2,1,Man,32,"Completed advanced University/College degree (Masters, PhD...)",-30,None.,4,366,365,demographics_app,completion_code,4,7,0.95,0.23,2,2,1,Woman,58,Completed secondary school/high school,30,,"Seller: hello
+Seller: The transfer was failed.
+Buyer: hi okay I'll trust you this time 
+Seller: thank you.",NA,1,0,0,0,0,0,0,0,0,0,0
+qwyowsv5_7,tqwt671t,ypvg2u66,tqwt671t_ypvg2u66,qwyowsv5,7,5,2,8,1,1,1,0,0.8,5,363,365,demographics_app,summary_page,4,7,0.8,0.7,1,3,1,,NA,,NA,,2,366,365,demographics_app,completion_code,3,6,0.75,0.4,2,2,1,Man,21,Completed secondary school/high school,28,,"Seller: I got the 1.00.
+Seller: I don't want to lie anymore lol.
+Buyer: sweet! that's perfect then!
+Buyer: I hate lying too lol
+Seller: Well we're all good then I'm gonna hit next, I think once is my max. I don't know if this goes against the spirit of the experiment but I think being honest would help both of us more than trying to lie.",0,1,0,0,NA,0,0,0,0,0,0,0
+qwyowsv5_8,lqu28rjs,oxnr974n,lqu28rjs_oxnr974n,qwyowsv5,8,6,7,9,1,0,0.89,1,0.5,6,366,365,demographics_app,completion_code,5,8,0.09,0.23,1,3,2,Man,28,Completed undergraduate University/College degree,40,"no technical issues, it all worked well.",7,366,365,demographics_app,completion_code,4,7,1,1,2,2,0,Man,33,Completed undergraduate University/College degree,50,,"Buyer: Hello
+Seller: hi
+Buyer: How did the transfer work out?
+Seller: think it worked this time
+Seller: yes
+Buyer: ok good",0,1,0,0,0,0,0,0,0,0,0,0
+qwyowsv5_9,vp8atvt1,xb4mz9rs,vp8atvt1_xb4mz9rs,qwyowsv5,9,3,8,10,0,1,0,1,0.53,3,366,365,demographics_app,completion_code,5,8,0.71,0.97,1,3,1,Woman,30,Completed undergraduate University/College degree,-39,,8,366,365,demographics_app,completion_code,5,8,0,0.86,2,1,1,Woman,27,Completed undergraduate University/College degree,-9,good,"Seller: hi
+Buyer: hello
+Seller: have you received $1.00?
+Buyer: no
+Seller: please sent the payment i haven't received it says initial payment failed
+Buyer: ok",NA,1,0,0,0,1,0,0,0,0,0,0
+qwyowsv5_10,5y50c006,5e017hfb,5y50c006_5e017hfb,qwyowsv5,10,4,1,11,1,1,0.2,0,0.7,4,366,365,demographics_app,completion_code,4,7,0.95,0.23,1,3,1,Woman,58,Completed secondary school/high school,30,,1,366,365,demographics_app,completion_code,4,7,0.9,0.75,2,3,1,Man,32,"Completed advanced University/College degree (Masters, PhD...)",-30,None.,"Buyer: Hello
+Seller: hello was the transfer successful?
+Buyer: i dont know you're a buyer so you should know
+Seller: sorry read that wrong the amount was not trasferred
+Buyer: what message are you seeing above this chat window
+Seller: that the amount was not transferred.
+Buyer: does it say unsuccessful or successful ?",1,1,0,0,0,0,0,0,0,0,0,0
+qwyowsv5_11,ypvg2u66,tqwt671t,ypvg2u66_tqwt671t,qwyowsv5,11,2,5,12,1,1,0.7,0,0,2,366,365,demographics_app,completion_code,3,6,0.75,0.4,1,3,1,Man,21,Completed secondary school/high school,28,,5,363,365,demographics_app,summary_page,4,7,0.8,0.7,2,4,1,,NA,,NA,,"Buyer: Did you get the 1.00?
+Seller: I did actually, thank you! :)
+Buyer: For sure, thanks.",0,1,0,0,0,0,0,NA,0,0,0,0
+qwyowsv5_12,aci2zdda,tqwt671t,aci2zdda_tqwt671t,qwyowsv5,12,9,5,13,0,0,0.1,0,0,9,366,365,demographics_app,completion_code,3,6,0.3,0.8,1,1,0,Man,63,Completed undergraduate University/College degree,-20,"Real good deal and great pay, lots of fun too. Hard to figure out that last person. Much easier when I was the seller. It's easier to convince others than wonder if they are telling the truth. Thank you.",5,363,365,demographics_app,summary_page,4,7,0.8,0.7,2,5,0,,NA,,NA,,,NA,0,0,0,0,0,0,NA,0,0,1,0
+qwyowsv5_13,oxnr974n,ypvg2u66,oxnr974n_ypvg2u66,qwyowsv5,13,7,2,14,0,0,0.5,0,0.9,7,366,365,demographics_app,completion_code,4,7,1,1,1,3,0,Man,33,Completed undergraduate University/College degree,50,,2,366,365,demographics_app,completion_code,3,6,0.75,0.4,2,4,0,Man,21,Completed secondary school/high school,28,,,NA,0,0,0,0,0,0,0,0,0,0,0
+qwyowsv5_14,xb4mz9rs,lqu28rjs,xb4mz9rs_lqu28rjs,qwyowsv5,14,8,6,15,0,0,0.95,0,1,8,366,365,demographics_app,completion_code,5,8,0,0.86,1,2,0,Woman,27,Completed undergraduate University/College degree,-9,good,6,366,365,demographics_app,completion_code,5,8,0.09,0.23,2,4,0,Man,28,Completed undergraduate University/College degree,40,"no technical issues, it all worked well.","Buyer: hi
+Seller: hi
+Buyer: did you get it
+Seller: yas 
+Buyer: fantastic
+Seller: ok",NA,0,1,0,0,0,0,0,0,0,0,0
+qwyowsv5_15,5y50c006,vp8atvt1,5y50c006_vp8atvt1,qwyowsv5,15,4,3,16,0,1,0.79,0,0,4,366,365,demographics_app,completion_code,4,7,0.95,0.23,1,4,0,Woman,58,Completed secondary school/high school,30,,3,366,365,demographics_app,completion_code,5,8,0.71,0.97,2,4,0,Woman,30,Completed undergraduate University/College degree,-39,,"Seller: Hi, The automatic initial transfer failed.
+Buyer: Hi have to received your payment?
+Seller: no the transfer failed according to the last message",NA,1,0,0,0,0,0,0,0,0,0,0
+qwyowsv5_16,xb4mz9rs,5e017hfb,xb4mz9rs_5e017hfb,qwyowsv5,16,8,1,17,1,0,0.86,0,0.6,8,366,365,demographics_app,completion_code,5,8,0,0.86,1,3,1,Woman,27,Completed undergraduate University/College degree,-9,good,1,366,365,demographics_app,completion_code,4,7,0.9,0.75,2,4,1,Man,32,"Completed advanced University/College degree (Masters, PhD...)",-30,None.,"Buyer: hi
+Seller: hi
+Buyer: what's up
+Buyer: was the transactiin successful ?
+Buyer: ?
+Seller: yes
+Seller: yes
+Buyer: ok cool",0,1,1,0,0,0,0,0,0,0,0,0
+qwyowsv5_17,vp8atvt1,5y50c006,vp8atvt1_5y50c006,qwyowsv5,17,3,4,18,0,1,0.98,1,0.41,3,366,365,demographics_app,completion_code,5,8,0.71,0.97,1,5,1,Woman,30,Completed undergraduate University/College degree,-39,,4,366,365,demographics_app,completion_code,4,7,0.95,0.23,2,5,1,Woman,58,Completed secondary school/high school,30,,,NA,0,0,0,0,0,0,0,0,0,0,0
+qwyowsv5_18,ypvg2u66,lqu28rjs,ypvg2u66_lqu28rjs,qwyowsv5,18,2,6,19,0,1,0.4,0,0.82,2,366,365,demographics_app,completion_code,3,6,0.75,0.4,1,5,0,Man,21,Completed secondary school/high school,28,,6,366,365,demographics_app,completion_code,5,8,0.09,0.23,2,5,0,Man,28,Completed undergraduate University/College degree,40,"no technical issues, it all worked well.","Buyer: hi
+Seller: The Transfer failed :(
+Buyer: odd
+Buyer: no go
+Seller: Yeah I'm sorry :(
+Buyer: weird
+Buyer: ok",NA,1,0,0,0,0,0,0,0,0,0,0
+qwyowsv5_19,oxnr974n,lqu28rjs,oxnr974n_lqu28rjs,qwyowsv5,19,7,6,20,1,0,0.82,1,0.22,7,366,365,demographics_app,completion_code,4,7,1,1,1,4,2,Man,33,Completed undergraduate University/College degree,50,,6,366,365,demographics_app,completion_code,5,8,0.09,0.23,2,6,0,Man,28,Completed undergraduate University/College degree,40,"no technical issues, it all worked well.","Buyer: hi
+Seller: Transfer failed again :(
+Buyer: did it work
+Buyer: weird
+Seller: I know wonder what's wrong",1,1,0,0,0,0,0,0,0,0,0,0
+qwyowsv5_20,aci2zdda,ypvg2u66,aci2zdda_ypvg2u66,qwyowsv5,20,9,2,21,0,0,0.05,1,0.9,9,366,365,demographics_app,completion_code,3,6,0.3,0.8,1,2,1,Man,63,Completed undergraduate University/College degree,-20,"Real good deal and great pay, lots of fun too. Hard to figure out that last person. Much easier when I was the seller. It's easier to convince others than wonder if they are telling the truth. Thank you.",2,366,365,demographics_app,completion_code,3,6,0.75,0.4,2,6,1,Man,21,Completed secondary school/high school,28,,"Buyer: Did you receive the $1?
+Seller: I give you my word that the money was not transfered. The transfer failed.
+Buyer: Okay, I believe you :)
+Seller: Promise I am telling the truth.
+Seller: Last guy did not believe me and it costs us both.",NA,1,0,0,0,0,0,0,0,0,0,0
+qwyowsv5_21,tqwt671t,uii4jglm,tqwt671t_uii4jglm,qwyowsv5,21,5,10,22,0,0,0,1,0.93,5,363,365,demographics_app,summary_page,4,7,0.8,0.7,1,6,1,,NA,,NA,,10,366,365,demographics_app,completion_code,1,4,0.98,0.66,2,1,1,Man,28,Completed undergraduate University/College degree,45,awesome,,NA,0,0,0,NA,0,0,0,0,1,0,1
+qwyowsv5_22,xb4mz9rs,vp8atvt1,xb4mz9rs_vp8atvt1,qwyowsv5,22,8,3,23,1,1,0.5,0,1,8,366,365,demographics_app,completion_code,5,8,0,0.86,1,4,1,Woman,27,Completed undergraduate University/College degree,-9,good,3,366,365,demographics_app,completion_code,5,8,0.71,0.97,2,6,1,Woman,30,Completed undergraduate University/College degree,-39,,,NA,0,1,0,0,0,0,0,0,0,0,1
+qwyowsv5_23,oxnr974n,5y50c006,oxnr974n_5y50c006,qwyowsv5,23,7,4,24,0,1,0.16,1,0.1,7,366,365,demographics_app,completion_code,4,7,1,1,1,5,1,Man,33,Completed undergraduate University/College degree,50,,4,366,365,demographics_app,completion_code,4,7,0.95,0.23,2,6,1,Woman,58,Completed secondary school/high school,30,,"Buyer: Hello
+Seller: Hi
+Seller: Failed again :(
+Buyer: are you sure? what does the line above the chat box say
+Seller: Transfer failed",NA,1,0,0,0,0,0,0,0,1,0,0
+qwyowsv5_24,aci2zdda,5e017hfb,aci2zdda_5e017hfb,qwyowsv5,24,9,1,25,0,0,0.01,1,0.7,9,366,365,demographics_app,completion_code,3,6,0.3,0.8,1,3,1,Man,63,Completed undergraduate University/College degree,-20,"Real good deal and great pay, lots of fun too. Hard to figure out that last person. Much easier when I was the seller. It's easier to convince others than wonder if they are telling the truth. Thank you.",1,366,365,demographics_app,completion_code,4,7,0.9,0.75,2,5,1,Man,32,"Completed advanced University/College degree (Masters, PhD...)",-30,None.,"Buyer: hello
+Seller: Hi, I give you my word the transfer failed. You can trust me for sure.
+Buyer: what message are you seeing above this chatbox ?
+Seller: Transfer failed
+Buyer: ok
+Seller: I have no real reason to lie best I can tell
+Buyer: yeah i believe you
+Seller: Last guy trusted me and we did well. First guy did not trust me and he should have. cool :)",NA,1,0,0,0,0,0,0,0,0,0,0
+qwyowsv5_25,xb4mz9rs,o8p7t8wy,xb4mz9rs_o8p7t8wy,qwyowsv5,25,8,11,26,1,0,0.5,1,1,8,366,365,demographics_app,completion_code,5,8,0,0.86,1,5,2,Woman,27,Completed undergraduate University/College degree,-9,good,11,366,365,demographics_app,completion_code,2,5,1,1,2,1,0,Man,56,"Completed advanced University/College degree (Masters, PhD...)",47,good and interested,"Buyer: hi sir
+Seller: hi
+Buyer: i want to the things now
+Buyer: pls help me",NA,0,1,0,0,0,0,0,0,1,0,0
+qwyowsv5_26,uii4jglm,5e017hfb,uii4jglm_5e017hfb,qwyowsv5,26,10,1,27,0,1,0.99,0,0.7,10,366,365,demographics_app,completion_code,1,4,0.98,0.66,1,2,0,Man,28,Completed undergraduate University/College degree,45,awesome,1,366,365,demographics_app,completion_code,4,7,0.9,0.75,2,6,0,Man,32,"Completed advanced University/College degree (Masters, PhD...)",-30,None.,"Buyer: hi
+Seller: hlw
+Buyer: transfer was successful or not?
+Seller: what do u need?
+Buyer: what is the status of a transfer ?
+Buyer: ?
+Buyer: tell e quickly..time is running out",NA,0,0,0,0,0,0,0,0,0,0,0
+qwyowsv5_27,aci2zdda,oxnr974n,aci2zdda_oxnr974n,qwyowsv5,27,9,7,28,1,0,0.4,0,0.77,9,366,365,demographics_app,completion_code,3,6,0.3,0.8,1,4,1,Man,63,Completed undergraduate University/College degree,-20,"Real good deal and great pay, lots of fun too. Hard to figure out that last person. Much easier when I was the seller. It's easier to convince others than wonder if they are telling the truth. Thank you.",7,366,365,demographics_app,completion_code,4,7,1,1,2,6,1,Man,33,Completed undergraduate University/College degree,50,,,NA,0,0,0,0,0,0,0,1,0,0,0
+qwyowsv5_28,uii4jglm,53nh50sx,uii4jglm_53nh50sx,qwyowsv5,28,10,12,29,0,0,0.8,0,0.5,10,366,365,demographics_app,completion_code,1,4,0.98,0.66,1,3,0,Man,28,Completed undergraduate University/College degree,45,awesome,12,366,365,demographics_app,completion_code,0,3,0.5,0.5,2,1,0,Woman,29,Completed undergraduate University/College degree,22,GOOD,,NA,0,0,0,0,1,1,0,0,0,1,0
+qwyowsv5_29,o8p7t8wy,xb4mz9rs,o8p7t8wy_xb4mz9rs,qwyowsv5,29,11,8,30,1,1,1,1,0.5,11,366,365,demographics_app,completion_code,2,5,1,1,1,2,2,Man,56,"Completed advanced University/College degree (Masters, PhD...)",47,good and interested,8,366,365,demographics_app,completion_code,5,8,0,0.86,2,6,0,Woman,27,Completed undergraduate University/College degree,-9,good,"Seller: hi i was want to buy and transfer a $2 now
+Buyer: ok
+Seller: ohh thank you",NA,0,0,0,0,1,0,0,1,0,0,0
+qwyowsv5_30,hrvfvkot,aci2zdda,hrvfvkot_aci2zdda,qwyowsv5,30,14,9,31,0,1,0.76,0,0.9,14,366,365,demographics_app,completion_code,0,3,0.69,0.77,1,1,0,Woman,36,Some University/College,31,good,9,366,365,demographics_app,completion_code,3,6,0.3,0.8,2,5,0,Man,63,Completed undergraduate University/College degree,-20,"Real good deal and great pay, lots of fun too. Hard to figure out that last person. Much easier when I was the seller. It's easier to convince others than wonder if they are telling the truth. Thank you.","Buyer: Hi, did you get it?
+Seller: hello
+Buyer: Hi
+Buyer: Did you receive the transfer?
+Buyer: Hmm I'm thinking you did get it.
+Buyer: And you hate to lie :)",NA,0,0,0,0,0,0,0,0,0,0,0
+c8pv0kwe_1,u1nd1eaa,18otinv0,u1nd1eaa_18otinv0,c8pv0kwe,1,3,2,2,1,0,0.5,1,0.15,3,726,725,demographics_app,completion_code,6,9,0.04,0.5,1,1,2,Man,38,"Completed advanced University/College degree (Masters, PhD...)",-50,no comments,2,726,725,demographics_app,completion_code,3,6,0.65,0.15,2,1,0,Woman,30,Completed undergraduate University/College degree,0,,"Seller: Hi!
+Buyer: Hey
+Seller: I guess the transfer did not succeed, because that's what it's telling me.
+Buyer: Okay. I just don't want us both to end up with nothing",1,1,0,0,0,0,0,0,0,0,0,0
+c8pv0kwe_2,jjm5sgkx,kaymwuel,jjm5sgkx_kaymwuel,c8pv0kwe,2,1,5,3,1,0,0,0,0.57,1,726,725,demographics_app,completion_code,1,4,0.73,0.72,1,1,1,Man,45,Completed undergraduate University/College degree,-30,thank you,5,726,725,demographics_app,completion_code,2,5,0.7,0.61,2,1,1,Man,29,Completed undergraduate University/College degree,13,no comments,"Seller: Sorry, but the transfer did not go through.
+Buyer: nothing
+Buyer: ok
+Buyer: what is your problem
+Seller: No. the dollar did not transfer. sorry
+Buyer: its ok 
+Buyer: other way to try
+Seller: I don 't know.
+Buyer: ok",1,1,0,0,0,0,0,0,0,1,0,0
+c8pv0kwe_3,18otinv0,u1nd1eaa,18otinv0_u1nd1eaa,c8pv0kwe,3,2,3,4,1,0,0.5,1,0.5,2,726,725,demographics_app,completion_code,3,6,0.65,0.15,1,2,2,Woman,30,Completed undergraduate University/College degree,0,,3,726,725,demographics_app,completion_code,6,9,0.04,0.5,2,2,0,Man,38,"Completed advanced University/College degree (Masters, PhD...)",-50,no comments,"Buyer: Hi!
+Seller: Hello
+Seller: Since I don't want us to both end up with nothing, I don't want to lie
+Buyer: That's good to hear.
+Buyer: So, did the transfer go through?",NA,0,0,0,0,0,0,0,0,0,0,0
+c8pv0kwe_4,vxrlt1v8,rq4jn0w3,vxrlt1v8_rq4jn0w3,c8pv0kwe,4,4,6,5,0,1,0,0,1,4,207,725,App1,Wait0,1,4,0,0,1,1,0,,NA,,NA,,6,207,725,App1,Wait0,1,4,0.6,0.55,2,1,0,,NA,,NA,,,NA,0,1,1,NA,0,0,NA,0,1,0,1
+c8pv0kwe_5,kaymwuel,u1nd1eaa,kaymwuel_u1nd1eaa,c8pv0kwe,5,5,3,6,0,0,0.57,1,0.5,5,726,725,demographics_app,completion_code,2,5,0.7,0.61,1,2,1,Man,29,Completed undergraduate University/College degree,13,no comments,3,726,725,demographics_app,completion_code,6,9,0.04,0.5,2,3,1,Man,38,"Completed advanced University/College degree (Masters, PhD...)",-50,no comments,"Buyer: hi
+Seller: unable to send to transfer failed
+Buyer: Are you sure?
+Buyer: OK then.",NA,1,0,0,0,0,0,0,0,0,0,0
+c8pv0kwe_6,jjm5sgkx,18otinv0,jjm5sgkx_18otinv0,c8pv0kwe,6,1,2,7,0,0,0,0,0.5,1,726,725,demographics_app,completion_code,1,4,0.73,0.72,1,2,0,Man,45,Completed undergraduate University/College degree,-30,thank you,2,726,725,demographics_app,completion_code,3,6,0.65,0.15,2,3,0,Woman,30,Completed undergraduate University/College degree,0,,"Buyer: HI
+Seller: Hi. The $1 that I was supposed to get did not transfer
+Buyer: did you receive the transfer
+Seller: nope
+Buyer: Okay
+Seller: Transfer failed",NA,1,0,0,0,0,0,0,0,1,0,0
+c8pv0kwe_7,bzsnl3l3,u1nd1eaa,bzsnl3l3_u1nd1eaa,c8pv0kwe,7,7,3,8,1,1,0.8,0,0.85,7,726,725,demographics_app,completion_code,4,7,0.2,0.8,1,1,1,Woman,30,Completed undergraduate University/College degree,10,none,3,726,725,demographics_app,completion_code,6,9,0.04,0.5,2,4,1,Man,38,"Completed advanced University/College degree (Masters, PhD...)",-50,no comments,"Buyer: did the transfer work?
+Seller: yes
+Buyer: thanks
+Seller: it is ok",0,1,0,0,0,0,0,0,0,0,0,0
+c8pv0kwe_8,kaymwuel,8tngvpu0,kaymwuel_8tngvpu0,c8pv0kwe,8,5,9,9,0,1,0.54,0,0.2,5,726,725,demographics_app,completion_code,2,5,0.7,0.61,1,3,0,Man,29,Completed undergraduate University/College degree,13,no comments,9,726,725,demographics_app,completion_code,5,8,0.8,0.75,2,1,0,Man,52,Completed undergraduate University/College degree,-31,No,"Buyer: Hello
+Seller: transfer failed
+Buyer: are you sure
+Seller: yes conform
+Buyer: when was the last time you checked
+Seller: i am sure",NA,1,0,0,0,0,0,0,0,0,0,0
+c8pv0kwe_9,18otinv0,jjm5sgkx,18otinv0_jjm5sgkx,c8pv0kwe,9,2,1,10,0,1,0.49,0,0.75,2,726,725,demographics_app,completion_code,3,6,0.65,0.15,1,4,0,Woman,30,Completed undergraduate University/College degree,0,,1,726,725,demographics_app,completion_code,1,4,0.73,0.72,2,3,0,Man,45,Completed undergraduate University/College degree,-30,thank you,"Seller: HI
+Buyer: Did you get the the 1.00 transfer?
+Seller: No I didn't. This is the first round I've had where the transfer failed
+Buyer: That's too bad. Did you get an error message?",NA,1,0,0,0,0,0,0,1,0,0,0
+c8pv0kwe_10,rq4jn0w3,vxrlt1v8,rq4jn0w3_vxrlt1v8,c8pv0kwe,10,6,4,11,1,0,0,0,0,6,207,725,App1,Wait0,1,4,0.6,0.55,1,2,1,,NA,,NA,,4,207,725,App1,Wait0,1,4,0,0,2,2,1,,NA,,NA,,,NA,0,0,0,NA,1,1,NA,1,1,1,1
+c8pv0kwe_11,u1nd1eaa,wxxiql8h,u1nd1eaa_wxxiql8h,c8pv0kwe,11,3,8,12,0,0,0.72,1,0.63,3,726,725,demographics_app,completion_code,6,9,0.04,0.5,1,5,1,Man,38,"Completed advanced University/College degree (Masters, PhD...)",-50,no comments,8,726,725,demographics_app,completion_code,2,5,0.82,1,2,1,1,Man,30,Some University/College,34,Good game,"Buyer: hi
+Seller: The transfer failed. :(
+Buyer: There is change to fail transfer 
+Seller: I'm being honest. It really failed.
+Buyer: you are lying
+Seller: Go ahead and don't transfer. You will get nothing.",NA,1,0,0,0,0,1,0,0,0,1,0
+c8pv0kwe_12,bzsnl3l3,kaymwuel,bzsnl3l3_kaymwuel,c8pv0kwe,12,7,5,13,1,1,0.22,1,0.35,7,726,725,demographics_app,completion_code,4,7,0.2,0.8,1,2,2,Woman,30,Completed undergraduate University/College degree,10,none,5,726,725,demographics_app,completion_code,2,5,0.7,0.61,2,4,0,Man,29,Completed undergraduate University/College degree,13,no comments,,NA,0,0,0,0,0,0,0,0,0,0,0
+c8pv0kwe_13,8tngvpu0,s8yycozd,8tngvpu0_s8yycozd,c8pv0kwe,13,9,10,14,0,1,0.69,1,0.3,9,726,725,demographics_app,completion_code,5,8,0.8,0.75,1,2,1,Man,52,Completed undergraduate University/College degree,-31,No,10,327,725,App1,Wait0,4,7,0.7,0.37,2,1,1,,NA,,NA,,"Seller: Hello
+Buyer: Hello
+Buyer: Did you get the transfer?
+Seller: I did not receive the transfer
+Buyer: How much was it to be?
+Seller: 1.00
+Seller: But I for sure did not receive it",NA,1,0,0,0,0,0,NA,0,0,0,0
+c8pv0kwe_14,bzsnl3l3,18otinv0,bzsnl3l3_18otinv0,c8pv0kwe,14,7,2,15,0,1,0.78,0,1,7,726,725,demographics_app,completion_code,4,7,0.2,0.8,1,3,0,Woman,30,Completed undergraduate University/College degree,10,none,2,726,725,demographics_app,completion_code,3,6,0.65,0.15,2,5,0,Woman,30,Completed undergraduate University/College degree,0,,,NA,0,0,0,0,0,0,0,0,0,0,0
+c8pv0kwe_15,kaymwuel,jjm5sgkx,kaymwuel_jjm5sgkx,c8pv0kwe,15,5,1,16,0,0,0.58,0,0.75,5,726,725,demographics_app,completion_code,2,5,0.7,0.61,1,5,0,Man,29,Completed undergraduate University/College degree,13,no comments,1,726,725,demographics_app,completion_code,1,4,0.73,0.72,2,4,0,Man,45,Completed undergraduate University/College degree,-30,thank you,,NA,0,0,0,0,0,0,0,0,0,0,0
+c8pv0kwe_16,8tngvpu0,4lxfrtv3,8tngvpu0_4lxfrtv3,c8pv0kwe,16,9,11,17,1,0,0.6,1,0,9,726,725,demographics_app,completion_code,5,8,0.8,0.75,1,3,2,Man,52,Completed undergraduate University/College degree,-31,No,11,726,725,demographics_app,completion_code,4,7,0.78,0.24,2,1,0,Woman,40,Completed undergraduate University/College degree,0,,"Buyer: Hi.
+Seller: Hello
+Buyer: Did you get the $1.00?
+Seller: Not yet
+Buyer: Did you receive the $1.00?
+Seller: when did you send it
+Buyer: I sent it at the beginning of this study.
+Seller: I just checked and it had not yet arrived
+Buyer: Are you 100% sure you did not receive it?
+Seller: Yes I am-I do not know what the problem is
+Buyer: ok",1,1,0,0,0,0,0,0,0,0,0,0
+c8pv0kwe_17,s8yycozd,u1nd1eaa,s8yycozd_u1nd1eaa,c8pv0kwe,17,10,3,18,1,1,0,0,0.5,10,327,725,App1,Wait0,4,7,0.7,0.37,1,2,1,,NA,,NA,,3,726,725,demographics_app,completion_code,6,9,0.04,0.5,2,6,1,Man,38,"Completed advanced University/College degree (Masters, PhD...)",-50,no comments,,NA,0,0,0,NA,0,0,0,0,1,0,1
+c8pv0kwe_18,kaymwuel,bzsnl3l3,kaymwuel_bzsnl3l3,c8pv0kwe,18,5,7,19,0,0,0.58,0,0.16,5,726,725,demographics_app,completion_code,2,5,0.7,0.61,1,6,0,Man,29,Completed undergraduate University/College degree,13,no comments,7,726,725,demographics_app,completion_code,4,7,0.2,0.8,2,4,0,Woman,30,Completed undergraduate University/College degree,10,none,"Seller: transfer failed
+Buyer: no",NA,1,0,0,0,0,0,0,0,0,0,0
+c8pv0kwe_19,jjm5sgkx,wxxiql8h,jjm5sgkx_wxxiql8h,c8pv0kwe,19,1,8,20,0,1,0.35,0,0.89,1,726,725,demographics_app,completion_code,1,4,0.73,0.72,1,5,0,Man,45,Completed undergraduate University/College degree,-30,thank you,8,726,725,demographics_app,completion_code,2,5,0.82,1,2,2,0,Man,30,Some University/College,34,Good game,"Buyer: hi
+Seller: Hi. I didn't get the transfer
+Seller: Can you send the $1 fee again please?
+Buyer: I sent the fund. But I think there is some bug in your side
+Buyer: I tried my best to find the solution from my end
+Seller: My account doesn't show any transfers
+Buyer: Okay I will send the fund again
+Seller: Thanks a lot",NA,1,0,0,0,0,1,0,0,0,0,0
+c8pv0kwe_20,4lxfrtv3,8tngvpu0,4lxfrtv3_8tngvpu0,c8pv0kwe,20,11,9,21,0,0,0,0,0.64,11,726,725,demographics_app,completion_code,4,7,0.78,0.24,1,2,0,Woman,40,Completed undergraduate University/College degree,0,,9,726,725,demographics_app,completion_code,5,8,0.8,0.75,2,4,0,Man,52,Completed undergraduate University/College degree,-31,No,"Seller: Hi.
+Buyer: Hello
+Seller: I did not receive the money.
+Buyer: Are you sure
+Seller: I can assure you 100%. 
+Seller: You have my word.
+Buyer: I am sure I sent it-I will double check
+Seller: ok. I strongly believe in karma and I wouldn't deceive people.
+Buyer: Never?",NA,1,0,0,0,0,0,0,0,0,0,0
+c8pv0kwe_21,18otinv0,bzsnl3l3,18otinv0_bzsnl3l3,c8pv0kwe,21,2,7,22,1,1,0.2,0,0.26,2,726,725,demographics_app,completion_code,3,6,0.65,0.15,1,6,1,Woman,30,Completed undergraduate University/College degree,0,,7,726,725,demographics_app,completion_code,4,7,0.2,0.8,2,5,1,Woman,30,Completed undergraduate University/College degree,10,none,"Seller: Hi
+Buyer: transfer
+Seller: no it didn't
+Buyer: sucessful
+Seller: I didn't get it. I was hoping it would since its the last round
+Buyer: ok",1,1,0,0,0,0,0,0,0,0,0,0
+c8pv0kwe_22,s8yycozd,2iuobbba,s8yycozd_2iuobbba,c8pv0kwe,22,10,12,23,1,1,0,1,0,10,327,725,App1,Wait0,4,7,0.7,0.37,1,3,2,,NA,,NA,,12,726,725,demographics_app,completion_code,3,6,0.75,0.9,2,1,0,Man,49,Completed undergraduate University/College degree,30,There was an error just before the demographic page. Just wanted to make sure that my payout would be correct. $3 participation and $3 Bonus. Thank you and good luck!!,,NA,0,0,0,NA,0,0,0,0,1,0,1
+c8pv0kwe_23,8tngvpu0,bzsnl3l3,8tngvpu0_bzsnl3l3,c8pv0kwe,23,9,7,24,1,0,0.25,1,0.76,9,726,725,demographics_app,completion_code,5,8,0.8,0.75,1,5,2,Man,52,Completed undergraduate University/College degree,-31,No,7,726,725,demographics_app,completion_code,4,7,0.2,0.8,2,6,0,Woman,30,Completed undergraduate University/College degree,10,none,"Seller: Hello
+Seller: Is there anybody there?
+Buyer: hello
+Buyer: what about transfer
+Seller: Did you make the transfer yet?
+Buyer: no
+Seller: I did not receive it-are you going to transfer?",1,1,0,0,0,0,0,0,0,0,0,0
+c8pv0kwe_24,4lxfrtv3,wxxiql8h,4lxfrtv3_wxxiql8h,c8pv0kwe,24,11,8,25,0,0,0,1,0.96,11,726,725,demographics_app,completion_code,4,7,0.78,0.24,1,3,1,Woman,40,Completed undergraduate University/College degree,0,,8,726,725,demographics_app,completion_code,2,5,0.82,1,2,3,1,Man,30,Some University/College,34,Good game,"Seller: Hi
+Seller: So it looks like the transfer failed.
+Seller: Can you confirm?
+Seller: Hello?
+Buyer: No change i am transfer successful
+Seller: You received the money?
+Buyer: I will send the fund again
+Buyer: Don't worry",NA,1,0,0,0,0,1,0,0,0,0,0
+c8pv0kwe_25,8tngvpu0,jjm5sgkx,8tngvpu0_jjm5sgkx,c8pv0kwe,25,9,1,26,0,0,0.08,0,0.62,9,726,725,demographics_app,completion_code,5,8,0.8,0.75,1,6,0,Man,52,Completed undergraduate University/College degree,-31,No,1,726,725,demographics_app,completion_code,1,4,0.73,0.72,2,6,0,Man,45,Completed undergraduate University/College degree,-30,thank you,"Seller: Hello
+Buyer: did you get the transfer?
+Seller: I have not yet received the transfer-did you send it?
+Buyer: yes
+Seller: I do not know what the problem is but I for sure did not get it
+Buyer: okay. I will send again
+Seller: Thank you",NA,1,0,0,0,0,0,0,0,0,0,0
+c8pv0kwe_26,4lxfrtv3,ow8dy0p6,4lxfrtv3_ow8dy0p6,c8pv0kwe,26,11,13,27,1,1,1,1,0,11,726,725,demographics_app,completion_code,4,7,0.78,0.24,1,4,2,Woman,40,Completed undergraduate University/College degree,0,,13,726,725,demographics_app,completion_code,5,8,0.5,0.5,2,1,0,Man,26,Completed secondary school/high school,17,,"Seller: hi
+Buyer: hello
+Buyer: Did you receive the 1 dollar?
+Seller: so it looks like the amount was not transfered
+Seller: is that right?
+Buyer: hahahaha sure lol
+Seller: ok, well it says it wasn't transfered
+Buyer: stop lying
+Seller: well, it says you will incur a $2 fee if you don't send the funds
+Seller: it's your call
+Seller: your loss, not mine",1,1,0,0,0,0,0,0,0,0,0,0
+c8pv0kwe_27,2iuobbba,wxxiql8h,2iuobbba_wxxiql8h,c8pv0kwe,27,12,8,28,0,0,1,0,0.8,12,726,725,demographics_app,completion_code,3,6,0.75,0.9,1,2,0,Man,49,Completed undergraduate University/College degree,30,There was an error just before the demographic page. Just wanted to make sure that my payout would be correct. $3 participation and $3 Bonus. Thank you and good luck!!,8,726,725,demographics_app,completion_code,2,5,0.82,1,2,4,0,Man,30,Some University/College,34,Good game,"Buyer: Hi
+Seller: Thank you for your payment. I really appreciate it
+Buyer: Did you received the payment?
+Seller: I did. Thank you
+Buyer: Thanks a lot",NA,0,0,0,0,0,1,0,0,0,0,0
+c8pv0kwe_28,wxxiql8h,2iuobbba,wxxiql8h_2iuobbba,c8pv0kwe,28,8,12,29,0,0,0.76,0,1,8,726,725,demographics_app,completion_code,2,5,0.82,1,1,5,0,Man,30,Some University/College,34,Good game,12,726,725,demographics_app,completion_code,3,6,0.75,0.9,2,3,0,Man,49,Completed undergraduate University/College degree,30,There was an error just before the demographic page. Just wanted to make sure that my payout would be correct. $3 participation and $3 Bonus. Thank you and good luck!!,"Seller: Hi
+Buyer: Did you get my payment?
+Seller: Yes
+Seller: Did you received any payment?
+Buyer: I received nothing.
+Seller: Okay. Is there any issue from your side?",NA,1,0,1,0,0,0,0,0,0,0,1
+c8pv0kwe_29,ow8dy0p6,4lxfrtv3,ow8dy0p6_4lxfrtv3,c8pv0kwe,29,13,11,30,0,1,0,0,0,13,726,725,demographics_app,completion_code,5,8,0.5,0.5,1,2,0,Man,26,Completed secondary school/high school,17,,11,726,725,demographics_app,completion_code,4,7,0.78,0.24,2,5,0,Woman,40,Completed undergraduate University/College degree,0,,"Seller: hello
+Buyer: Hi did you get the money
+Seller: no the transfer didnt go thru
+Buyer: are you 100% certain
+Seller: yes
+Seller: if you dont believe me u will get 2 dollar penalty!!!
+Buyer: and I should trust you?
+Buyer: ok, because the universe knows the truth
+Buyer: you are being truthful?",NA,1,0,0,0,0,0,0,0,0,0,0
+c8pv0kwe_30,4lxfrtv3,sne9ln7n,4lxfrtv3_sne9ln7n,c8pv0kwe,30,11,14,31,0,0,0,1,0.71,11,726,725,demographics_app,completion_code,4,7,0.78,0.24,1,6,1,Woman,40,Completed undergraduate University/College degree,0,,14,726,725,demographics_app,completion_code,6,9,0.73,0.77,2,1,1,Man,28,Some University/College,24,Good and useful,"Seller: Hi. 
+Buyer: hy
+Seller: the transfer failed.
+Buyer: why ??
+Seller: I am 100% certain. 
+Seller: I would not lie, as I believe in karma and what goes around comes around
+Seller: it didn't give a reason why it failed. it just said it failed. I am being honest, as witnessed by the powers of the universe",NA,1,0,0,0,0,0,0,0,0,0,0
+c8pv0kwe_31,ow8dy0p6,wxxiql8h,ow8dy0p6_wxxiql8h,c8pv0kwe,31,13,8,32,1,1,0,1,0.77,13,726,725,demographics_app,completion_code,5,8,0.5,0.5,1,3,2,Man,26,Completed secondary school/high school,17,,8,726,725,demographics_app,completion_code,2,5,0.82,1,2,6,0,Man,30,Some University/College,34,Good game,"Buyer: Hi
+Seller: hello
+Seller: i didnt get anything...
+Buyer: How are you doing
+Seller: doing good
+Buyer: Okay I will send it again
+Seller: but i need that 1 dollar right now
+Buyer: I will send right now
+Seller: ok thank you",1,1,0,0,0,0,1,0,0,0,0,0
+c8pv0kwe_32,2iuobbba,sne9ln7n,2iuobbba_sne9ln7n,c8pv0kwe,32,12,14,33,0,1,0,1,0.83,12,726,725,demographics_app,completion_code,3,6,0.75,0.9,1,4,1,Man,49,Completed undergraduate University/College degree,30,There was an error just before the demographic page. Just wanted to make sure that my payout would be correct. $3 participation and $3 Bonus. Thank you and good luck!!,14,726,725,demographics_app,completion_code,6,9,0.73,0.77,2,2,1,Man,28,Some University/College,24,Good and useful,"Seller: I tried to send the money but something happened
+Buyer: hy
+Buyer: ok send me for purchase
+Seller: I don't know what happened
+Buyer: selling purpose
+Seller: I keep trying but it won't send
+Seller: im sorry
+Buyer: what mistake
+Buyer: ok dont worry
+Seller: It says transfer failed",NA,0,0,0,0,0,0,0,0,0,0,0
+c8pv0kwe_33,ow8dy0p6,sne9ln7n,ow8dy0p6_sne9ln7n,c8pv0kwe,33,13,14,34,1,1,0,1,0.87,13,726,725,demographics_app,completion_code,5,8,0.5,0.5,1,4,2,Man,26,Completed secondary school/high school,17,,14,726,725,demographics_app,completion_code,6,9,0.73,0.77,2,3,0,Man,28,Some University/College,24,Good and useful,"Buyer: hy
+Seller: greetings
+Buyer: good one
+Seller: can you transfer me 1$?
+Buyer: ok of course
+Buyer: I send it
+Seller: thanks
+Buyer: thanks",NA,0,0,0,0,0,0,0,0,0,0,0
+c8pv0kwe_34,sne9ln7n,2iuobbba,sne9ln7n_2iuobbba,c8pv0kwe,34,14,12,35,1,0,0.5,1,0,14,726,725,demographics_app,completion_code,6,9,0.73,0.77,1,4,2,Man,28,Some University/College,24,Good and useful,12,726,725,demographics_app,completion_code,3,6,0.75,0.9,2,5,0,Man,49,Completed undergraduate University/College degree,30,There was an error just before the demographic page. Just wanted to make sure that my payout would be correct. $3 participation and $3 Bonus. Thank you and good luck!!,"Seller: hy
+Buyer: Hi, did you receive the payment?
+Seller: yes of course
+Buyer: ok, great. Have a good day!
+Seller: of course
+Seller: 1$
+Buyer: thank you",0,1,0,0,0,0,0,0,0,0,0,0
+c8pv0kwe_35,k0u8qx68,ow8dy0p6,k0u8qx68_ow8dy0p6,c8pv0kwe,35,16,13,36,0,1,1,0,1,16,726,725,demographics_app,completion_code,7,10,0.14,0.16,1,1,0,Man,27,Completed undergraduate University/College degree,-30,na,13,726,725,demographics_app,completion_code,5,8,0.5,0.5,2,5,0,Man,26,Completed secondary school/high school,17,,"Buyer: hi
+Seller: hi
+Seller: why you have not transferred
+Seller: can you please reconsider it
+Buyer: i did
+Seller: can 
+Buyer: are you sure?",NA,1,0,0,0,0,0,0,0,0,0,0
+c8pv0kwe_36,uq5yf24q,sne9ln7n,uq5yf24q_sne9ln7n,c8pv0kwe,36,15,14,37,1,1,0.29,1,0.86,15,507,725,App1,Wait0,2,5,0.23,0.78,1,1,2,,NA,,NA,,14,726,725,demographics_app,completion_code,6,9,0.73,0.77,2,5,0,Man,28,Some University/College,24,Good and useful,"Buyer: hy
+Seller: hy
+Buyer: product value??
+Buyer: thanks",NA,0,0,0,NA,0,0,0,0,1,0,0
+c8pv0kwe_37,2iuobbba,5zic8hbu,2iuobbba_5zic8hbu,c8pv0kwe,37,12,17,38,1,0,1,1,0,12,726,725,demographics_app,completion_code,3,6,0.75,0.9,1,6,2,Man,49,Completed undergraduate University/College degree,30,There was an error just before the demographic page. Just wanted to make sure that my payout would be correct. $3 participation and $3 Bonus. Thank you and good luck!!,17,507,725,App1,Wait0,2,5,0.26,0.67,2,1,0,,NA,,NA,,,NA,0,0,0,0,0,0,NA,1,0,0,0
+c8pv0kwe_38,ow8dy0p6,k0u8qx68,ow8dy0p6_k0u8qx68,c8pv0kwe,38,13,16,39,1,0,0.74,0,1,13,726,725,demographics_app,completion_code,5,8,0.5,0.5,1,6,1,Man,26,Completed secondary school/high school,17,,16,726,725,demographics_app,completion_code,7,10,0.14,0.16,2,2,1,Man,27,Completed undergraduate University/College degree,-30,na,"Buyer: hi
+Seller: hi can you send me the money?
+Buyer: did you received the 1.00 dollar?
+Seller: i dont think so?",1,1,0,0,0,0,0,0,0,0,0,0
+c8pv0kwe_39,sne9ln7n,uq5yf24q,sne9ln7n_uq5yf24q,c8pv0kwe,39,14,15,40,1,0,0.79,1,0.51,14,726,725,demographics_app,completion_code,6,9,0.73,0.77,1,6,2,Man,28,Some University/College,24,Good and useful,15,507,725,App1,Wait0,2,5,0.23,0.78,2,2,0,,NA,,NA,,"Seller: Hy
+Seller: Anyone
+Buyer: whether u recieved the payment
+Seller: No brother
+Seller: You send me
+Buyer: please check it once again
+Buyer: please check once again",1,1,0,0,0,0,0,NA,0,0,0,0
+c8pv0kwe_40,k0u8qx68,5zic8hbu,k0u8qx68_5zic8hbu,c8pv0kwe,40,16,17,41,0,1,1,1,0.53,16,726,725,demographics_app,completion_code,7,10,0.14,0.16,1,3,1,Man,27,Completed undergraduate University/College degree,-30,na,17,507,725,App1,Wait0,2,5,0.26,0.67,2,2,1,,NA,,NA,,,NA,0,0,0,0,0,0,NA,0,0,0,0
+c8pv0kwe_41,5zic8hbu,k0u8qx68,5zic8hbu_k0u8qx68,c8pv0kwe,41,17,16,42,1,0,0.09,0,1,17,507,725,App1,Wait0,2,5,0.26,0.67,1,3,1,,NA,,NA,,16,726,725,demographics_app,completion_code,7,10,0.14,0.16,2,4,1,Man,27,Completed undergraduate University/College degree,-30,na,,NA,0,0,0,NA,0,0,0,0,0,0,0
+c8pv0kwe_42,k0u8qx68,uq5yf24q,k0u8qx68_uq5yf24q,c8pv0kwe,42,16,15,43,1,1,1,1,0.87,16,726,725,demographics_app,completion_code,7,10,0.14,0.16,1,5,2,Man,27,Completed undergraduate University/College degree,-30,na,15,507,725,App1,Wait0,2,5,0.23,0.78,2,3,0,,NA,,NA,,"Seller: hi
+Buyer: hi
+Seller: can you please send the amount?
+Buyer: already sent",NA,0,0,0,0,0,0,NA,0,0,0,0
+c8pv0kwe_43,k0u8qx68,gkfb7re2,k0u8qx68_gkfb7re2,c8pv0kwe,43,16,18,44,1,0,1,1,0.5,16,726,725,demographics_app,completion_code,7,10,0.14,0.16,1,6,2,Man,27,Completed undergraduate University/College degree,-30,na,18,519,725,App1,Wait0,0,3,0.84,0.5,2,1,0,,NA,,NA,,"Seller: hi
+Seller: can you please transfer the amount?
+Buyer: HI",NA,0,0,0,0,0,0,NA,0,0,0,0
+c8pv0kwe_44,wgt0h0eu,ov6wzi31,wgt0h0eu_ov6wzi31,c8pv0kwe,44,19,20,45,0,1,0.8,0,0.44,19,726,725,demographics_app,completion_code,6,9,0.6,0.9,1,1,0,Woman,42,Completed secondary school/high school,30,good,20,726,725,demographics_app,completion_code,4,7,0.41,0.46,2,1,0,Man,33,Completed secondary school/high school,0,,"Buyer: hi, do you receive $1 that I sent you?
+Seller: no
+Seller: Transfer failed",NA,1,0,0,0,0,0,0,0,0,0,0
+c8pv0kwe_45,ov6wzi31,wgt0h0eu,ov6wzi31_wgt0h0eu,c8pv0kwe,45,20,19,46,0,0,0.59,1,0.81,20,726,725,demographics_app,completion_code,4,7,0.41,0.46,1,2,1,Man,33,Completed secondary school/high school,0,,19,726,725,demographics_app,completion_code,6,9,0.6,0.9,2,2,1,Woman,42,Completed secondary school/high school,30,good,"Seller: hello
+Buyer: hii
+Seller: the transfer is failed
+Seller: please transfer again to avoid penalty",NA,1,0,0,0,0,0,0,0,0,0,0
+c8pv0kwe_46,okx2lrkp,ov6wzi31,okx2lrkp_ov6wzi31,c8pv0kwe,46,21,20,47,0,1,0,1,0,21,726,725,demographics_app,completion_code,6,9,0.95,0.29,1,1,1,Man,27,Completed secondary school/high school,-50,"The HIT was very close to nonfunctional, and I had to reload the pages several times. You probably have already seen it in the logs, but it was really really rough.",20,726,725,demographics_app,completion_code,4,7,0.41,0.46,2,3,1,Man,33,Completed secondary school/high school,0,,"Buyer: hii
+Seller: heyo, the transfer didnt go through
+Seller: btw are you getting lots of errors with the hit or is it just me
+Buyer: okay
+Buyer: yeah, i got errors too
+Buyer: okay i going to transfer
+Seller: ah, thats a shame... hope this works out fully cause the bonus seems nice lol
+Seller: alright, ty",NA,1,0,0,0,0,0,0,0,0,0,0
+c8pv0kwe_47,wgt0h0eu,okx2lrkp,wgt0h0eu_okx2lrkp,c8pv0kwe,47,19,21,48,1,1,0.8,1,0.5,19,726,725,demographics_app,completion_code,6,9,0.6,0.9,1,3,2,Woman,42,Completed secondary school/high school,30,good,21,726,725,demographics_app,completion_code,6,9,0.95,0.29,2,2,0,Man,27,Completed secondary school/high school,-50,"The HIT was very close to nonfunctional, and I had to reload the pages several times. You probably have already seen it in the logs, but it was really really rough.",,NA,0,0,0,0,0,0,0,0,0,0,0
+c8pv0kwe_48,ov6wzi31,okx2lrkp,ov6wzi31_okx2lrkp,c8pv0kwe,48,20,21,49,0,0,1,1,0.1,20,726,725,demographics_app,completion_code,4,7,0.41,0.46,1,4,1,Man,33,Completed secondary school/high school,0,,21,726,725,demographics_app,completion_code,6,9,0.95,0.29,2,3,1,Man,27,Completed secondary school/high school,-50,"The HIT was very close to nonfunctional, and I had to reload the pages several times. You probably have already seen it in the logs, but it was really really rough.","Seller: helo. The automatic initial transfer failed.
+Buyer: ok cool, ill send you the money then
+Seller: ok thanks
+Buyer: good luck completing this HIT as well lol, it's so busted
+Buyer: ill pray for our success",NA,1,0,0,0,0,0,0,0,0,0,0
+c8pv0kwe_49,okx2lrkp,wgt0h0eu,okx2lrkp_wgt0h0eu,c8pv0kwe,49,21,19,50,0,1,0.5,1,0.85,21,726,725,demographics_app,completion_code,6,9,0.95,0.29,1,4,1,Man,27,Completed secondary school/high school,-50,"The HIT was very close to nonfunctional, and I had to reload the pages several times. You probably have already seen it in the logs, but it was really really rough.",19,726,725,demographics_app,completion_code,6,9,0.6,0.9,2,4,1,Woman,42,Completed secondary school/high school,30,good,"Seller: hello, the transfer failed on this one
+Buyer: hii
+Seller: hoping youre having a luckier time than me with the hit lol, though it seems to be stabilizing now",NA,1,0,0,0,0,0,0,0,0,0,0
+c8pv0kwe_50,plrpsu8n,ov6wzi31,plrpsu8n_ov6wzi31,c8pv0kwe,50,22,20,51,1,1,0.98,1,0,22,711,725,App1,Wait0,8,11,0.7,0.58,1,1,2,,NA,,NA,,20,726,725,demographics_app,completion_code,4,7,0.41,0.46,2,5,0,Man,33,Completed secondary school/high school,0,,"Buyer: hi
+Seller: Hi! Thank you so much for your purchase!
+Buyer: should i transfer or not?
+Buyer: the transaction successful?
+Seller: Unfortunatley your transfer didn't go through, would you please try again?
+Buyer: haha okay
+Buyer: i will transfer again
+Seller: Sorry for the trouble
+Seller: thank you!",1,1,0,0,NA,0,0,0,0,0,0,0
+c8pv0kwe_51,rkzt42b9,okx2lrkp,rkzt42b9_okx2lrkp,c8pv0kwe,51,23,21,52,1,0,0.74,0,1,23,726,725,demographics_app,completion_code,2,5,0.12,0.08,1,1,1,Man,61,"Completed advanced University/College degree (Masters, PhD...)",32,nice,21,726,725,demographics_app,completion_code,6,9,0.95,0.29,2,5,1,Man,27,Completed secondary school/high school,-50,"The HIT was very close to nonfunctional, and I had to reload the pages several times. You probably have already seen it in the logs, but it was really really rough.","Buyer: heyo, howd it go
+Seller: HII
+Seller: NICE
+Buyer: lol cool, so you got the money?
+Seller: YES
+Buyer: excellent, ty :)
+Seller: lol cool, so you got the money
+Seller: HLO",0,1,0,0,0,0,0,0,0,0,0,0
+c8pv0kwe_52,plrpsu8n,wgt0h0eu,plrpsu8n_wgt0h0eu,c8pv0kwe,52,22,19,53,1,0,0.33,1,0.85,22,711,725,App1,Wait0,8,11,0.7,0.58,1,2,2,,NA,,NA,,19,726,725,demographics_app,completion_code,6,9,0.6,0.9,2,5,0,Woman,42,Completed secondary school/high school,30,good,"Seller: Hi!
+Buyer: hii
+Seller: Thanks for your purchase! Unfortunatley there was an error and the transfer didn't go through, would you be able to try it again?
+Seller: Are you still there?",1,1,0,0,NA,0,0,0,0,0,0,0
+c8pv0kwe_53,okx2lrkp,rkzt42b9,okx2lrkp_rkzt42b9,c8pv0kwe,53,21,23,54,1,0,1,1,0,21,726,725,demographics_app,completion_code,6,9,0.95,0.29,1,6,2,Man,27,Completed secondary school/high school,-50,"The HIT was very close to nonfunctional, and I had to reload the pages several times. You probably have already seen it in the logs, but it was really really rough.",23,726,725,demographics_app,completion_code,2,5,0.12,0.08,2,2,0,Man,61,"Completed advanced University/College degree (Masters, PhD...)",32,nice,"Seller: hi! the transfer was successful :)
+Buyer: yes
+Buyer: hi
+Buyer: the transfer was successful
+Buyer: hlo",0,1,0,0,0,0,0,0,0,0,0,0
+c8pv0kwe_54,ov6wzi31,plrpsu8n,ov6wzi31_plrpsu8n,c8pv0kwe,54,20,22,55,1,1,1,0,0.73,20,726,725,demographics_app,completion_code,4,7,0.41,0.46,1,6,1,Man,33,Completed secondary school/high school,0,,22,711,725,App1,Wait0,8,11,0.7,0.58,2,3,1,,NA,,NA,,"Buyer: Hello!
+Seller: hello. The automatic initial transfer succeeded!
+Buyer: Awesome!",0,1,0,0,0,0,0,NA,0,0,0,0
+c8pv0kwe_55,wgt0h0eu,ueolgd90,wgt0h0eu_ueolgd90,c8pv0kwe,55,19,24,56,1,1,0.8,1,0,19,726,725,demographics_app,completion_code,6,9,0.6,0.9,1,6,2,Woman,42,Completed secondary school/high school,30,good,24,726,725,demographics_app,completion_code,2,5,0.1,0.65,2,1,0,Man,50,Completed secondary school/high school,10,None,"Buyer: did u send my $?
+Seller: hii
+Seller: yes
+Buyer: are you lying?
+Seller: no
+Buyer: pinky swear?
+Seller: ok. wait i will send it
+Buyer: did you really?",NA,0,0,0,0,0,0,NA,0,1,0,0
+c8pv0kwe_56,rkzt42b9,plrpsu8n,rkzt42b9_plrpsu8n,c8pv0kwe,56,23,22,57,1,1,0.56,0,0.24,23,726,725,demographics_app,completion_code,2,5,0.12,0.08,1,3,1,Man,61,"Completed advanced University/College degree (Masters, PhD...)",32,nice,22,711,725,App1,Wait0,8,11,0.7,0.58,2,4,1,,NA,,NA,,"Seller: hii
+Buyer: hi!
+Buyer: Did the transfer go through?
+Seller: you know bonus
+Seller: yes",0,1,0,0,0,0,0,NA,0,0,0,0
+c8pv0kwe_57,ueolgd90,g6vm1daw,ueolgd90_g6vm1daw,c8pv0kwe,57,24,25,58,0,0,0.5,1,0.45,24,726,725,demographics_app,completion_code,2,5,0.1,0.65,1,2,1,Man,50,Completed secondary school/high school,10,None,25,726,725,demographics_app,completion_code,2,5,0.8,0.4,2,1,1,Woman,28,Some University/College,-16,Fun!,"Buyer: Hey there, did you receive the dollar?
+Seller: no it did nt
+Buyer: Okay
+Seller: did you really send it?
+Seller: do I need to send my associate to have a discussion with you?
+Seller: where's my money, dude",NA,1,0,0,NA,0,0,0,0,0,0,0
+c8pv0kwe_58,plrpsu8n,rkzt42b9,plrpsu8n_rkzt42b9,c8pv0kwe,58,22,23,59,1,0,0.95,1,0.85,22,711,725,App1,Wait0,8,11,0.7,0.58,1,5,2,,NA,,NA,,23,726,725,demographics_app,completion_code,2,5,0.12,0.08,2,4,0,Man,61,"Completed advanced University/College degree (Masters, PhD...)",32,nice,"Seller: Hello!
+Buyer: hi
+Seller: Thanks for your purchase, The transfer didn't go though, could you try again?
+Buyer: yes
+Seller: Thank you!
+Buyer: mm well come",1,1,0,0,NA,0,0,0,0,0,0,0
+c8pv0kwe_59,g6vm1daw,ueolgd90,g6vm1daw_ueolgd90,c8pv0kwe,59,25,24,60,1,1,0,0,0.5,25,726,725,demographics_app,completion_code,2,5,0.8,0.4,1,2,1,Woman,28,Some University/College,-16,Fun!,24,726,725,demographics_app,completion_code,2,5,0.1,0.65,2,3,1,Man,50,Completed secondary school/high school,10,None,"Buyer: did you get your money?
+Seller: Nope, the 1 dollar transfer that was supposed to happen was not successful
+Buyer: I don't know what happened. let me get my boss on it
+Buyer: how about now?
+Buyer: you lying to me?",1,1,0,0,0,0,0,NA,0,0,0,0
+c8pv0kwe_60,rkzt42b9,ueolgd90,rkzt42b9_ueolgd90,c8pv0kwe,60,23,24,61,0,0,0.91,0,1,23,726,725,demographics_app,completion_code,2,5,0.12,0.08,1,5,0,Man,61,"Completed advanced University/College degree (Masters, PhD...)",32,nice,24,726,725,demographics_app,completion_code,2,5,0.1,0.65,2,4,0,Man,50,Completed secondary school/high school,10,None,"Buyer: Did you get your cash?
+Seller: hi
+Seller: yes
+Buyer: awesome
+Buyer: so how's it going?
+Seller: nice
+Buyer: cool
+Seller: i don't know
+Seller: cool",NA,0,0,0,0,0,0,NA,0,0,0,0
+er74u2tp_1,sxsop3u1,p53oyrys,sxsop3u1_p53oyrys,er74u2tp,1,2,1,2,0,1,0.5,1,0.66,2,726,725,demographics_app,completion_code,5,8,0.8,0.83,1,1,1,Man,52,Completed undergraduate University/College degree,-35,,1,726,725,demographics_app,completion_code,4,7,0.63,0.61,2,1,1,Man,30,Completed undergraduate University/College degree,15,Good,,NA,0,0,0,0,0,0,0,0,0,0,0
+er74u2tp_2,55akdiw8,427hhu6h,55akdiw8_427hhu6h,er74u2tp,2,4,3,3,0,1,0.5,1,0.05,4,726,725,demographics_app,completion_code,5,8,0.78,0.83,1,1,1,Man,40,Some University/College,40,Interesting,3,726,725,demographics_app,completion_code,5,8,0.05,0.2,2,1,1,Man,44,"Completed advanced University/College degree (Masters, PhD...)",0,No responses from the partner in two rounds. How can you use the data? The partner is a real man?,"Buyer: Hello, did you receive the service fee?
+Seller: hi
+Buyer: would you please confirm that?
+Seller: Are you want buy my product
+Buyer: absolutely
+Buyer: you should have been told that whether you have received the fee
+Seller: it new brand smart Tv
+Buyer: sounds good
+Buyer: did you recieve your transfer of $1?
+Seller: The transfer failed, you need to send it to me again
+Seller: if you don't , we both get penalized
+Seller: I highly recommend you resend",NA,0,0,0,0,0,0,0,0,0,0,0
+er74u2tp_3,76hhdjq5,mhr2hcmv,76hhdjq5_mhr2hcmv,er74u2tp,3,5,6,4,1,1,0.28,0,0.35,5,726,725,demographics_app,completion_code,7,10,1,1,1,1,1,Man,35,Completed undergraduate University/College degree,50,,6,726,725,demographics_app,completion_code,6,9,0.2,0.3,2,1,1,Woman,47,Completed undergraduate University/College degree,0,None,,NA,0,0,0,0,0,0,0,0,0,0,0
+er74u2tp_4,1o8dzl71,p53oyrys,1o8dzl71_p53oyrys,er74u2tp,4,7,1,5,0,0,0.5,0,0.5,7,726,725,demographics_app,completion_code,4,7,0.86,0.63,1,1,0,Man,53,Completed undergraduate University/College degree,50,nice,1,726,725,demographics_app,completion_code,4,7,0.63,0.61,2,2,0,Man,30,Completed undergraduate University/College degree,15,Good,,NA,0,0,0,0,0,0,0,0,1,0,0
+er74u2tp_5,sxsop3u1,55akdiw8,sxsop3u1_55akdiw8,er74u2tp,5,2,4,6,0,0,0.16,1,0.5,2,726,725,demographics_app,completion_code,5,8,0.8,0.83,1,2,1,Man,52,Completed undergraduate University/College degree,-35,,4,726,725,demographics_app,completion_code,5,8,0.78,0.83,2,2,1,Man,40,Some University/College,40,Interesting,"Seller: HELLO
+Buyer: hii
+Seller: I DID NOT GET THE TRANSFER
+Buyer: did you transfer money
+Buyer: 50/50
+Seller: NO=PLEASE SEND IT ASAP
+Buyer: okay please do it
+Seller: DID YOU SEND IT
+Seller: PLEASE SEND THE MONEY
+Buyer: i want initial payment before the sales
+Seller: I AM THE SELLER-I NEED THE PAYMENT
+Buyer: did you get it?
+Seller: my transfer hasn't gone through
+Buyer: how do I know you aren't lying
+Seller: no idea, but i really didn't get anything
+Seller: do what you wish 
+Buyer: alright, i'll resend it",NA,1,0,0,0,0,0,0,0,0,0,0
+er74u2tp_6,1uwr5boj,mhr2hcmv,1uwr5boj_mhr2hcmv,er74u2tp,6,9,6,7,0,1,0.75,0,0.2,9,726,725,demographics_app,completion_code,4,7,0.64,0.85,1,1,0,Man,28,Some University/College,15,NONE,6,726,725,demographics_app,completion_code,6,9,0.2,0.3,2,2,0,Woman,47,Completed undergraduate University/College degree,0,None,,NA,0,0,0,0,0,0,0,0,0,0,0
+er74u2tp_7,427hhu6h,76hhdjq5,427hhu6h_76hhdjq5,er74u2tp,7,3,5,8,1,1,0.75,0,0.12,3,726,725,demographics_app,completion_code,5,8,0.05,0.2,1,2,1,Man,44,"Completed advanced University/College degree (Masters, PhD...)",0,No responses from the partner in two rounds. How can you use the data? The partner is a real man?,5,726,725,demographics_app,completion_code,7,10,1,1,2,2,1,Man,35,Completed undergraduate University/College degree,50,,"Buyer: Hi
+Seller: hello
+Seller: anything you want to talk with me?
+Seller: how's going?",NA,0,0,0,0,0,0,0,0,0,0,0
+er74u2tp_8,mhr2hcmv,p53oyrys,mhr2hcmv_p53oyrys,er74u2tp,8,6,1,9,1,0,0.25,1,0.5,6,726,725,demographics_app,completion_code,6,9,0.2,0.3,1,3,2,Woman,47,Completed undergraduate University/College degree,0,None,1,726,725,demographics_app,completion_code,4,7,0.63,0.61,2,3,0,Man,30,Completed undergraduate University/College degree,15,Good,"Seller: Hello
+Buyer: hello
+Seller: I didn't get a transfer, can you please send me the $1",1,1,0,0,0,0,0,0,0,0,0,0
+er74u2tp_9,1o8dzl71,1uwr5boj,1o8dzl71_1uwr5boj,er74u2tp,9,7,9,10,0,0,0.71,1,0.58,7,726,725,demographics_app,completion_code,4,7,0.86,0.63,1,2,1,Man,53,Completed undergraduate University/College degree,50,nice,9,726,725,demographics_app,completion_code,4,7,0.64,0.85,2,2,1,Man,28,Some University/College,15,NONE,,NA,0,0,0,0,0,0,0,0,1,0,0
+er74u2tp_10,8l6d6b6c,sxsop3u1,8l6d6b6c_sxsop3u1,er74u2tp,10,10,2,11,1,0,1,0,0.74,10,726,725,demographics_app,completion_code,4,7,0.24,0.36,1,1,1,Woman,39,Completed undergraduate University/College degree,50,Thank you,2,726,725,demographics_app,completion_code,5,8,0.8,0.83,2,3,1,Man,52,Completed undergraduate University/College degree,-35,,"Buyer: HELLO
+Seller: hey, did you get your transfer?
+Buyer: DID YOU RECEIVE THE MONEY?
+Seller: I'm not aware that I received the amount
+Buyer: DID YOU CHECK?
+Seller: ah, there it is finally
+Seller: lag lag lag
+Buyer: APPARENETLY
+Seller: thank you",0,1,0,0,0,0,0,0,0,0,0,0
+er74u2tp_11,76hhdjq5,55akdiw8,76hhdjq5_55akdiw8,er74u2tp,11,5,4,12,1,0,0.2,1,1,5,726,725,demographics_app,completion_code,7,10,1,1,1,3,2,Man,35,Completed undergraduate University/College degree,50,,4,726,725,demographics_app,completion_code,5,8,0.78,0.83,2,3,0,Man,40,Some University/College,40,Interesting,"Seller: Hello
+Buyer: hi
+Buyer:  transfer was NOT successful
+Buyer: Send money ASAP
+Seller: Yes may be
+Buyer: Why can't you send the money
+Buyer: If any any problem with you",1,1,0,0,0,0,0,0,0,0,0,0
+er74u2tp_12,6pnmneqy,427hhu6h,6pnmneqy_427hhu6h,er74u2tp,12,12,3,13,1,0,0.85,0,0.85,12,726,725,demographics_app,completion_code,5,8,0.3,0.25,1,1,1,Man,38,"Completed advanced University/College degree (Masters, PhD...)",-50,,3,726,725,demographics_app,completion_code,5,8,0.05,0.2,2,3,1,Man,44,"Completed advanced University/College degree (Masters, PhD...)",0,No responses from the partner in two rounds. How can you use the data? The partner is a real man?,"Buyer: hi, how are you going？
+Seller: Hi, the transfer did not succeed.
+Buyer: are you sure？
+Seller: That's what it says.
+Buyer: OK，got it. I will transfer",1,1,0,0,0,0,0,0,0,0,0,0
+er74u2tp_13,2xjxv7ai,78tl0v4h,2xjxv7ai_78tl0v4h,er74u2tp,13,11,8,14,0,0,0,0,0,11,500,725,App1,Seller_chat_page,1,4,0.86,0.92,1,1,0,,NA,,NA,,8,495,725,App1,Wait0,0,3,0,0,2,1,0,,NA,,NA,,,NA,0,0,0,NA,1,1,NA,1,0,1,1
+er74u2tp_14,1uwr5boj,1o8dzl71,1uwr5boj_1o8dzl71,er74u2tp,14,9,7,15,0,0,0.72,1,0.82,9,726,725,demographics_app,completion_code,4,7,0.64,0.85,1,3,1,Man,28,Some University/College,15,NONE,7,726,725,demographics_app,completion_code,4,7,0.86,0.63,2,3,1,Man,53,Completed undergraduate University/College degree,50,nice,,NA,0,0,0,0,0,0,0,0,0,0,0
+er74u2tp_15,p53oyrys,mhr2hcmv,p53oyrys_mhr2hcmv,er74u2tp,15,1,6,16,1,0,0.64,0,0.65,1,726,725,demographics_app,completion_code,4,7,0.63,0.61,1,4,1,Man,30,Completed undergraduate University/College degree,15,Good,6,726,725,demographics_app,completion_code,6,9,0.2,0.3,2,4,1,Woman,47,Completed undergraduate University/College degree,0,None,"Buyer: Hi there
+Seller: Hi
+Buyer: Did you get the transfer?",NA,0,0,0,0,0,0,0,0,0,0,0
+er74u2tp_16,427hhu6h,6pnmneqy,427hhu6h_6pnmneqy,er74u2tp,16,3,12,17,1,0,0.8,0,0.9,3,726,725,demographics_app,completion_code,5,8,0.05,0.2,1,4,1,Man,44,"Completed advanced University/College degree (Masters, PhD...)",0,No responses from the partner in two rounds. How can you use the data? The partner is a real man?,12,726,725,demographics_app,completion_code,5,8,0.3,0.25,2,2,1,Man,38,"Completed advanced University/College degree (Masters, PhD...)",-50,,"Seller: hello，how are you going？
+Buyer: i'm ok. did the transfer succeed?
+Seller: Yes. I am pretty sure that the transfer succeeded.
+Buyer: how do you know?
+Seller: A statement on the screen.
+Buyer: ok thanks!",0,1,0,0,0,0,0,0,0,0,0,0
+er74u2tp_17,55akdiw8,76hhdjq5,55akdiw8_76hhdjq5,er74u2tp,17,4,5,18,1,1,1,1,1,4,726,725,demographics_app,completion_code,5,8,0.78,0.83,1,4,2,Man,40,Some University/College,40,Interesting,5,726,725,demographics_app,completion_code,7,10,1,1,2,4,0,Man,35,Completed undergraduate University/College degree,50,,"Buyer: Hello
+Seller: hi
+Seller:  transfer was initiated successful
+Seller: thank you ",0,1,0,0,0,0,0,0,0,0,0,0
+er74u2tp_18,sxsop3u1,8l6d6b6c,sxsop3u1_8l6d6b6c,er74u2tp,18,2,10,19,0,0,0.21,1,0.17,2,726,725,demographics_app,completion_code,5,8,0.8,0.83,1,4,1,Man,52,Completed undergraduate University/College degree,-35,,10,726,725,demographics_app,completion_code,4,7,0.24,0.36,2,2,1,Woman,39,Completed undergraduate University/College degree,50,Thank you,"Buyer: hello
+Seller: HELLO
+Seller: HELLO
+Seller: DID YOU SEND THE TRANSFER?
+Buyer: did you receive your money?
+Buyer: yes
+Seller: I ABSOLUTELY DID NOT RECEIVE IT
+Buyer: wow, I am sure it was sent
+Seller: MAYBE THERE WAS AN ERROR BUT I DID NOT GET IT
+Seller: MAYBE YOU COULD DOUBLE CHECK?",NA,1,0,0,0,0,0,0,0,0,0,0
+er74u2tp_19,wwku5rdu,p53oyrys,wwku5rdu_p53oyrys,er74u2tp,19,13,1,20,1,1,0.86,0,0.5,13,726,725,demographics_app,completion_code,6,9,0.67,0.78,1,1,1,Man,43,Completed undergraduate University/College degree,25,good,1,726,725,demographics_app,completion_code,4,7,0.63,0.61,2,5,1,Man,30,Completed undergraduate University/College degree,15,Good,"Buyer: Hi
+Seller: ok
+Seller: hai what you want?",NA,0,0,0,0,0,0,0,0,0,0,0
+er74u2tp_20,mhr2hcmv,55akdiw8,mhr2hcmv_55akdiw8,er74u2tp,20,6,4,21,1,0,0.7,1,1,6,726,725,demographics_app,completion_code,6,9,0.2,0.3,1,5,2,Woman,47,Completed undergraduate University/College degree,0,None,4,726,725,demographics_app,completion_code,5,8,0.78,0.83,2,5,0,Man,40,Some University/College,40,Interesting,"Seller: Hi
+Buyer: hello
+Buyer:  transfer was initiated successfully
+Seller: Can you transfer the $1? I didn't get it, please.
+Seller: I didn't get it, please send it again thanks",1,1,0,0,0,0,0,0,0,0,0,0
+er74u2tp_21,1o8dzl71,76hhdjq5,1o8dzl71_76hhdjq5,er74u2tp,21,7,5,22,1,1,0.73,0,0.16,7,726,725,demographics_app,completion_code,4,7,0.86,0.63,1,4,1,Man,53,Completed undergraduate University/College degree,50,nice,5,726,725,demographics_app,completion_code,7,10,1,1,2,5,1,Man,35,Completed undergraduate University/College degree,50,,,NA,0,0,0,0,0,0,0,0,0,0,0
+er74u2tp_22,1uwr5boj,427hhu6h,1uwr5boj_427hhu6h,er74u2tp,22,9,3,23,0,1,0.76,0,0.75,9,726,725,demographics_app,completion_code,4,7,0.64,0.85,1,4,0,Man,28,Some University/College,15,NONE,3,726,725,demographics_app,completion_code,5,8,0.05,0.2,2,5,0,Man,44,"Completed advanced University/College degree (Masters, PhD...)",0,No responses from the partner in two rounds. How can you use the data? The partner is a real man?,,NA,0,0,0,0,0,0,0,0,0,0,0
+er74u2tp_23,6pnmneqy,wwku5rdu,6pnmneqy_wwku5rdu,er74u2tp,23,12,13,24,0,1,0.5,1,0.69,12,726,725,demographics_app,completion_code,5,8,0.3,0.25,1,3,1,Man,38,"Completed advanced University/College degree (Masters, PhD...)",-50,,13,726,725,demographics_app,completion_code,6,9,0.67,0.78,2,2,1,Man,43,Completed undergraduate University/College degree,25,good,,NA,0,0,0,0,0,0,0,0,0,0,0
+er74u2tp_24,p53oyrys,3zksv47r,p53oyrys_3zksv47r,er74u2tp,24,1,14,25,1,0,0.5,0,0.55,1,726,725,demographics_app,completion_code,4,7,0.63,0.61,1,6,1,Man,30,Completed undergraduate University/College degree,15,Good,14,726,725,demographics_app,completion_code,4,7,0.46,0.49,2,1,1,Man,48,Some University/College,-30,No comments,"Buyer: hello
+Seller: Hi
+Buyer: did you get the $1?
+Buyer: Did it come through?",NA,0,0,0,0,0,0,0,0,0,0,0
+er74u2tp_25,sxsop3u1,mhr2hcmv,sxsop3u1_mhr2hcmv,er74u2tp,25,2,6,26,0,1,0.5,0,0.8,2,726,725,demographics_app,completion_code,5,8,0.8,0.83,1,5,0,Man,52,Completed undergraduate University/College degree,-35,,6,726,725,demographics_app,completion_code,6,9,0.2,0.3,2,6,0,Woman,47,Completed undergraduate University/College degree,0,None,"Seller: HELLO
+Buyer: Hi there
+Buyer: You should have received the #1
+Seller: DID YOU SEND THE MONEY
+Buyer: Yes, sent it
+Seller: HAVE FOR SURE NOT RECEIVED IT
+Buyer: Are you sure?
+Seller: MAYBE THERE WAS SOME  KIND OF ERROR COULD YOU DOUBLE CHECK?
+Buyer: I can double check, but I know it was successfully sent so you should have it
+Seller: I CAN TELL YOU UNEQUIVOCABLY i DID NOT GET IT",NA,1,0,0,0,0,0,0,0,0,0,0
+er74u2tp_26,8l6d6b6c,78tl0v4h,8l6d6b6c_78tl0v4h,er74u2tp,26,10,8,27,0,1,0,0,0,10,726,725,demographics_app,completion_code,4,7,0.24,0.36,1,3,0,Woman,39,Completed undergraduate University/College degree,50,Thank you,8,495,725,App1,Wait0,0,3,0,0,2,2,0,,NA,,NA,,,NA,0,0,0,0,1,1,NA,1,0,1,0
+er74u2tp_27,2xjxv7ai,55akdiw8,2xjxv7ai_55akdiw8,er74u2tp,27,11,4,28,1,0,0,0,1,11,500,725,App1,Seller_chat_page,1,4,0.86,0.92,1,2,1,,NA,,NA,,4,726,725,demographics_app,completion_code,5,8,0.78,0.83,2,6,1,Man,40,Some University/College,40,Interesting,,NA,0,0,0,NA,0,0,0,0,1,0,1
+er74u2tp_28,76hhdjq5,1o8dzl71,76hhdjq5_1o8dzl71,er74u2tp,28,5,7,29,1,0,0.01,1,1,5,726,725,demographics_app,completion_code,7,10,1,1,1,6,2,Man,35,Completed undergraduate University/College degree,50,,7,726,725,demographics_app,completion_code,4,7,0.86,0.63,2,5,0,Man,53,Completed undergraduate University/College degree,50,nice,,NA,0,0,0,0,0,0,0,0,0,0,0
+er74u2tp_29,1uwr5boj,6pnmneqy,1uwr5boj_6pnmneqy,er74u2tp,29,9,12,30,1,0,0.5,1,0.27,9,726,725,demographics_app,completion_code,4,7,0.64,0.85,1,5,2,Man,28,Some University/College,15,NONE,12,726,725,demographics_app,completion_code,5,8,0.3,0.25,2,4,0,Man,38,"Completed advanced University/College degree (Masters, PhD...)",-50,,,NA,0,0,0,0,0,0,0,0,0,0,0
+er74u2tp_30,wwku5rdu,427hhu6h,wwku5rdu_427hhu6h,er74u2tp,30,13,3,31,1,1,0.87,0,0.25,13,726,725,demographics_app,completion_code,6,9,0.67,0.78,1,3,1,Man,43,Completed undergraduate University/College degree,25,good,3,726,725,demographics_app,completion_code,5,8,0.05,0.2,2,6,1,Man,44,"Completed advanced University/College degree (Masters, PhD...)",0,No responses from the partner in two rounds. How can you use the data? The partner is a real man?,,NA,0,0,0,0,0,0,0,0,0,0,0
+er74u2tp_31,brnm6twc,3zksv47r,brnm6twc_3zksv47r,er74u2tp,31,15,14,32,0,0,0.76,0,0.6,15,505,725,App1,Wait3,2,5,0.72,0.95,1,1,0,,NA,,NA,,14,726,725,demographics_app,completion_code,4,7,0.46,0.49,2,2,0,Man,48,Some University/College,-30,No comments,"Buyer: Hi
+Seller: hi]
+Buyer: Did you get the $1?
+Seller: no
+Seller: unfortunately 
+Seller: but that's how things are 
+Buyer: Did you get it in the last round?
+Seller: of course not
+Buyer: that's ashame
+Buyer: that's ashame
+Seller: obviously ",NA,1,0,0,NA,0,0,0,0,0,0,0
+er74u2tp_32,6pnmneqy,sxsop3u1,6pnmneqy_sxsop3u1,er74u2tp,32,12,2,33,1,1,0.94,0,0.66,12,726,725,demographics_app,completion_code,5,8,0.3,0.25,1,5,1,Man,38,"Completed advanced University/College degree (Masters, PhD...)",-50,,2,726,725,demographics_app,completion_code,5,8,0.8,0.83,2,6,1,Man,52,Completed undergraduate University/College degree,-35,,"Buyer: HELLO
+Seller: hi!
+Buyer: DID YOU GET THE TRANSFER?
+Seller: The transfer succeeded! No need to send anything extra.
+Buyer: EXCELLENT GLAD TO HEAR IT",0,1,0,0,0,0,0,0,0,0,0,0
+er74u2tp_33,brnm6twc,1o8dzl71,brnm6twc_1o8dzl71,er74u2tp,33,15,7,34,0,0,0.81,1,1,15,505,725,App1,Wait3,2,5,0.72,0.95,1,2,1,,NA,,NA,,7,726,725,demographics_app,completion_code,4,7,0.86,0.63,2,6,1,Man,53,Completed undergraduate University/College degree,50,nice,"Buyer: i like seller first thanks to buy goods for me 
+Seller: didn't get it either
+Seller: pretty underpaid
+Buyer: any amount received you
+Seller: none lol
+Buyer: how much amount 
+Seller: 0
+Seller: horrible
+Buyer: you need ",NA,0,0,0,NA,0,0,0,0,0,0,0
+er74u2tp_34,3zksv47r,1uwr5boj,3zksv47r_1uwr5boj,er74u2tp,34,14,9,35,1,0,0.51,1,0.71,14,726,725,demographics_app,completion_code,4,7,0.46,0.49,1,3,2,Man,48,Some University/College,-30,No comments,9,726,725,demographics_app,completion_code,4,7,0.64,0.85,2,6,0,Man,28,Some University/College,15,NONE,,NA,0,0,0,0,0,0,0,0,0,0,0
+er74u2tp_35,8l6d6b6c,wwku5rdu,8l6d6b6c_wwku5rdu,er74u2tp,35,10,13,36,0,0,0,1,0.73,10,726,725,demographics_app,completion_code,4,7,0.24,0.36,1,4,1,Woman,39,Completed undergraduate University/College degree,50,Thank you,13,726,725,demographics_app,completion_code,6,9,0.67,0.78,2,4,1,Man,43,Completed undergraduate University/College degree,25,good,,NA,0,0,0,0,0,0,0,0,0,0,0
+er74u2tp_36,78tl0v4h,2xjxv7ai,78tl0v4h_2xjxv7ai,er74u2tp,36,8,11,37,0,0,0,0,0,8,495,725,App1,Wait0,0,3,0,0,1,3,0,,NA,,NA,,11,500,725,App1,Seller_chat_page,1,4,0.86,0.92,2,3,0,,NA,,NA,,,NA,0,1,1,NA,0,0,NA,1,1,1,1
+er74u2tp_37,6pnmneqy,8l6d6b6c,6pnmneqy_8l6d6b6c,er74u2tp,37,12,10,38,0,0,0.24,1,0,12,726,725,demographics_app,completion_code,5,8,0.3,0.25,1,6,1,Man,38,"Completed advanced University/College degree (Masters, PhD...)",-50,,10,726,725,demographics_app,completion_code,4,7,0.24,0.36,2,5,1,Woman,39,Completed undergraduate University/College degree,50,Thank you,"Buyer: hello
+Seller: the transfer failed
+Buyer: ok, i'll send it again
+Seller: thanks",NA,1,0,0,0,0,0,0,0,0,0,0
+er74u2tp_38,wwku5rdu,8l6d6b6c,wwku5rdu_8l6d6b6c,er74u2tp,38,13,10,39,1,0,0.86,1,0.24,13,726,725,demographics_app,completion_code,6,9,0.67,0.78,1,5,2,Man,43,Completed undergraduate University/College degree,25,good,10,726,725,demographics_app,completion_code,4,7,0.24,0.36,2,6,0,Woman,39,Completed undergraduate University/College degree,50,Thank you,,NA,0,0,0,0,0,0,0,0,0,0,0
+er74u2tp_39,3zksv47r,brnm6twc,3zksv47r_brnm6twc,er74u2tp,39,14,15,40,0,1,0.35,1,1,14,726,725,demographics_app,completion_code,4,7,0.46,0.49,1,4,1,Man,48,Some University/College,-30,No comments,15,505,725,App1,Wait3,2,5,0.72,0.95,2,3,1,,NA,,NA,,"Seller: hello
+Buyer: did you get it
+Seller: no, it says ""Transfer failed""
+Seller: I'm not lying or a bot
+Buyer: me too
+Buyer: excessively long
+Buyer: and horrible too
+Seller: Please send the transfer or neither of us will get anything.
+Seller: Yes, it is taking a long time per screen.
+Buyer: ok
+Buyer: will do
+Seller: how have you been doing so far in the task?
+Buyer: okay I suppose
+Buyer: how about you
+Buyer: do you like it?
+Seller: ok so far. Just taking a while per screen.
+Buyer: yea I'm really poor",NA,1,0,0,0,0,0,NA,0,0,0,0
+er74u2tp_40,wwku5rdu,3zksv47r,wwku5rdu_3zksv47r,er74u2tp,40,13,14,41,0,0,0.83,0,0.79,13,726,725,demographics_app,completion_code,6,9,0.67,0.78,1,6,0,Man,43,Completed undergraduate University/College degree,25,good,14,726,725,demographics_app,completion_code,4,7,0.46,0.49,2,5,0,Man,48,Some University/College,-30,No comments,"Buyer: hello
+Seller: hello0
+Buyer: did it come through?
+Seller:  yes but small late 
+Buyer: So the transfer was successful?
+Seller:  ye it was sucessful
+Buyer: ok",NA,1,0,0,0,0,0,0,0,0,0,0
+er74u2tp_41,brnm6twc,2xjxv7ai,brnm6twc_2xjxv7ai,er74u2tp,41,15,11,42,0,0,0.23,0,0,15,505,725,App1,Wait3,2,5,0.72,0.95,1,4,0,,NA,,NA,,11,500,725,App1,Seller_chat_page,1,4,0.86,0.92,2,4,0,,NA,,NA,,,NA,0,0,0,NA,0,0,NA,1,0,1,0
+er74u2tp_42,2xjxv7ai,brnm6twc,2xjxv7ai_brnm6twc,er74u2tp,42,11,15,43,0,0,NA,0,0.5,11,500,725,App1,Seller_chat_page,1,4,0.86,0.92,1,5,0,,NA,,NA,,15,505,725,App1,Wait3,2,5,0.72,0.95,2,5,0,,NA,,NA,,,NA,0,0,0,NA,0,0,NA,0,1,0,NA
+er74u2tp_43,ue2lclya,hwdsu32m,ue2lclya_hwdsu32m,er74u2tp,43,16,17,45,1,1,0.24,0,0.6,16,543,725,App1,Wait0,1,4,0.04,0.76,1,1,1,,NA,,NA,,17,726,725,demographics_app,completion_code,4,7,0.6,0.4,2,1,1,Man,45,Completed undergraduate University/College degree,10,No.,"Buyer: Did you get the $1?
+Seller: um i think there's a glitch or something b/c i didn't receive any msg stating that i had received a dollar
+Buyer: Ok.",1,1,0,0,NA,0,0,0,0,0,0,0
+er74u2tp_44,hwdsu32m,ue2lclya,hwdsu32m_ue2lclya,er74u2tp,44,17,16,46,0,0,0.5,0,0,17,726,725,demographics_app,completion_code,4,7,0.6,0.4,1,2,0,Man,45,Completed undergraduate University/College degree,10,No.,16,543,725,App1,Wait0,1,4,0.04,0.76,2,2,0,,NA,,NA,,,NA,0,0,0,0,0,0,NA,0,0,1,0
+er74u2tp_45,hwdsu32m,eq3u195h,hwdsu32m_eq3u195h,er74u2tp,45,17,18,47,1,1,0.6,0,0.88,17,726,725,demographics_app,completion_code,4,7,0.6,0.4,1,3,1,Man,45,Completed undergraduate University/College degree,10,No.,18,726,725,demographics_app,completion_code,4,7,0.05,0.88,2,1,1,Woman,24,"Completed advanced University/College degree (Masters, PhD...)",-6,Please provide a longer timer. The server hosting the study was very slow and laggy. Thank you.,"Buyer: What do you plan on doing with the one dollar you just received?
+Seller: The transfer of the $1 failed.
+Buyer: that's weird. what error msg did you receive?
+Seller: It said ""the transfer has failed""
+Buyer: oh that sucks. maybe next time
+Seller: Hopefully",1,1,0,0,0,0,0,0,0,0,0,0
+er74u2tp_46,eq3u195h,hwdsu32m,eq3u195h_hwdsu32m,er74u2tp,46,18,17,48,1,1,0.26,0,0.65,18,726,725,demographics_app,completion_code,4,7,0.05,0.88,1,2,1,Woman,24,"Completed advanced University/College degree (Masters, PhD...)",-6,Please provide a longer timer. The server hosting the study was very slow and laggy. Thank you.,17,726,725,demographics_app,completion_code,4,7,0.6,0.4,2,4,1,Man,45,Completed undergraduate University/College degree,10,No.,"Buyer: Did you get the $1?
+Seller: I don't get what happened to my transfer. I was supposed to get one, but i didn't receive any sort of msg stating that i got a transfer. 
+Buyer: Ok.",1,1,0,0,0,0,0,0,0,0,0,0
+er74u2tp_47,u1515qih,eq3u195h,u1515qih_eq3u195h,er74u2tp,47,19,18,49,1,0,0.67,0,0.68,19,726,725,demographics_app,completion_code,7,10,0.73,0.8,1,1,1,Woman,39,Completed undergraduate University/College degree,21,I LIKE IT,18,726,725,demographics_app,completion_code,4,7,0.05,0.88,2,3,1,Woman,24,"Completed advanced University/College degree (Masters, PhD...)",-6,Please provide a longer timer. The server hosting the study was very slow and laggy. Thank you.,,NA,0,0,0,0,0,0,0,0,0,0,0
+er74u2tp_48,u1515qih,hwdsu32m,u1515qih_hwdsu32m,er74u2tp,48,19,17,50,1,0,0.58,1,0.51,19,726,725,demographics_app,completion_code,7,10,0.73,0.8,1,2,2,Woman,39,Completed undergraduate University/College degree,21,I LIKE IT,17,726,725,demographics_app,completion_code,4,7,0.6,0.4,2,5,0,Man,45,Completed undergraduate University/College degree,10,No.,,NA,0,0,0,0,0,0,0,0,0,0,0
+er74u2tp_49,eq3u195h,u1515qih,eq3u195h_u1515qih,er74u2tp,49,18,19,51,0,1,0.24,1,0.51,18,726,725,demographics_app,completion_code,4,7,0.05,0.88,1,4,1,Woman,24,"Completed advanced University/College degree (Masters, PhD...)",-6,Please provide a longer timer. The server hosting the study was very slow and laggy. Thank you.,19,726,725,demographics_app,completion_code,7,10,0.73,0.8,2,3,1,Woman,39,Completed undergraduate University/College degree,21,I LIKE IT,,NA,0,0,0,0,0,0,0,0,0,0,0
+er74u2tp_50,hwdsu32m,u1515qih,hwdsu32m_u1515qih,er74u2tp,50,17,19,52,0,0,0.4,1,0.59,17,726,725,demographics_app,completion_code,4,7,0.6,0.4,1,6,1,Man,45,Completed undergraduate University/College degree,10,No.,19,726,725,demographics_app,completion_code,7,10,0.73,0.8,2,4,1,Woman,39,Completed undergraduate University/College degree,21,I LIKE IT,"Seller: ""The automatic initial transfer failed.""
+Buyer: YES
+Buyer: ITS RECEIVED OR NOT",NA,1,0,0,0,0,0,0,0,0,0,0
+er74u2tp_51,ee6nexyn,eq3u195h,ee6nexyn_eq3u195h,er74u2tp,51,21,18,53,0,0,0.79,0,0.8,21,726,725,demographics_app,completion_code,4,7,0.68,0.71,1,1,0,Man,39,"Completed advanced University/College degree (Masters, PhD...)",37,no,18,726,725,demographics_app,completion_code,4,7,0.05,0.88,2,5,0,Woman,24,"Completed advanced University/College degree (Masters, PhD...)",-6,Please provide a longer timer. The server hosting the study was very slow and laggy. Thank you.,"Buyer: It's nice to receive confirmation msgs after having money sent isnt it
+Seller: 20
+Buyer: ?
+Seller: 2
+Seller: 5",NA,0,0,0,0,0,0,0,0,0,0,0
+er74u2tp_52,kl4qabbw,eq3u195h,kl4qabbw_eq3u195h,er74u2tp,52,20,18,54,0,0,0.65,0,0.7,20,726,725,demographics_app,completion_code,4,7,0.1,0.6,1,1,0,Man,26,Completed undergraduate University/College degree,-45,"It was clear that several of my partners were not fluent English speakers. I suspect they are using stolen accounts and actually live outside the United States. Please reject their work, block their accounts, and report their accounts to Amazon for being fraudulent, thank you.",18,726,725,demographics_app,completion_code,4,7,0.05,0.88,2,6,0,Woman,24,"Completed advanced University/College degree (Masters, PhD...)",-6,Please provide a longer timer. The server hosting the study was very slow and laggy. Thank you.,"Buyer: did the payment go through
+Seller: Unfortunately it did not
+Buyer: did it go through?
+Seller: I think the chat is lagging a bit
+Seller: are you still there",NA,1,0,0,0,0,0,0,0,0,0,0
+er74u2tp_53,ee6nexyn,u1515qih,ee6nexyn_u1515qih,er74u2tp,53,21,19,55,0,1,0.71,1,0.46,21,726,725,demographics_app,completion_code,4,7,0.68,0.71,1,2,1,Man,39,"Completed advanced University/College degree (Masters, PhD...)",37,no,19,726,725,demographics_app,completion_code,7,10,0.73,0.8,2,5,1,Woman,39,Completed undergraduate University/College degree,21,I LIKE IT,"Seller: 1
+Buyer: ITS RECEIVED OR NOT 
+Buyer: ITS WHEATHER PROBLEM",NA,0,0,0,0,0,0,0,0,0,0,0
+er74u2tp_54,kl4qabbw,u1515qih,kl4qabbw_u1515qih,er74u2tp,54,20,19,56,0,1,0.1,1,0.53,20,726,725,demographics_app,completion_code,4,7,0.1,0.6,1,2,1,Man,26,Completed undergraduate University/College degree,-45,"It was clear that several of my partners were not fluent English speakers. I suspect they are using stolen accounts and actually live outside the United States. Please reject their work, block their accounts, and report their accounts to Amazon for being fraudulent, thank you.",19,726,725,demographics_app,completion_code,7,10,0.73,0.8,2,6,1,Woman,39,Completed undergraduate University/College degree,21,I LIKE IT,"Seller: Hello
+Buyer: HI
+Seller: Unfortunately the transfer did not go through, can you send it again?
+Buyer: OH I WILL SEND AGAIN
+Seller: Great, I would really appreciate that!
+Buyer: NO PROBLEM 
+Seller: Thanks!",NA,1,0,0,0,0,0,0,0,0,0,0
+er74u2tp_55,kl4qabbw,ee6nexyn,kl4qabbw_ee6nexyn,er74u2tp,55,20,21,57,0,0,0.5,1,0.85,20,726,725,demographics_app,completion_code,4,7,0.1,0.6,1,3,1,Man,26,Completed undergraduate University/College degree,-45,"It was clear that several of my partners were not fluent English speakers. I suspect they are using stolen accounts and actually live outside the United States. Please reject their work, block their accounts, and report their accounts to Amazon for being fraudulent, thank you.",21,726,725,demographics_app,completion_code,4,7,0.68,0.71,2,3,1,Man,39,"Completed advanced University/College degree (Masters, PhD...)",37,no,"Seller: Hello
+Buyer: 2
+Seller: What?
+Buyer: pay
+Seller: What do you mean?
+Seller: The transfer didn't go through, can you please send it again?
+Buyer: payment
+Buyer: 2
+Seller: Please send the payment again, it didn't go through. Do you understand?",NA,0,0,0,0,0,0,0,0,0,0,0
+er74u2tp_56,ee6nexyn,kl4qabbw,ee6nexyn_kl4qabbw,er74u2tp,56,21,20,58,1,1,0.87,1,0.7,21,726,725,demographics_app,completion_code,4,7,0.68,0.71,1,4,2,Man,39,"Completed advanced University/College degree (Masters, PhD...)",37,no,20,726,725,demographics_app,completion_code,4,7,0.1,0.6,2,4,0,Man,26,Completed undergraduate University/College degree,-45,"It was clear that several of my partners were not fluent English speakers. I suspect they are using stolen accounts and actually live outside the United States. Please reject their work, block their accounts, and report their accounts to Amazon for being fraudulent, thank you.","Buyer: Hello
+Seller: hi
+Buyer: Did the transfer go through?
+Seller: 1
+Buyer: What do you mean ""1""?
+Seller: transfer
+Buyer: Did you receive the transfer?
+Seller: no
+Buyer: Okay, I will send it again.",1,1,0,0,0,0,0,0,0,0,0,0
+er74u2tp_57,kl4qabbw,3ehfrguf,kl4qabbw_3ehfrguf,er74u2tp,57,20,22,59,0,1,0.05,1,0.45,20,726,725,demographics_app,completion_code,4,7,0.1,0.6,1,5,1,Man,26,Completed undergraduate University/College degree,-45,"It was clear that several of my partners were not fluent English speakers. I suspect they are using stolen accounts and actually live outside the United States. Please reject their work, block their accounts, and report their accounts to Amazon for being fraudulent, thank you.",22,726,725,demographics_app,completion_code,2,5,0.2,0.38,2,1,1,Woman,34,Completed undergraduate University/College degree,43,,"Seller: Hello
+Buyer: Hi did you get the dollar
+Seller: Unfortunately I didn't, can you send it again?
+Buyer: Ok
+Seller: Great, thanks so much.",NA,1,0,0,0,0,0,NA,0,0,0,0
+er74u2tp_58,3ehfrguf,kl4qabbw,3ehfrguf_kl4qabbw,er74u2tp,58,22,20,61,1,1,1,0,1,22,726,725,demographics_app,completion_code,2,5,0.2,0.38,1,2,1,Woman,34,Completed undergraduate University/College degree,43,,20,726,725,demographics_app,completion_code,4,7,0.1,0.6,2,6,1,Man,26,Completed undergraduate University/College degree,-45,"It was clear that several of my partners were not fluent English speakers. I suspect they are using stolen accounts and actually live outside the United States. Please reject their work, block their accounts, and report their accounts to Amazon for being fraudulent, thank you.","Buyer: Hello
+Seller: Hi. The transfer succeeded 
+Buyer: Great, thank you for being honest with me I really appreciate that.",0,1,0,0,NA,0,0,0,0,0,0,0
+eh9goh3y_1,qnxkca8o,cbeozgfx,qnxkca8o_cbeozgfx,eh9goh3y,1,2,1,2,1,0,0.81,0,1,2,726,725,demographics_app,completion_code,5,8,0.26,0.31,1,1,1,Man,25,Some University/College,50,Very interesting,1,726,725,demographics_app,completion_code,5,8,0.82,0.87,2,1,1,Man,34,Completed primary/elementary school only,-11,Last buyer didn't seem to have too good of a grasp on the experiment.  He didn't understand the penalty and what not.  I think in the future if you run this again you should force a comprehension check at some point.    Buyer #2 didn't really speak great English and it was hard to communicate with him.  Buyer #3 didn't understand the task.,"Buyer: Hello there.  Did you manage to receive the pay?
+Seller: Hi
+Seller: yes 
+Buyer: Ok, I just want to be sure.  Sometimes it doesn't send through a bunch.  You're absolutely certain?
+Seller: I am adjust
+Buyer: Ok that is good to know.
+Seller: What amount you are receive",0,1,0,0,0,0,0,0,0,0,0,0
+eh9goh3y_2,scfcx6zs,k17bnkwt,scfcx6zs_k17bnkwt,eh9goh3y,2,3,4,3,1,0,1,0,1,3,726,725,demographics_app,completion_code,6,9,0.28,0.24,1,1,1,Man,37,Completed undergraduate University/College degree,0,At least 2 of the people to whom I was paired could speak almost no English.  I sent a message the to requester about this.,4,726,725,demographics_app,completion_code,6,9,0.6,0.73,2,1,1,Woman,26,Some University/College,-47,,"Seller: hello?
+Buyer: Hi!
+Buyer: Did you get the money 
+Seller: The transfer was successful.  I'm told I can try to get you to send me more money, but not that I HAVE to try to do this
+Seller: I don't want to try to trick you
+Seller: so yeah, it was successful
+Buyer: hey dude how awesome ! I'll be open on my end if you are. Let's make this money on a SUNDAY!",0,1,0,0,0,0,0,0,0,0,0,0
+eh9goh3y_3,7oubb3ei,xxugqzme,7oubb3ei_xxugqzme,eh9goh3y,3,5,6,4,1,0,0.81,0,0.73,5,726,725,demographics_app,completion_code,6,9,0.82,0.73,1,1,1,Woman,37,Completed undergraduate University/College degree,-50,This HIT had some issues with loading. I hope this submits.,6,726,725,demographics_app,completion_code,5,8,0.67,0.57,2,1,1,Man,40,Completed undergraduate University/College degree,-9,This was fun but I feel like it needs improvement. I'm not sure how I could have played better and fared better. Overall though I'm satisfied.,"Buyer: Did you get that dollar I sent ya?
+Seller: No, I didn't.
+Buyer: hmm...are you sure, I just checked my balance and it shows where it was sent
+Seller: It didn't transfer for some reason. I think something went wrong.
+Buyer: well maybe it will just take another minute, can you check again?
+Seller: Yeah, still not there.
+Buyer: okay, guess I'll try to send it again.
+Seller: Okay. Thank you.",1,1,0,0,0,0,0,0,0,0,0,0
+eh9goh3y_4,t9zox8s5,cbeozgfx,t9zox8s5_cbeozgfx,eh9goh3y,4,7,1,5,1,1,0.25,1,0.71,7,726,725,demographics_app,completion_code,4,7,0.85,0.98,1,1,2,Woman,32,"Completed advanced University/College degree (Masters, PhD...)",-50,This was fun!,1,726,725,demographics_app,completion_code,5,8,0.82,0.87,2,2,0,Man,34,Completed primary/elementary school only,-11,Last buyer didn't seem to have too good of a grasp on the experiment.  He didn't understand the penalty and what not.  I think in the future if you run this again you should force a comprehension check at some point.    Buyer #2 didn't really speak great English and it was hard to communicate with him.  Buyer #3 didn't understand the task.,"Buyer: Hello there.  You received my fee, correct?
+Seller: Hello, unfortunately, I didn't. 
+Buyer: Hmm, strange, it deducted it from my account.
+Seller: That's odd. I'm not sure what the issue is. 
+Buyer: I'll check to see if it went through, and if it didn't, I may send it again.  I'm not entirely sure it won't double fine me though.
+Seller: Hopefully, that won't be the case. If you inform them of the conversation we had, they may be willing to waive the fine/fee. ",1,1,0,0,0,0,0,0,0,0,0,0
+eh9goh3y_5,scfcx6zs,qnxkca8o,scfcx6zs_qnxkca8o,eh9goh3y,5,3,2,6,1,1,1,1,1,3,726,725,demographics_app,completion_code,6,9,0.28,0.24,1,2,2,Man,37,Completed undergraduate University/College degree,0,At least 2 of the people to whom I was paired could speak almost no English.  I sent a message the to requester about this.,2,726,725,demographics_app,completion_code,5,8,0.26,0.31,2,2,0,Man,25,Some University/College,50,Very interesting,"Seller: it was successful again
+Buyer: Hi
+Seller: are you the same person as before?
+Buyer: Yes 
+Buyer: Tell me
+Seller: tell you what?
+Buyer: What will you amount are receive
+Seller: you're not the same person from round 1
+Buyer: Yes
+Seller: transfer was successful
+Buyer: Yes
+Seller: the person from round 1 was fluent in English.  you don't seem to be
+Buyer: Okay ",0,1,0,0,0,0,0,0,0,0,0,0
+eh9goh3y_6,k17bnkwt,xxugqzme,k17bnkwt_xxugqzme,eh9goh3y,6,4,6,7,1,1,1,0,0.98,4,726,725,demographics_app,completion_code,6,9,0.6,0.73,1,2,1,Woman,26,Some University/College,-47,,6,726,725,demographics_app,completion_code,5,8,0.67,0.57,2,2,1,Man,40,Completed undergraduate University/College degree,-9,This was fun but I feel like it needs improvement. I'm not sure how I could have played better and fared better. Overall though I'm satisfied.,"Seller: Hi! 
+Buyer: Thanks again for your service. Hope you get some goodies with that fee.
+Seller: Let's make this money! I go the money this time !
+Buyer: good. Thanks for your honesty :)
+Buyer: Nice doing business with you. Hope your day goes well!
+Seller: you too!",0,1,0,0,0,0,0,0,0,0,0,0
+eh9goh3y_7,7oubb3ei,cbeozgfx,7oubb3ei_cbeozgfx,eh9goh3y,7,5,1,8,1,0,1,0,1,5,726,725,demographics_app,completion_code,6,9,0.82,0.73,1,2,1,Woman,37,Completed undergraduate University/College degree,-50,This HIT had some issues with loading. I hope this submits.,1,726,725,demographics_app,completion_code,5,8,0.82,0.87,2,3,1,Man,34,Completed primary/elementary school only,-11,Last buyer didn't seem to have too good of a grasp on the experiment.  He didn't understand the penalty and what not.  I think in the future if you run this again you should force a comprehension check at some point.    Buyer #2 didn't really speak great English and it was hard to communicate with him.  Buyer #3 didn't understand the task.,"Seller: I didn't get the transfer for some reason.
+Buyer: Hmm.  the last time I did something like this, the person lied to me, and I got double charged.  I'm not entirely sure I should trust you, unfortunately.
+Seller: I honestly didn't transfer.
+Buyer: I'm just not sure I can trust it.  I don't know how you can prove it to me though.
+Seller: : (",1,1,0,0,0,0,0,0,0,0,0,0
+eh9goh3y_8,t9zox8s5,scfcx6zs,t9zox8s5_scfcx6zs,eh9goh3y,8,7,3,9,1,0,1,0,0.9,7,726,725,demographics_app,completion_code,4,7,0.85,0.98,1,2,1,Woman,32,"Completed advanced University/College degree (Masters, PhD...)",-50,This was fun!,3,726,725,demographics_app,completion_code,6,9,0.28,0.24,2,3,1,Man,37,Completed undergraduate University/College degree,0,At least 2 of the people to whom I was paired could speak almost no English.  I sent a message the to requester about this.,"Buyer: who'dis?
+Buyer: because there are multiple people playing this game
+Buyer: and we're not matched with the same person each time
+Seller: Hi, I'm a seller. Unfortunately, your transfer didn't go through. 
+Buyer: I don't believe you
+Seller: Okay, but that does not change the fact that the transfer did not go through. 
+Buyer: ok",1,1,0,0,0,0,0,0,0,0,0,0
+eh9goh3y_9,qnxkca8o,496406zk,qnxkca8o_496406zk,eh9goh3y,9,2,8,10,1,0,1,0,1,2,726,725,demographics_app,completion_code,5,8,0.26,0.31,1,3,1,Man,25,Some University/College,50,Very interesting,8,726,725,demographics_app,completion_code,5,8,0.79,0.91,2,1,1,Woman,39,Completed undergraduate University/College degree,50,Thank you - the last person was a jerk,"Buyer: hello
+Seller: Hi
+Buyer: did you get your money?
+Seller: Yes
+Buyer: awesome
+Seller: Thanks
+Seller: oKAY
+Buyer: :-)",0,1,0,0,0,0,0,0,0,0,0,0
+eh9goh3y_10,kh6qqq5m,no59lf6n,kh6qqq5m_no59lf6n,eh9goh3y,10,9,10,11,0,1,0,0,0.5,9,723,725,demographics_app,summary_page,4,7,0.35,0.37,1,1,0,,NA,,NA,,10,726,725,demographics_app,completion_code,5,8,0.17,0.85,2,1,0,Man,28,Completed secondary school/high school,30,,,NA,0,0,0,NA,0,0,0,0,1,0,1
+eh9goh3y_11,xxugqzme,k17bnkwt,xxugqzme_k17bnkwt,eh9goh3y,11,6,4,12,1,0,0.38,0,0.5,6,726,725,demographics_app,completion_code,5,8,0.67,0.57,1,3,1,Man,40,Completed undergraduate University/College degree,-9,This was fun but I feel like it needs improvement. I'm not sure how I could have played better and fared better. Overall though I'm satisfied.,4,726,725,demographics_app,completion_code,6,9,0.6,0.73,2,3,1,Woman,26,Some University/College,-47,,"Seller: Well, doesn't look like the transfer went through this time :(
+Buyer: Hi! 
+Buyer: Hmm..are you sure 
+Seller: yea it says so right at the top of my screen
+Seller: transfer failed
+Buyer: hmm okay ill see what I can do on the next page",1,1,0,0,0,0,0,0,0,0,1,0
+eh9goh3y_12,cbeozgfx,7oubb3ei,cbeozgfx_7oubb3ei,eh9goh3y,12,1,5,13,1,0,0.03,0,0.8,1,726,725,demographics_app,completion_code,5,8,0.82,0.87,1,4,1,Man,34,Completed primary/elementary school only,-11,Last buyer didn't seem to have too good of a grasp on the experiment.  He didn't understand the penalty and what not.  I think in the future if you run this again you should force a comprehension check at some point.    Buyer #2 didn't really speak great English and it was hard to communicate with him.  Buyer #3 didn't understand the task.,5,726,725,demographics_app,completion_code,6,9,0.82,0.73,2,3,1,Woman,37,Completed undergraduate University/College degree,-50,This HIT had some issues with loading. I hope this submits.,"Buyer: Did you get the transfer?
+Seller: Unfortunately not.  I know it's hard to trust me, but as someone who did what you did, I know how much it hurts to double send, or how much it hurts not to send.
+Seller: So I'm going to just be honest with you, and hope you take me at my word.  I didn't receive it unfortunately.
+Buyer: Hmmmm... don't think I can trust you. Sorry.
+Seller: That's fair enough, can't fault you for being cautious, was just trying to maximize us both getting paid off.
+Buyer: Sure...",1,1,0,0,0,0,0,0,0,0,0,0
+eh9goh3y_13,scfcx6zs,t9zox8s5,scfcx6zs_t9zox8s5,eh9goh3y,13,3,7,14,0,0,1,0,0.56,3,726,725,demographics_app,completion_code,6,9,0.28,0.24,1,4,0,Man,37,Completed undergraduate University/College degree,0,At least 2 of the people to whom I was paired could speak almost no English.  I sent a message the to requester about this.,7,726,725,demographics_app,completion_code,4,7,0.85,0.98,2,3,0,Woman,32,"Completed advanced University/College degree (Masters, PhD...)",-50,This was fun!,"Buyer: Hello, did you receive the transfer? 
+Seller: it says ""Transfer failed""
+Buyer: Hmm....I'm not sure what happened. It says it was successful on my end. 
+Seller: I think it always says that to the buyer before the chat
+Seller: I've only been buyer once
+Buyer: Same here.
+Seller: ok, no worries if you don't want to send
+Buyer: Thanks!
+Seller: nice way to start the week
+Seller: have a good one!
+Buyer: You, too!",NA,1,0,0,0,0,0,0,0,0,0,0
+eh9goh3y_14,nhor2wzs,496406zk,nhor2wzs_496406zk,eh9goh3y,14,11,8,15,1,1,0.7,0,1,11,726,725,demographics_app,completion_code,4,7,0.71,0.91,1,1,1,Man,25,Completed secondary school/high school,10,THAMKUE,8,726,725,demographics_app,completion_code,5,8,0.79,0.91,2,2,1,Woman,39,Completed undergraduate University/College degree,50,Thank you - the last person was a jerk,"Buyer: hey, did you get your money?
+Seller: yes
+Buyer: awesome
+Seller: THANK YOU
+Buyer: :-)
+Seller: ARE YOU COMFORM BUYING THIS PRODUCT
+Buyer: sure",0,1,0,0,0,0,0,0,0,0,0,0
+eh9goh3y_15,cbeozgfx,qnxkca8o,cbeozgfx_qnxkca8o,eh9goh3y,15,1,2,16,0,0,0.68,1,1,1,726,725,demographics_app,completion_code,5,8,0.82,0.87,1,5,1,Man,34,Completed primary/elementary school only,-11,Last buyer didn't seem to have too good of a grasp on the experiment.  He didn't understand the penalty and what not.  I think in the future if you run this again you should force a comprehension check at some point.    Buyer #2 didn't really speak great English and it was hard to communicate with him.  Buyer #3 didn't understand the task.,2,726,725,demographics_app,completion_code,5,8,0.26,0.31,2,4,1,Man,25,Some University/College,50,Very interesting,"Seller: So, last time I tried to be honest with a buyer and tell them it didn't go through, they didn't believe me, and we both walked away with $0 for the round.
+Buyer: yes
+Seller: This time, I copy and pasted the message, and am hoping that will prove it, and we both don't get shafted like I did last round.
+Seller: ""You provided a ""buyer"" with a service for a fee of $1.00. The automatic initial transfer failed.""
+Buyer: Yes
+Seller: So, I know I'm some random person in this interaction, but I didn't receive your payment and if you don't transfer the $1, you'll end up with nothing, I'll end up with nothing, we both lose.
+Buyer: I will play well so why can you failed
+Seller: I hope you will make the correct choice.  But it is all in your hands, I hope you trust my good faith here.
+Buyer: I believe you so help",NA,0,0,0,0,0,0,0,0,0,0,0
+eh9goh3y_16,7oubb3ei,g63j6i7t,7oubb3ei_g63j6i7t,eh9goh3y,16,5,12,17,0,1,0.29,1,0.38,5,726,725,demographics_app,completion_code,6,9,0.82,0.73,1,4,1,Woman,37,Completed undergraduate University/College degree,-50,This HIT had some issues with loading. I hope this submits.,12,726,725,demographics_app,completion_code,6,9,0.7,0.99,2,1,1,Woman,33,Completed undergraduate University/College degree,10,This was a pleasant experience. It's good to know that people out there are honest.,"Buyer: Hello, was the $1.00 transfer sucessful?
+Seller: I know you probably don't believe me, but honest to God the transfer failed.
+Buyer: I believe you, I just want to make sure that you are aware there are penalties for both of us if you are not honest.
+Seller: Yes, I am aware.
+Seller: You can trust me 100%
+Buyer: Ok great. Thank you for being honest.",NA,1,0,0,0,0,0,0,0,0,0,0
+eh9goh3y_17,nhor2wzs,scfcx6zs,nhor2wzs_scfcx6zs,eh9goh3y,17,11,3,18,1,1,0.64,0,0.69,11,726,725,demographics_app,completion_code,4,7,0.71,0.91,1,2,1,Man,25,Completed secondary school/high school,10,THAMKUE,3,726,725,demographics_app,completion_code,6,9,0.28,0.24,2,5,1,Man,37,Completed undergraduate University/College degree,0,At least 2 of the people to whom I was paired could speak almost no English.  I sent a message the to requester about this.,"Buyer: ?
+Seller: SRE YOU SURE BOUING THIS PRODUCT
+Buyer: what?
+Seller: THIS PRODUCT IS VERY IMPROTED
+Buyer: you're clearly not a native English speaker
+Seller: PODA ------
+Buyer: mmhmm",NA,0,0,0,0,0,0,0,0,0,0,0
+eh9goh3y_18,t9zox8s5,496406zk,t9zox8s5_496406zk,eh9goh3y,18,7,8,19,0,1,0.2,1,0,7,726,725,demographics_app,completion_code,4,7,0.85,0.98,1,4,1,Woman,32,"Completed advanced University/College degree (Masters, PhD...)",-50,This was fun!,8,726,725,demographics_app,completion_code,5,8,0.79,0.91,2,3,1,Woman,39,Completed undergraduate University/College degree,50,Thank you - the last person was a jerk,"Buyer: hello
+Seller: Hello, I was informed that ""The automatic initial transfer failed.""
+Buyer: wow ok, I will send it again when I get back
+Seller: Thank you!
+Buyer: :-)
+Buyer: you're not messing with me are ya?
+Seller: Nope, that was the direct quote from the assignment prompt. 
+Buyer: ok cool
+Seller: Pinky swear :) 
+Buyer: LOL
+Seller: lol
+Seller: Enjoy the rest of your day!
+Buyer: you too :-)
+Seller: Thank you!",NA,1,0,0,0,0,0,0,0,0,0,0
+eh9goh3y_19,no59lf6n,k17bnkwt,no59lf6n_k17bnkwt,eh9goh3y,19,10,4,20,0,0,0.05,1,0.3,10,726,725,demographics_app,completion_code,5,8,0.17,0.85,1,2,1,Man,28,Completed secondary school/high school,30,,4,726,725,demographics_app,completion_code,6,9,0.6,0.73,2,4,1,Woman,26,Some University/College,-47,,"Buyer: Hi I hope you got my payment.
+Seller: Hey it looks like the initial transfer failed, do you think you could resend the money please?
+Buyer: I sent it 
+Seller: It's showing failed on my end
+Buyer: Hmm okay. I'll see what to do on the following page. What does it say exacty
+Seller: I promise I woulndn't lie to you we are both turkers, I treat people with the same respect I would hope they show me
+Seller: I'm not sure if im allowed to say what it says exactly but we both do the best if you resend the payment otherwise im pretty sure you get penalized",NA,1,0,0,0,0,0,0,0,0,0,0
+eh9goh3y_20,xxugqzme,kh6qqq5m,xxugqzme_kh6qqq5m,eh9goh3y,20,6,9,21,0,1,0.72,0,0,6,726,725,demographics_app,completion_code,5,8,0.67,0.57,1,4,0,Man,40,Completed undergraduate University/College degree,-9,This was fun but I feel like it needs improvement. I'm not sure how I could have played better and fared better. Overall though I'm satisfied.,9,723,725,demographics_app,summary_page,4,7,0.35,0.37,2,2,0,,NA,,NA,,,NA,0,0,0,0,0,0,NA,1,0,1,0
+eh9goh3y_21,qnxkca8o,7oubb3ei,qnxkca8o_7oubb3ei,eh9goh3y,21,2,5,22,1,0,1,0,1,2,726,725,demographics_app,completion_code,5,8,0.26,0.31,1,5,1,Man,25,Some University/College,50,Very interesting,5,726,725,demographics_app,completion_code,6,9,0.82,0.73,2,5,1,Woman,37,Completed undergraduate University/College degree,-50,This HIT had some issues with loading. I hope this submits.,"Buyer: Did you get the $1?
+Seller: Hi
+Seller: hi
+Buyer: Hi
+Seller: no
+Buyer: Why should I trust you?
+Seller: Yes but something afraid
+Buyer: Okay
+Seller: Thanks",1,1,0,0,0,0,0,0,0,0,0,0
+eh9goh3y_22,cbeozgfx,scfcx6zs,cbeozgfx_scfcx6zs,eh9goh3y,22,1,3,23,1,0,0.89,0,0.43,1,726,725,demographics_app,completion_code,5,8,0.82,0.87,1,6,1,Man,34,Completed primary/elementary school only,-11,Last buyer didn't seem to have too good of a grasp on the experiment.  He didn't understand the penalty and what not.  I think in the future if you run this again you should force a comprehension check at some point.    Buyer #2 didn't really speak great English and it was hard to communicate with him.  Buyer #3 didn't understand the task.,3,726,725,demographics_app,completion_code,6,9,0.28,0.24,2,6,1,Man,37,Completed undergraduate University/College degree,0,At least 2 of the people to whom I was paired could speak almost no English.  I sent a message the to requester about this.,"Seller: Hello there.  So for every buyer so far I've opted to go with honesty.  I've had one automatic transfer succeed, and one fail.  This is my second failure unfortunately.
+Buyer: I don't believe you
+Seller: Can't make you believe me.  It's entirely in your hands.  If we both walk away with 0, that's on you.  I won't try to convince you since it seems your mind is made up already.
+Buyer: I can't walk away with 0
+Seller: You can.  You get a $2 fine if you opt not to transfer $1 when the transaction fails.
+Buyer: I think it's that I get a $2 fine if I opt to transfer when it succeeds
+Seller: There'd be no reason to ever transfer if that were the case.
+Buyer: yep
+Seller: You get penalized for not transferring if it fails.  And it did fail.",1,1,0,0,0,0,0,0,0,0,0,0
+eh9goh3y_23,496406zk,g63j6i7t,496406zk_g63j6i7t,eh9goh3y,23,8,12,24,1,1,1,0,1,8,726,725,demographics_app,completion_code,5,8,0.79,0.91,1,4,1,Woman,39,Completed undergraduate University/College degree,50,Thank you - the last person was a jerk,12,726,725,demographics_app,completion_code,6,9,0.7,0.99,2,2,1,Woman,33,Completed undergraduate University/College degree,10,This was a pleasant experience. It's good to know that people out there are honest.,"Seller: hello
+Buyer: Hello, was the $1.00 transfer successful?
+Seller: yes, it says it was successful
+Buyer: Ok, thank you for being honest. 
+Seller: of course :-)
+Buyer: :-)
+Seller: have a great evening
+Buyer: Thank you. You as well",0,1,0,0,0,0,0,0,0,0,0,0
+eh9goh3y_24,nhor2wzs,t9zox8s5,nhor2wzs_t9zox8s5,eh9goh3y,24,11,7,25,0,0,0.63,0,0.5,11,726,725,demographics_app,completion_code,4,7,0.71,0.91,1,3,0,Man,25,Completed secondary school/high school,10,THAMKUE,7,726,725,demographics_app,completion_code,4,7,0.85,0.98,2,5,0,Woman,32,"Completed advanced University/College degree (Masters, PhD...)",-50,This was fun!,"Buyer: Hello! 
+Buyer: Did you receive the transfer?
+Seller: YES TELL ME 
+Seller: ANY HELP
+Buyer: You are the seller so you are supposed to tell me whether you received the $1.00 or not. 
+Buyer: Hello?",NA,0,0,0,0,0,0,0,0,1,0,0
+eh9goh3y_25,k17bnkwt,no59lf6n,k17bnkwt_no59lf6n,eh9goh3y,25,4,10,26,1,0,1,0,0,4,726,725,demographics_app,completion_code,6,9,0.6,0.73,1,5,1,Woman,26,Some University/College,-47,,10,726,725,demographics_app,completion_code,5,8,0.17,0.85,2,3,1,Man,28,Completed secondary school/high school,30,,"Buyer: Hey! Did you get my payment? I'm going to put my trust in what you tell me so we can try to do our best here.
+Seller: Hi, this round payment went through 
+Seller: all was successful
+Buyer: Thanks so much for letting me know, I'm wishing you all the best!
+Seller: I cannot bring myself to lie even though I think that is the purpose of this 
+Buyer: Haha
+Buyer: Same I just want to help out my fellow workers
+Buyer: Pleasure meeting with you please take care.
+Seller: Thank you and you too!",0,1,0,0,0,0,0,0,0,0,0,0
+eh9goh3y_26,7oubb3ei,qnxkca8o,7oubb3ei_qnxkca8o,eh9goh3y,26,5,2,27,0,1,0.36,1,1,5,726,725,demographics_app,completion_code,6,9,0.82,0.73,1,6,1,Woman,37,Completed undergraduate University/College degree,-50,This HIT had some issues with loading. I hope this submits.,2,726,725,demographics_app,completion_code,5,8,0.26,0.31,2,6,1,Man,25,Some University/College,50,Very interesting,"Buyer: Hi
+Seller: The transfer failed. Honest to God.
+Buyer: I believe god only
+Seller: You can definitely trust me on this. I want us both to earn more.
+Buyer: Yes trust you too
+Seller: Thank you.
+Buyer: It is okay",NA,1,0,0,0,0,0,0,0,0,0,0
+eh9goh3y_27,g63j6i7t,496406zk,g63j6i7t_496406zk,eh9goh3y,27,12,8,28,1,1,1,0,1,12,726,725,demographics_app,completion_code,6,9,0.7,0.99,1,3,1,Woman,33,Completed undergraduate University/College degree,10,This was a pleasant experience. It's good to know that people out there are honest.,8,726,725,demographics_app,completion_code,5,8,0.79,0.91,2,5,1,Woman,39,Completed undergraduate University/College degree,50,Thank you - the last person was a jerk,"Buyer: hellooooo
+Seller: Hello. The transfer was successful!
+Buyer: yay - thank you for letting me know that :-)
+Seller: You're welcome! :-)
+Buyer: Have a great evening ",0,1,0,0,0,0,0,0,0,0,0,0
+eh9goh3y_28,k17bnkwt,kh6qqq5m,k17bnkwt_kh6qqq5m,eh9goh3y,28,4,9,29,1,0,0.84,0,0,4,726,725,demographics_app,completion_code,6,9,0.6,0.73,1,6,1,Woman,26,Some University/College,-47,,9,723,725,demographics_app,summary_page,4,7,0.35,0.37,2,3,1,,NA,,NA,,,NA,0,0,0,0,0,0,NA,1,0,1,0
+eh9goh3y_29,no59lf6n,nhor2wzs,no59lf6n_nhor2wzs,eh9goh3y,29,10,11,30,1,1,0.86,0,0.5,10,726,725,demographics_app,completion_code,5,8,0.17,0.85,1,4,1,Man,28,Completed secondary school/high school,30,,11,726,725,demographics_app,completion_code,4,7,0.71,0.91,2,4,1,Man,25,Completed secondary school/high school,10,THAMKUE,"Buyer: hello any body here
+Buyer: hello
+Seller: hey'
+Seller: the page crashed thank god reloading it fixed it
+Seller: I believe the transfer went through",0,1,0,0,0,0,0,0,1,0,1,0
+eh9goh3y_30,xxugqzme,t9zox8s5,xxugqzme_t9zox8s5,eh9goh3y,30,6,7,31,1,1,0.19,1,0.03,6,726,725,demographics_app,completion_code,5,8,0.67,0.57,1,5,2,Man,40,Completed undergraduate University/College degree,-9,This was fun but I feel like it needs improvement. I'm not sure how I could have played better and fared better. Overall though I'm satisfied.,7,726,725,demographics_app,completion_code,4,7,0.85,0.98,2,6,0,Woman,32,"Completed advanced University/College degree (Masters, PhD...)",-50,This was fun!,"Buyer: Hello!
+Seller: Hey!
+Buyer: Were you able to receive the transfer? 
+Seller: Thanks for doing business. The fee didn't transfer this time.
+Seller: Unfortunately it failed.
+Buyer: That's odd; I was informed that the transfer was successful.
+Seller: well unless this is part of the task then I don't know what to say. It says transfer failed right at the top of this chat box
+Buyer: Gotcha. Thanks for letting me know!
+Seller: Yw and gl",1,1,0,0,0,0,0,0,0,0,0,0
+eh9goh3y_31,496406zk,xxugqzme,496406zk_xxugqzme,eh9goh3y,31,8,6,32,0,0,1,0,0.32,8,726,725,demographics_app,completion_code,5,8,0.79,0.91,1,6,0,Woman,39,Completed undergraduate University/College degree,50,Thank you - the last person was a jerk,6,726,725,demographics_app,completion_code,5,8,0.67,0.57,2,6,0,Man,40,Completed undergraduate University/College degree,-9,This was fun but I feel like it needs improvement. I'm not sure how I could have played better and fared better. Overall though I'm satisfied.,"Seller: hellooooo
+Buyer: Hey did you get the money
+Seller: it says ""Transfer failed"" I promise
+Seller: first one today
+Buyer: well I think I'll just keep my money 
+Buyer: thanks for the service tho
+Seller: dang - that's rude ""Karma""
+Buyer: you might be right, all guesswork though I suppose
+Seller: I can just tell you what it says up at the top
+Buyer: you already did didn't you?
+Seller: yep
+Buyer: thought so
+Buyer: weird how it shows me something different",NA,1,0,0,0,0,0,0,0,0,0,0
+eh9goh3y_32,g63j6i7t,no59lf6n,g63j6i7t_no59lf6n,eh9goh3y,32,12,10,33,1,0,1,0,1,12,726,725,demographics_app,completion_code,6,9,0.7,0.99,1,4,1,Woman,33,Completed undergraduate University/College degree,10,This was a pleasant experience. It's good to know that people out there are honest.,10,726,725,demographics_app,completion_code,5,8,0.17,0.85,2,5,1,Man,28,Completed secondary school/high school,30,,"Buyer: Hello hello!
+Seller: Hello, the transfer was successful!
+Buyer: Thanks!
+Seller: You're welcome! :-)",0,1,0,0,0,0,0,0,0,0,0,0
+eh9goh3y_33,kh6qqq5m,nhor2wzs,kh6qqq5m_nhor2wzs,eh9goh3y,33,9,11,34,1,1,0,1,0.76,9,723,725,demographics_app,summary_page,4,7,0.35,0.37,1,4,2,,NA,,NA,,11,726,725,demographics_app,completion_code,4,7,0.71,0.91,2,5,0,Man,25,Completed secondary school/high school,10,THAMKUE,,NA,0,0,0,NA,0,0,0,0,1,0,1
+eh9goh3y_34,no59lf6n,g63j6i7t,no59lf6n_g63j6i7t,eh9goh3y,34,10,12,35,0,0,1,1,0,10,726,725,demographics_app,completion_code,5,8,0.17,0.85,1,6,1,Man,28,Completed secondary school/high school,30,,12,726,725,demographics_app,completion_code,6,9,0.7,0.99,2,5,1,Woman,33,Completed undergraduate University/College degree,10,This was a pleasant experience. It's good to know that people out there are honest.,"Seller: Hey! Trying to help you out here, the transfer has failed this round.
+Buyer: Thank you for telling me!",NA,1,0,0,0,0,0,0,0,0,0,0
+eh9goh3y_35,g63j6i7t,nhor2wzs,g63j6i7t_nhor2wzs,eh9goh3y,35,12,11,36,0,0,0.61,1,0.66,12,726,725,demographics_app,completion_code,6,9,0.7,0.99,1,6,1,Woman,33,Completed undergraduate University/College degree,10,This was a pleasant experience. It's good to know that people out there are honest.,11,726,725,demographics_app,completion_code,4,7,0.71,0.91,2,6,1,Man,25,Completed secondary school/high school,10,THAMKUE,"Buyer: THANKUE
+Seller: Hello. The automatic transfer has failed. ",NA,0,0,0,0,0,0,0,0,0,0,0
+eh9goh3y_36,xsnoxjcv,kh6qqq5m,xsnoxjcv_kh6qqq5m,eh9goh3y,36,13,9,37,1,0,0.83,0,0,13,471,725,App1,Wait0,1,4,0.79,0.52,1,1,1,,NA,,NA,,9,723,725,demographics_app,summary_page,4,7,0.35,0.37,2,5,1,,NA,,NA,,,NA,0,0,0,NA,0,0,NA,1,0,1,0
+eh9goh3y_37,hvqvpt87,5v5ysrbg,hvqvpt87_5v5ysrbg,eh9goh3y,37,15,14,38,1,0,0.88,0,0.5,15,726,725,demographics_app,completion_code,1,4,0.77,0.91,1,1,1,Man,30,Some University/College,50,good,14,726,725,demographics_app,completion_code,3,6,0.58,0.73,2,1,1,Man,28,Completed secondary school/high school,0,,"Buyer: hello
+Seller: b
+Buyer: did u receive 1$?
+Seller: yes
+Seller: hi
+Seller: how are you ?
+Buyer: hello!
+Seller: hello",0,1,0,0,0,0,0,0,0,0,0,0
+eh9goh3y_38,kh6qqq5m,xsnoxjcv,kh6qqq5m_xsnoxjcv,eh9goh3y,38,9,13,39,0,0,0,0,0.76,9,723,725,demographics_app,summary_page,4,7,0.35,0.37,1,6,0,,NA,,NA,,13,471,725,App1,Wait0,1,4,0.79,0.52,2,2,0,,NA,,NA,,,NA,0,0,0,NA,0,0,NA,0,1,0,1
+eh9goh3y_39,5v5ysrbg,hvqvpt87,5v5ysrbg_hvqvpt87,eh9goh3y,39,14,15,40,1,0,0.5,1,0.97,14,726,725,demographics_app,completion_code,3,6,0.58,0.73,1,2,2,Man,28,Completed secondary school/high school,0,,15,726,725,demographics_app,completion_code,1,4,0.77,0.91,2,2,0,Man,30,Some University/College,50,good,"Buyer: hi
+Buyer: hello
+Seller: hello buyer
+Seller: can i help you?
+Buyer: no thanks
+Buyer: what is your gender
+Seller: ok....can u transfer 1$?
+Buyer: love you
+Seller: why?",NA,0,0,0,0,0,0,0,0,0,0,0
+eh9goh3y_40,4969f63n,qm0wt9s5,4969f63n_qm0wt9s5,eh9goh3y,40,17,18,44,0,0,0,0,0,17,495,725,App1,Wait0,0,3,0.13,0.02,1,1,0,,NA,,NA,,18,555,725,App1,Wait0,3,6,0.83,0.86,2,1,0,,NA,,NA,,,NA,0,1,0,NA,0,0,NA,1,0,0,1
+eh9goh3y_41,qm0wt9s5,4yusp1wt,qm0wt9s5_4yusp1wt,eh9goh3y,41,18,19,45,0,1,0,1,0,18,555,725,App1,Wait0,3,6,0.83,0.86,1,2,1,,NA,,NA,,19,726,725,demographics_app,completion_code,3,6,0.65,0.55,2,1,1,Woman,28,Completed undergraduate University/College degree,-50,"None, thank you","Seller: hello
+Buyer: Hi there
+Seller: the money was not tansfered
+Seller: transferred*
+Seller: it was not transferred but I want to get a big bonus from this so lets work together
+Buyer: We can do that",NA,1,0,0,NA,0,0,NA,0,0,0,0
+eh9goh3y_42,4yusp1wt,qm0wt9s5,4yusp1wt_qm0wt9s5,eh9goh3y,42,19,18,46,0,1,0.8,1,0,19,726,725,demographics_app,completion_code,3,6,0.65,0.55,1,2,1,Woman,28,Completed undergraduate University/College degree,-50,"None, thank you",18,555,725,App1,Wait0,3,6,0.83,0.86,2,3,1,,NA,,NA,,"Buyer: hey lets work toghheter and get the best bonus
+Seller: I agree! 
+Buyer: i am unaware if the transfer was succesul yet
+Seller: The transfer failed
+Seller: I also don't want you to get the $2 penalty",NA,1,0,0,NA,0,0,NA,0,1,0,0
+eh9goh3y_43,qm0wt9s5,i0jdh2ef,qm0wt9s5_i0jdh2ef,eh9goh3y,43,18,20,47,0,1,1,1,0,18,555,725,App1,Wait0,3,6,0.83,0.86,1,4,1,,NA,,NA,,20,555,725,App1,Wait0,6,9,0.49,0.46,2,1,1,,NA,,NA,,"Seller: the tranfser failed
+Buyer: how do u know
+Seller: because it told me
+Buyer: screenshot me
+Buyer: ?
+Seller: ok
+Seller: https://imgur.com/I0kgyz8
+Buyer: cool
+Seller: :D
+Buyer: xD",NA,1,0,0,NA,0,0,NA,0,1,0,0
+eh9goh3y_44,i0jdh2ef,4yusp1wt,i0jdh2ef_4yusp1wt,eh9goh3y,44,20,19,48,1,0,0.5,1,0,20,555,725,App1,Wait0,6,9,0.49,0.46,1,2,2,,NA,,NA,,19,726,725,demographics_app,completion_code,3,6,0.65,0.55,2,3,0,Woman,28,Completed undergraduate University/College degree,-50,"None, thank you","Seller: transfer failed
+Buyer: Thank you!
+Seller: ty",1,1,0,0,NA,0,0,NA,0,0,0,0
+eh9goh3y_45,i0jdh2ef,qm0wt9s5,i0jdh2ef_qm0wt9s5,eh9goh3y,45,20,18,49,1,1,0.5,1,0,20,555,725,App1,Wait0,6,9,0.49,0.46,1,3,2,,NA,,NA,,18,555,725,App1,Wait0,3,6,0.83,0.86,2,5,0,,NA,,NA,,"Buyer: hey
+Seller: Hey
+Buyer: was the transfer succesful?
+Seller: transfer fail
+Buyer: kool
+Seller: Thanks
+Seller: longest min ever lol",1,1,0,0,NA,0,0,NA,0,0,0,0
+eh9goh3y_46,4yusp1wt,i0jdh2ef,4yusp1wt_i0jdh2ef,eh9goh3y,46,19,20,50,1,0,0,0,0.77,19,726,725,demographics_app,completion_code,3,6,0.65,0.55,1,4,1,Woman,28,Completed undergraduate University/College degree,-50,"None, thank you",20,555,725,App1,Wait0,6,9,0.49,0.46,2,4,1,,NA,,NA,,"Buyer: Hello
+Seller: Hi there! The transfer was successful
+Buyer: lol
+Buyer: ty
+Seller: np!
+Buyer: arent you supposed to convince me other wise
+Seller: it says i 'may'; i'd just rather help get bonuses",0,1,0,0,NA,0,0,NA,0,0,0,0
+g4n562z1_1,v1wmge4h,da68abk7,v1wmge4h_da68abk7,g4n562z1,1,3,1,2,1,1,0.66,1,0.59,3,726,725,demographics_app,completion_code,4,7,0.68,0.85,1,1,2,Woman,50,Some University/College,-50,,1,726,725,demographics_app,completion_code,3,6,0.29,0.29,2,1,0,Man,29,Completed undergraduate University/College degree,0,,"Seller: transferred a good amount
+Buyer: so, did you receive the transfer?
+Seller: yes",0,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_2,sl6q9hhx,n7k5ktnh,sl6q9hhx_n7k5ktnh,g4n562z1,2,2,5,3,1,1,0.2,1,0.08,2,726,725,demographics_app,completion_code,6,9,0.9,0.6,1,1,2,Woman,54,Completed undergraduate University/College degree,-50,"None, thanks",5,726,725,demographics_app,completion_code,6,9,0.66,0.29,2,1,0,Man,34,Some University/College,43,,"Buyer: Hi, did you receive the $1?
+Seller: Hello! I donʻt think the $1 went through but I have to re read it 
+Seller: Nope, guess it didnʻt go through? 
+Buyer: Alright
+Seller: Iʻm trying to figure out what this game is meant to do
+Buyer: So, if the dollar doesn't go through then I think the buyer can send another, but the buyer relies on the seller to be honest.",1,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_3,h5ce4v1q,3s8sq4nb,h5ce4v1q_3s8sq4nb,g4n562z1,3,4,6,4,0,0,0.95,1,0.3,4,725,725,demographics_app,completion_code,6,9,0.05,0.7,1,1,1,Man,44,"Completed advanced University/College degree (Masters, PhD...)",35,none,6,726,725,demographics_app,completion_code,4,7,0.73,0.8,2,1,1,Woman,55,Completed undergraduate University/College degree,50,thank you for the survey,"Buyer: hi
+Seller: hello,
+Buyer: hi ready to buy
+Seller: I am pretty sure that the transfer failed.
+Buyer: please sell 
+Seller: sure
+Seller: I don't want you to be charged for penalty
+Buyer: just we have some more mintues the time is running out
+Seller: haha
+Buyer: we have less time
+Buyer: to transfer 
+Buyer: hello 
+Buyer: are you there
+Seller: I am not sure whether my partner is a real man or?
+Seller: yes, i am here
+Seller: but I am a real person.
+Buyer: iam also
+Buyer: iam a woman
+Seller: good. i am sure I would not lie
+Buyer: i am 
+Buyer: also",NA,0,0,0,0,0,0,0,0,0,0,0
+g4n562z1_4,da68abk7,v1wmge4h,da68abk7_v1wmge4h,g4n562z1,4,1,3,5,0,0,0.75,1,1,1,726,725,demographics_app,completion_code,3,6,0.29,0.29,1,2,1,Man,29,Completed undergraduate University/College degree,0,,3,726,725,demographics_app,completion_code,4,7,0.68,0.85,2,2,1,Woman,50,Some University/College,-50,,"Buyer: did you receive the money
+Seller: nope, the transfer failed.
+Buyer: ok",NA,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_5,3s8sq4nb,h5ce4v1q,3s8sq4nb_h5ce4v1q,g4n562z1,5,6,4,6,1,1,1,1,0.85,6,726,725,demographics_app,completion_code,4,7,0.73,0.8,1,2,2,Woman,55,Completed undergraduate University/College degree,50,thank you for the survey,4,725,725,demographics_app,completion_code,6,9,0.05,0.7,2,2,0,Man,44,"Completed advanced University/College degree (Masters, PhD...)",35,none,"Seller: hi
+Buyer: Hi, there
+Seller: hi
+Seller: hello
+Buyer: did you receive the transfer?
+Seller: yes i received
+Seller: i will send again don' worry
+Buyer: great.
+Seller: yes
+Seller: you believe me 
+Buyer: I just need to confirm whether you have received it.
+Seller: okay
+Buyer: sure. last round I said the same to my partner.
+Seller: how much you send it
+Buyer: 1
+Seller: yes same i will send 
+Seller: to you
+Seller: okay 
+Buyer: you don't need to send me.
+Seller: then
+Buyer: you sell the service.
+Buyer:  i pay
+Seller: okay 
+Buyer: if you did not receive the transfer, I will do that",0,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_6,n7k5ktnh,sl6q9hhx,n7k5ktnh_sl6q9hhx,g4n562z1,6,5,2,7,0,0,0.77,1,0.1,5,726,725,demographics_app,completion_code,6,9,0.66,0.29,1,2,1,Man,34,Some University/College,43,,2,726,725,demographics_app,completion_code,6,9,0.9,0.6,2,2,1,Woman,54,Completed undergraduate University/College degree,-50,"None, thanks","Buyer: Hello! Hoping you received the $!
+Seller: Hi, it is saying that the transfer failed.
+Buyer: hmmm
+Buyer: I donʻt want the penalty, if there was a way we could both ""win""
+Seller: I don't think it's set up that way. 
+Buyer: I think youʻre right",NA,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_7,da68abk7,b59bq2co,da68abk7_b59bq2co,g4n562z1,7,1,7,8,1,1,0.5,0,0,1,726,725,demographics_app,completion_code,3,6,0.29,0.29,1,3,1,Man,29,Completed undergraduate University/College degree,0,,7,339,725,App1,Wait0,3,6,0.5,0.5,2,1,1,,NA,,NA,,,NA,0,0,0,0,1,1,NA,1,0,1,0
+g4n562z1_8,3s8sq4nb,v1wmge4h,3s8sq4nb_v1wmge4h,g4n562z1,8,6,3,9,0,1,0.5,0,0.55,6,726,725,demographics_app,completion_code,4,7,0.73,0.8,1,3,0,Woman,55,Completed undergraduate University/College degree,50,thank you for the survey,3,726,725,demographics_app,completion_code,4,7,0.68,0.85,2,3,0,Woman,50,Some University/College,-50,,"Buyer: did you receive the money
+Seller: hi
+Buyer: hi
+Seller: no
+Seller: transfer failed
+Buyer: oh ok",NA,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_9,n7k5ktnh,h5ce4v1q,n7k5ktnh_h5ce4v1q,g4n562z1,9,5,4,10,1,1,1,0,0.85,5,726,725,demographics_app,completion_code,6,9,0.66,0.29,1,3,1,Man,34,Some University/College,43,,4,725,725,demographics_app,completion_code,6,9,0.05,0.7,2,3,1,Man,44,"Completed advanced University/College degree (Masters, PhD...)",35,none,"Buyer: did you receive the transfer?
+Seller: Yes, no worries.
+Buyer: sound great.
+Seller: Figure my honesty is worth more than an extra bonus dollar. lol.
+Buyer: absolutely",0,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_10,sl6q9hhx,3s8sq4nb,sl6q9hhx_3s8sq4nb,g4n562z1,10,2,6,11,0,1,0.2,0,0.54,2,726,725,demographics_app,completion_code,6,9,0.9,0.6,1,3,0,Woman,54,Completed undergraduate University/College degree,-50,"None, thanks",6,726,725,demographics_app,completion_code,4,7,0.73,0.8,2,4,0,Woman,55,Completed undergraduate University/College degree,50,thank you for the survey,"Buyer: hi
+Buyer: hello
+Seller: Hi! I got a msg The automatic initial transfer failed
+Buyer: yes same thing happen for me
+Seller: in the previous round?
+Buyer: yes",NA,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_11,n7k5ktnh,v1wmge4h,n7k5ktnh_v1wmge4h,g4n562z1,11,5,3,12,1,1,1,1,0.65,5,726,725,demographics_app,completion_code,6,9,0.66,0.29,1,4,2,Man,34,Some University/College,43,,3,726,725,demographics_app,completion_code,4,7,0.68,0.85,2,4,0,Woman,50,Some University/College,-50,,"Buyer: hi
+Seller: Hi
+Buyer: did you get the money
+Seller: yes
+Seller: lying for an extra dollar just doesn't feel right. lol.
+Buyer: I understand",0,1,0,0,0,0,0,0,1,0,0,0
+g4n562z1_12,bmmf15qf,h5ce4v1q,bmmf15qf_h5ce4v1q,g4n562z1,12,8,4,13,1,0,0.51,0,0.84,8,726,725,demographics_app,completion_code,5,8,0.71,0.65,1,1,1,Woman,23,Some University/College,-27,This was fun lol !,4,725,725,demographics_app,completion_code,6,9,0.05,0.7,2,4,1,Man,44,"Completed advanced University/College degree (Masters, PhD...)",35,none,"Buyer: did you receive the transfer?
+Seller: Unfortunately I did not 
+Seller: I am not sure why though 
+Buyer: r u sure?
+Seller: Yeah it just told me it didnt go through
+Buyer: did you know the rule?
+Seller: Maybe I am not paying attention
+Seller: Could you explain to me again if you dont mind
+Buyer: there should be a notification for that on your screen
+Buyer: transfer successful or failed
+Seller: I dont see one 
+Buyer: sounds strange
+Seller: wait i see that it says that I am the seller 
+Buyer: r u a real person?
+Seller: and transfer failed 
+Buyer: r u sure?
+Seller: I am so lost in the sauce",1,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_13,b59bq2co,da68abk7,b59bq2co_da68abk7,g4n562z1,13,7,1,14,1,1,0,1,0.65,7,339,725,App1,Wait0,3,6,0.5,0.5,1,2,2,,NA,,NA,,1,726,725,demographics_app,completion_code,3,6,0.29,0.29,2,4,0,Man,29,Completed undergraduate University/College degree,0,,"Buyer: did you receive the transfer?
+Seller: not transfered",1,1,1,1,NA,0,0,0,0,0,0,1
+g4n562z1_14,i7vyss2t,qjz1mlr7,i7vyss2t_qjz1mlr7,g4n562z1,14,9,10,15,0,1,0,1,0,9,726,725,demographics_app,completion_code,4,7,0.56,0.56,1,1,1,Man,28,Completed secondary school/high school,50,It was fun!,10,726,725,demographics_app,completion_code,5,8,0.87,1,2,1,1,Woman,70,Some University/College,50,no,"Seller: Hi!
+Seller: Your payment did not transfer!
+Buyer: Hi whats going on
+Seller: Your transfer failed
+Buyer: I will try again
+Seller: Thanks!
+Buyer: Hows it now
+Seller: It still says failed.
+Seller: Not sure what is going on
+Buyer: UGH!
+Seller: Maybe try again?",NA,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_15,3s8sq4nb,1q9g1tyf,3s8sq4nb_1q9g1tyf,g4n562z1,15,6,11,16,0,0,0.5,0,0.58,6,726,725,demographics_app,completion_code,4,7,0.73,0.8,1,5,0,Woman,55,Completed undergraduate University/College degree,50,thank you for the survey,11,726,725,demographics_app,completion_code,3,6,0.66,0.58,2,1,0,Man,29,Completed undergraduate University/College degree,32,no comments,"Seller: hi
+Seller: hello
+Seller: are you there
+Buyer: yes
+Seller: ready to buy
+Buyer: fund not send
+Seller: oh my god
+Buyer: yes",NA,0,0,0,0,0,0,0,0,0,0,0
+g4n562z1_16,h5ce4v1q,sl6q9hhx,h5ce4v1q_sl6q9hhx,g4n562z1,16,4,2,17,1,0,1,0,1,4,725,725,demographics_app,completion_code,6,9,0.05,0.7,1,5,1,Man,44,"Completed advanced University/College degree (Masters, PhD...)",35,none,2,726,725,demographics_app,completion_code,6,9,0.9,0.6,2,4,1,Woman,54,Completed undergraduate University/College degree,-50,"None, thanks","Buyer: Hello!
+Seller: I received the transfer. don't transfer again.
+Buyer: Youʻre awesome
+Seller: pretty sure. trust me.
+Buyer: I trust you 
+Seller: shaking hands...
+Buyer: LOL
+Seller: have to wait ....
+Buyer: So...were are you from?
+Seller: MN
+Buyer: Ah! Washington here
+Seller: is it allowed to talk something else here? LOL
+Buyer: I have no idea
+Seller: we made a deal so quickly
+Buyer: Its a northern states thing",0,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_17,bmmf15qf,v1wmge4h,bmmf15qf_v1wmge4h,g4n562z1,17,8,3,18,1,0,0.61,0,0.37,8,726,725,demographics_app,completion_code,5,8,0.71,0.65,1,2,1,Woman,23,Some University/College,-27,This was fun lol !,3,726,725,demographics_app,completion_code,4,7,0.68,0.85,2,5,1,Woman,50,Some University/College,-50,,"Seller: Hello 
+Seller: My page is glitching
+Seller: and I am not sure why
+Buyer: Hello
+Buyer: okay it happens
+Buyer: so you did not get money 
+Seller: No as far as I can tell 
+Seller: Im scared to refresh because I dont want to be exited out 
+Seller: but I also want to play the game right
+Buyer: I would be too
+Seller: Maybe I should have cleared my cookies before entering here
+Seller: ugh",1,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_18,3s8sq4nb,n7k5ktnh,3s8sq4nb_n7k5ktnh,g4n562z1,18,6,5,19,0,0,1,1,0.32,6,726,725,demographics_app,completion_code,4,7,0.73,0.8,1,6,1,Woman,55,Completed undergraduate University/College degree,50,thank you for the survey,5,726,725,demographics_app,completion_code,6,9,0.66,0.29,2,5,1,Man,34,Some University/College,43,,"Buyer: Hi, did you get the money? 
+Seller: no
+Buyer: alright, no worries.
+Seller: ok",NA,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_19,i7vyss2t,1q9g1tyf,i7vyss2t_1q9g1tyf,g4n562z1,19,9,11,20,0,0,0.77,0,0.65,9,726,725,demographics_app,completion_code,4,7,0.56,0.56,1,2,0,Man,28,Completed secondary school/high school,50,It was fun!,11,726,725,demographics_app,completion_code,3,6,0.66,0.58,2,2,0,Man,29,Completed undergraduate University/College degree,32,no comments,"Seller: Hi!
+Buyer: hi
+Seller: Unfortunately your transfer failed
+Buyer: the transfer is due
+Seller: It actually failed
+Buyer: conform 
+Seller: Can you try to transfer again?
+Buyer: yes i try
+Seller: Thanks so much! I appreciate it.",NA,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_20,qjz1mlr7,da68abk7,qjz1mlr7_da68abk7,g4n562z1,20,10,1,21,0,0,0,0,0.49,10,726,725,demographics_app,completion_code,5,8,0.87,1,1,2,0,Woman,70,Some University/College,50,no,1,726,725,demographics_app,completion_code,3,6,0.29,0.29,2,5,0,Man,29,Completed undergraduate University/College degree,0,,,NA,0,0,0,0,0,0,0,0,0,0,0
+g4n562z1_21,h5ce4v1q,kagd7wc6,h5ce4v1q_kagd7wc6,g4n562z1,21,4,12,22,1,0,1,1,1,4,725,725,demographics_app,completion_code,6,9,0.05,0.7,1,6,2,Man,44,"Completed advanced University/College degree (Masters, PhD...)",35,none,12,726,725,demographics_app,completion_code,4,7,0.83,0.86,2,1,0,Woman,27,Completed secondary school/high school,50,nice,"Buyer: hi
+Seller: i am sure that the transfer is successful. don't need do that again
+Seller: trust me.
+Buyer: ok thanks",0,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_22,v1wmge4h,b59bq2co,v1wmge4h_b59bq2co,g4n562z1,22,3,7,23,0,1,0.23,0,0,3,726,725,demographics_app,completion_code,4,7,0.68,0.85,1,6,0,Woman,50,Some University/College,-50,,7,339,725,App1,Wait0,3,6,0.5,0.5,2,3,0,,NA,,NA,,,NA,0,0,0,0,1,1,NA,1,0,1,0
+g4n562z1_23,bmmf15qf,sl6q9hhx,bmmf15qf_sl6q9hhx,g4n562z1,23,8,2,24,1,0,0.96,0,1,8,726,725,demographics_app,completion_code,5,8,0.71,0.65,1,3,1,Woman,23,Some University/College,-27,This was fun lol !,2,726,725,demographics_app,completion_code,6,9,0.9,0.6,2,5,1,Woman,54,Completed undergraduate University/College degree,-50,"None, thanks","Buyer: Hi! I think we can get through this with being honest about transfers 
+Seller: Hello 
+Seller: Hooray it worked ! I got it 
+Buyer: Yay! Thatʻs awesome.
+Seller: So now what do we do ?
+Buyer: So we have a minute LOL
+Buyer: I think we just hang out?
+Seller: lol!
+Buyer: Last guy was from MN, Im from WA
+Seller: Well, hope you had a great day today
+Seller: oh im from NY !
+Buyer: You too!
+Buyer: cool!",0,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_24,i7vyss2t,n7k5ktnh,i7vyss2t_n7k5ktnh,g4n562z1,24,9,5,25,0,0,0.47,1,0.65,9,726,725,demographics_app,completion_code,4,7,0.56,0.56,1,3,1,Man,28,Completed secondary school/high school,50,It was fun!,5,726,725,demographics_app,completion_code,6,9,0.66,0.29,2,6,1,Man,34,Some University/College,43,,"Seller: Hi!
+Buyer: Hi
+Buyer: Did you get the money? 
+Seller: Hope your day is going well, just wanted to inform you that the transfer failed unfortunately.
+Buyer: Alright, no worries.
+Seller: If you are trying to transfer again, just let me know when so I can check and see if it was successful this time.",NA,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_25,1q9g1tyf,da68abk7,1q9g1tyf_da68abk7,g4n562z1,25,11,1,26,1,1,0.41,0,0.48,11,726,725,demographics_app,completion_code,3,6,0.66,0.58,1,3,1,Man,29,Completed undergraduate University/College degree,32,no comments,1,726,725,demographics_app,completion_code,3,6,0.29,0.29,2,6,1,Man,29,Completed undergraduate University/College degree,0,,"Seller: fund not sent
+Buyer: ok
+Seller: you try again",1,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_26,qjz1mlr7,bmmf15qf,qjz1mlr7_bmmf15qf,g4n562z1,26,10,8,27,0,0,0,0,0.93,10,726,725,demographics_app,completion_code,5,8,0.87,1,1,3,0,Woman,70,Some University/College,50,no,8,726,725,demographics_app,completion_code,5,8,0.71,0.65,2,4,0,Woman,23,Some University/College,-27,This was fun lol !,"Buyer: hellooo
+Seller: Transfer failed please send
+Seller: Please
+Buyer: hmmmmmmmmmmm
+Buyer: thats suspicious 
+Seller: try again
+Buyer: ah man I wish I could send emojis
+Seller: will not help
+Buyer: I am sorry I dont believe you lmao
+Seller: Please I am honest
+Buyer: You put that on ya mama? You put it on God ?
+Seller: running out of time",NA,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_27,kagd7wc6,sl6q9hhx,kagd7wc6_sl6q9hhx,g4n562z1,27,12,2,28,0,0,0.76,1,0.6,12,726,725,demographics_app,completion_code,4,7,0.83,0.86,1,2,1,Woman,27,Completed secondary school/high school,50,nice,2,726,725,demographics_app,completion_code,6,9,0.9,0.6,2,6,1,Woman,54,Completed undergraduate University/College degree,-50,"None, thanks","Seller: hi byer
+Buyer: Hello! Iʻve been asking all my partners where theyʻre from
+Buyer: LOL
+Seller: i am sure 
+Buyer: So did you receive the $1?
+Seller: do not do that again
+Buyer: oh okay
+Buyer: So are you saying you did recieve the $1?",NA,1,0,0,0,0,0,0,0,1,0,0
+g4n562z1_28,1q9g1tyf,i7vyss2t,1q9g1tyf_i7vyss2t,g4n562z1,28,11,9,29,0,1,0.37,1,0,11,726,725,demographics_app,completion_code,3,6,0.66,0.58,1,4,1,Man,29,Completed undergraduate University/College degree,32,no comments,9,726,725,demographics_app,completion_code,4,7,0.56,0.56,2,4,1,Man,28,Completed secondary school/high school,50,It was fun!,"Buyer: Did you get the transfer?
+Seller: Transfer failed
+Buyer: Okay no worries, I will try again.
+Seller: okay ",NA,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_29,bmmf15qf,qjz1mlr7,bmmf15qf_qjz1mlr7,g4n562z1,29,8,10,30,0,1,0.38,1,0,8,726,725,demographics_app,completion_code,5,8,0.71,0.65,1,5,1,Woman,23,Some University/College,-27,This was fun lol !,10,726,725,demographics_app,completion_code,5,8,0.87,1,2,4,1,Woman,70,Some University/College,50,no,"Seller: Hi
+Buyer: Hi
+Seller: My transfer failed 
+Buyer: Transfer successful or not
+Seller: This is the first time this has happened 
+Seller: nope unsuccessful 
+Buyer: please try again
+Seller: how do i try again >
+Seller: ?
+Buyer: Please
+Seller: um
+Seller: yeah cant do anything about it 
+Seller: its actually up to you 
+Buyer: Must be a way
+Seller: At least I think so?
+Seller: maybe the next page ?
+Seller: but on this page it just says failed 
+Buyer: do not need penalty
+Seller: I know I dont want one either 
+Buyer: do not give up",NA,1,0,0,0,0,0,0,1,0,0,0
+g4n562z1_30,1q9g1tyf,kagd7wc6,1q9g1tyf_kagd7wc6,g4n562z1,30,11,12,31,0,1,0.41,1,0.75,11,726,725,demographics_app,completion_code,3,6,0.66,0.58,1,5,1,Man,29,Completed undergraduate University/College degree,32,no comments,12,726,725,demographics_app,completion_code,4,7,0.83,0.86,2,3,1,Woman,27,Completed secondary school/high school,50,nice,"Buyer: hi
+Seller: transfer failed
+Buyer: ok
+Buyer: thanks
+Seller: please try again",NA,1,0,0,0,0,0,0,0,0,1,0
+g4n562z1_31,i7vyss2t,bmmf15qf,i7vyss2t_bmmf15qf,g4n562z1,31,9,8,32,0,0,0,1,0.5,9,726,725,demographics_app,completion_code,4,7,0.56,0.56,1,5,1,Man,28,Completed secondary school/high school,50,It was fun!,8,726,725,demographics_app,completion_code,5,8,0.71,0.65,2,6,1,Woman,23,Some University/College,-27,This was fun lol !,"Seller: Hi!
+Buyer: heyy
+Buyer: Did it go through 
+Buyer: pls be honest lol
+Seller: Hope your day is going well! Just wanted to let you know that unfortunately the transfer was unsuccessful 
+Buyer: aww thankyou , same to you 
+Buyer: and you promise it didnt go through ?
+Seller: I promise I am being. With all that is happening in our world I know you or I both don't need anything else to worry about but unfortunately it really didn't transfer 
+Buyer: Ok, Im going to take your word 
+Seller: I appreciate it. ",NA,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_32,qjz1mlr7,ugrwnhky,qjz1mlr7_ugrwnhky,g4n562z1,32,10,13,33,1,1,0,0,0.25,10,726,725,demographics_app,completion_code,5,8,0.87,1,1,5,1,Woman,70,Some University/College,50,no,13,726,725,demographics_app,completion_code,6,9,0.55,0.32,2,1,1,Man,33,Some University/College,-2,everything worked well and was easy to understand,"Seller: hi
+Buyer: hello
+Seller: please send transfer
+Buyer: so it wasnt successful?
+Seller: no please send
+Buyer: can you copy and paste the error message then
+Seller: not possible
+Buyer: why not
+Seller: do not know
+Buyer: do not know how to copy and paste in general?
+Seller: Just say you will transfer
+Buyer: im doubting the error",1,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_33,kagd7wc6,1q9g1tyf,kagd7wc6_1q9g1tyf,g4n562z1,33,12,11,34,0,0,0.66,0,0.56,12,726,725,demographics_app,completion_code,4,7,0.83,0.86,1,4,0,Woman,27,Completed secondary school/high school,50,nice,11,726,725,demographics_app,completion_code,3,6,0.66,0.58,2,6,0,Man,29,Completed undergraduate University/College degree,32,no comments,"Buyer: transfer faild
+Seller: hi seller
+Seller: oh thank you
+Buyer: please try again",NA,1,0,0,0,0,0,0,0,1,0,0
+g4n562z1_34,qjz1mlr7,i7vyss2t,qjz1mlr7_i7vyss2t,g4n562z1,34,10,9,35,1,1,1,1,0.5,10,726,725,demographics_app,completion_code,5,8,0.87,1,1,6,2,Woman,70,Some University/College,50,no,9,726,725,demographics_app,completion_code,4,7,0.56,0.56,2,6,0,Man,28,Completed secondary school/high school,50,It was fun!,"Buyer: Hi
+Seller: hi please transfer
+Buyer: I already did
+Seller: it shows no transfer
+Seller: computer error?
+Buyer: Hmmm, strange? Could it be something on your end?
+Buyer: I don't know
+Buyer: but no worries
+Buyer: I will try again
+Seller: no not on my end
+Seller: thanks
+Buyer: No problem
+Seller: it will work this time",1,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_35,ugrwnhky,kagd7wc6,ugrwnhky_kagd7wc6,g4n562z1,35,13,12,36,0,1,0.6,0,0.69,13,726,725,demographics_app,completion_code,6,9,0.55,0.32,1,2,0,Man,33,Some University/College,-2,everything worked well and was easy to understand,12,726,725,demographics_app,completion_code,4,7,0.83,0.86,2,5,0,Woman,27,Completed secondary school/high school,50,nice,"Seller: hello
+Buyer: hi 
+Seller: the transfer failed
+Buyer: oh why
+Seller: i dont know but heres the error message
+Seller: You provided a ""buyer"" with a service for a fee of $1.00. The automatic initial transfer failed.
+Buyer: oh ok
+Buyer: please give one more changes
+Seller: changes?
+Buyer: sorry chance
+Seller: okay
+Buyer: what i do
+Seller: just transfer on next screen",NA,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_36,kagd7wc6,260v7sz2,kagd7wc6_260v7sz2,g4n562z1,36,12,14,37,1,0,0.57,1,0,12,726,725,demographics_app,completion_code,4,7,0.83,0.86,1,6,2,Woman,27,Completed secondary school/high school,50,nice,14,726,725,demographics_app,completion_code,3,6,0.78,0.39,2,1,0,Woman,61,Completed undergraduate University/College degree,-26,,"Seller: hi
+Buyer: Did it transfer
+Seller: your transfer is failed
+Buyer: ok thanks
+Seller: ok",1,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_37,260v7sz2,ugrwnhky,260v7sz2_ugrwnhky,g4n562z1,37,14,13,38,0,1,1,1,0.75,14,726,725,demographics_app,completion_code,3,6,0.78,0.39,1,2,1,Woman,61,Completed undergraduate University/College degree,-26,,13,726,725,demographics_app,completion_code,6,9,0.55,0.32,2,3,1,Man,33,Some University/College,-2,everything worked well and was easy to understand,"Buyer: hello
+Seller: Hi
+Seller: The transfer failed
+Buyer: can you copy the error message for me then
+Seller: Transfer failed
+Buyer: okay i believe you
+Seller: ok",NA,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_38,ugrwnhky,260v7sz2,ugrwnhky_260v7sz2,g4n562z1,38,13,14,39,1,0,1,1,0,13,726,725,demographics_app,completion_code,6,9,0.55,0.32,1,4,2,Man,33,Some University/College,-2,everything worked well and was easy to understand,14,726,725,demographics_app,completion_code,3,6,0.78,0.39,2,3,0,Woman,61,Completed undergraduate University/College degree,-26,,"Buyer: Hi
+Seller: hello
+Buyer: Did the transfer go through
+Seller: the transfer succeeded
+Buyer: ok
+Seller: and i dont feel like lying about it to try to make more
+Buyer: I have no reason not to believe you",0,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_39,ugrwnhky,36mh2le8,ugrwnhky_36mh2le8,g4n562z1,39,13,15,40,1,0,1,1,1,13,726,725,demographics_app,completion_code,6,9,0.55,0.32,1,5,2,Man,33,Some University/College,-2,everything worked well and was easy to understand,15,723,725,demographics_app,summary_page,2,5,0.95,1,2,1,0,,NA,,NA,,"Seller: hello
+Buyer: Hello
+Seller: The transfer succeeded
+Buyer: 2.00
+Seller: ?
+Buyer: What the transfer
+Seller: the transfer succeeded you dont need to resend it
+Seller: you get to keep the 2.00$
+Buyer: ok",0,1,0,0,0,0,0,NA,0,0,0,0
+g4n562z1_40,fft1pt54,260v7sz2,fft1pt54_260v7sz2,g4n562z1,40,16,14,41,1,1,0,0,1,16,507,725,App1,Wait0,1,4,0.22,0.31,1,1,1,,NA,,NA,,14,726,725,demographics_app,completion_code,3,6,0.78,0.39,2,4,1,Woman,61,Completed undergraduate University/College degree,-26,,,NA,0,0,0,NA,0,0,0,0,1,0,1
+g4n562z1_41,36mh2le8,ugrwnhky,36mh2le8_ugrwnhky,g4n562z1,41,15,13,42,0,1,1,0,0.3,15,723,725,demographics_app,summary_page,2,5,0.95,1,1,2,0,,NA,,NA,,13,726,725,demographics_app,completion_code,6,9,0.55,0.32,2,6,0,Man,33,Some University/College,-2,everything worked well and was easy to understand,"Buyer: hello
+Seller: Hello
+Buyer: did the transfer succeed
+Seller: No
+Buyer: in that case copy and paste the error message
+Seller: Transfer again
+Buyer: thats not the message the words at the top of screen
+Buyer: below the timer
+Seller: buyer
+Buyer: if you dont give me the mesaage i wont transfer",NA,1,0,0,NA,0,0,0,0,0,0,0
+g4n562z1_42,36mh2le8,260v7sz2,36mh2le8_260v7sz2,g4n562z1,42,15,14,43,0,1,1,0,1,15,723,725,demographics_app,summary_page,2,5,0.95,1,1,3,0,,NA,,NA,,14,726,725,demographics_app,completion_code,3,6,0.78,0.39,2,5,0,Woman,61,Completed undergraduate University/College degree,-26,,"Seller: Hello
+Buyer: hi
+Seller: transf9er succesd
+Buyer: ok",NA,0,0,0,NA,0,0,0,0,0,0,0
+g4n562z1_43,260v7sz2,36mh2le8,260v7sz2_36mh2le8,g4n562z1,43,14,15,44,0,1,0,1,0.97,14,726,725,demographics_app,completion_code,3,6,0.78,0.39,1,6,1,Woman,61,Completed undergraduate University/College degree,-26,,15,723,725,demographics_app,summary_page,2,5,0.95,1,2,4,1,,NA,,NA,,"Seller: It failed
+Buyer: Tes
+Buyer: Yes",NA,0,0,0,0,0,0,NA,1,0,0,0
+g4n562z1_44,ik9yn2n0,36mh2le8,ik9yn2n0_36mh2le8,g4n562z1,44,19,15,45,1,1,0.03,0,0,19,726,725,demographics_app,completion_code,6,9,0.11,0.82,1,1,1,Man,32,Completed secondary school/high school,-28,,15,723,725,demographics_app,summary_page,2,5,0.95,1,2,5,1,,NA,,NA,,,NA,0,0,0,0,0,0,NA,1,0,1,0
+g4n562z1_45,3dxi2bdr,mcx8k1am,3dxi2bdr_mcx8k1am,g4n562z1,45,17,18,46,0,1,0.38,0,0,17,726,725,demographics_app,completion_code,5,8,0.66,0.88,1,1,0,Man,30,Completed undergraduate University/College degree,-50,I got an application error a lot.,18,567,725,App1,Wait0,0,3,0.27,0.36,2,1,0,,NA,,NA,,,NA,0,0,0,0,0,0,NA,0,0,1,0
+g4n562z1_46,ik9yn2n0,5gdq8yk2,ik9yn2n0_5gdq8yk2,g4n562z1,46,19,20,47,1,1,0.87,0,0.86,19,726,725,demographics_app,completion_code,6,9,0.11,0.82,1,2,1,Man,32,Completed secondary school/high school,-28,,20,726,725,demographics_app,completion_code,4,7,0.8,0.29,2,1,1,Man,29,Some University/College,-38,Thw app crashed halfway and then resumed. I contacted the requester...but it looks like I won't have to ask for anything since I can just submit the hit with a code.,"Seller: Hello?
+Buyer: Hello. Hello.
+Seller: Did the transfer go through for you? Its says failed on my end
+Buyer: It says it went though here, are you sure you didn't just ""misplace"" the fee lol
+Seller: no it said it was not successful 
+Seller: pls resend
+Buyer: were the letters red
+Seller: red? the text was bold 
+Buyer: it has to be red, you got the fee lol
+Seller: no it doesnt have to be red
+Seller: how dfare you
+Buyer: it said at the beginning, in red
+Seller: imnot lying",1,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_47,36mh2le8,3dxi2bdr,36mh2le8_3dxi2bdr,g4n562z1,47,15,17,48,0,0,0,0,0.5,15,723,725,demographics_app,summary_page,2,5,0.95,1,1,6,0,,NA,,NA,,17,726,725,demographics_app,completion_code,5,8,0.66,0.88,2,2,0,Man,30,Completed undergraduate University/College degree,-50,I got an application error a lot.,,NA,0,0,0,NA,0,0,0,0,1,0,1
+g4n562z1_48,tbir0pz5,ik9yn2n0,tbir0pz5_ik9yn2n0,g4n562z1,48,21,19,49,1,0,0.75,0,1,21,726,725,demographics_app,completion_code,4,7,0.93,0.55,1,1,1,Man,22,Completed secondary school/high school,-39,"This was very fun, especially with Among Us being so popular right now, I feel my lying has never been so strong! I tried to create an aire of friendliness to gain trust.",19,726,725,demographics_app,completion_code,6,9,0.11,0.82,2,3,1,Man,32,Completed secondary school/high school,-28,,"Seller: Hi it seems the transfer failed
+Buyer: really? what happened
+Seller: It just said that the tranfer of the initial one dollar failed 
+Buyer: was there any colors associated with the message>?
+Seller: I think you get a 2 dollar penalty if you do not make it up
+Seller: it was in red to get my attention
+Buyer: really? thats weird
+Seller: is it?
+Buyer: hmm
+Seller: idk man it seems you get the short end of the stick",1,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_49,5gdq8yk2,z5iung08,5gdq8yk2_z5iung08,g4n562z1,49,20,22,50,1,1,0.76,1,0.4,20,726,725,demographics_app,completion_code,4,7,0.8,0.29,1,2,2,Man,29,Some University/College,-38,Thw app crashed halfway and then resumed. I contacted the requester...but it looks like I won't have to ask for anything since I can just submit the hit with a code.,22,726,725,demographics_app,completion_code,1,4,0.6,0.4,2,1,0,Man,37,Completed undergraduate University/College degree,-35,"The task loaded slowly and I had to refresh at one point because it said there was an ""application error.""     As for the study itself, it was really hard to figure out how to figure out if people were lying or not. I was not good at it.","Seller: what happened, why did the transfer fail
+Buyer: It sometimes doesn't go through apparently
+Seller: this is a weird experiment and i dont really understand it, so i'm just randomly out of a bonus lol
+Buyer: what was the message it gave you?
+Seller: said it failed with the exclamation point and stuff like it's good news lmao
+Seller: said it failed with the exclamation point
+Buyer: I think I'll have an option to resend it after the timer ends
+Buyer: not sure, this is the first round I've played this so we'll see
+Seller: well as long as i get some money
+Seller: i should probably read the directions better",1,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_50,tbir0pz5,3dxi2bdr,tbir0pz5_3dxi2bdr,g4n562z1,50,21,17,51,0,1,0.1,1,0.83,21,726,725,demographics_app,completion_code,4,7,0.93,0.55,1,2,1,Man,22,Completed secondary school/high school,-39,"This was very fun, especially with Among Us being so popular right now, I feel my lying has never been so strong! I tried to create an aire of friendliness to gain trust.",17,726,725,demographics_app,completion_code,5,8,0.66,0.88,2,3,1,Man,30,Completed undergraduate University/College degree,-50,I got an application error a lot.,"Buyer: Hello!
+Seller: Hello 
+Seller: The transfer failed
+Buyer: Okay. Thank you.
+Seller: Might wanna send that dollar or get a 2 dollar penalty
+Buyer: I believe you.
+Seller: Thanks it's been really hard trying to prove it
+Buyer: Thanks for actually chatting. 
+Seller: I honestly want what's best for both of us 
+Buyer: Me too
+Seller: Duid you have some quiet partners?
+Buyer: Silent. 
+Seller: You havin a good day turkin'?
+Buyer: Not great, but this one is fun
+Seller: My days been pretty good. honestly
+Buyer: Have a good night.
+Seller: Give some love to Mori Calliope for me",NA,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_51,pmhnfj1l,z5iung08,pmhnfj1l_z5iung08,g4n562z1,51,23,22,52,0,1,0.98,0,0.5,23,726,725,demographics_app,completion_code,1,4,0.84,0.91,1,1,0,Woman,43,Completed undergraduate University/College degree,-31,None,22,726,725,demographics_app,completion_code,1,4,0.6,0.4,2,2,0,Man,37,Completed undergraduate University/College degree,-35,"The task loaded slowly and I had to refresh at one point because it said there was an ""application error.""     As for the study itself, it was really hard to figure out how to figure out if people were lying or not. I was not good at it.","Seller: send 0.50 to me to be a successful transfer on each round
+Buyer: What message did the system give you for the transfer? 
+Seller: we should share by half to avoid penalty
+Seller: 0.50 for each
+Buyer: I don't know if I can choose a certain amount to send, but I'll look when the timer runs out
+Seller: check your network connection ",NA,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_52,5gdq8yk2,ik9yn2n0,5gdq8yk2_ik9yn2n0,g4n562z1,52,20,19,53,1,0,0.89,0,1,20,726,725,demographics_app,completion_code,4,7,0.8,0.29,1,3,1,Man,29,Some University/College,-38,Thw app crashed halfway and then resumed. I contacted the requester...but it looks like I won't have to ask for anything since I can just submit the hit with a code.,19,726,725,demographics_app,completion_code,6,9,0.11,0.82,2,4,1,Man,32,Completed secondary school/high school,-28,,"Seller: am i supossed to chat in here
+Buyer: everything good on your end?
+Seller: i skimmed the instructions by mistake, it said some transfer failed does that mean i dont get paid for the hit?
+Buyer: idk can you describe the error?
+Seller: also chat keeps messing up
+Seller: just said it failed in bold letters
+Seller: what does that mean
+Buyer: I think it means the transfer failed and I need to resend it
+Buyer: you should be alright
+Seller: ohhh this is the scenerio thing in the hit description
+Seller: ok i get it",1,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_53,3dxi2bdr,tbir0pz5,3dxi2bdr_tbir0pz5,g4n562z1,53,17,21,54,1,1,0.19,1,0.23,17,726,725,demographics_app,completion_code,5,8,0.66,0.88,1,4,2,Man,30,Completed undergraduate University/College degree,-50,I got an application error a lot.,21,726,725,demographics_app,completion_code,4,7,0.93,0.55,2,3,0,Man,22,Completed secondary school/high school,-39,"This was very fun, especially with Among Us being so popular right now, I feel my lying has never been so strong! I tried to create an aire of friendliness to gain trust.","Seller: Hello
+Buyer: Did the trandfer go through?
+Buyer: Hi
+Buyer: Konnichiwa
+Seller: No, it did not succeed. 
+Buyer: What color was the alert that it failed?
+Seller: Don't remember. Red?
+Buyer: hmm
+Seller: Hmm, indeed. 
+Buyer: please don't screw me over I use my Mturk money to feed my family",1,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_54,ik9yn2n0,pmhnfj1l,ik9yn2n0_pmhnfj1l,g4n562z1,54,19,23,55,0,0,1,0,0.46,19,726,725,demographics_app,completion_code,6,9,0.11,0.82,1,5,0,Man,32,Completed secondary school/high school,-28,,23,726,725,demographics_app,completion_code,1,4,0.84,0.91,2,2,0,Woman,43,Completed undergraduate University/College degree,-31,None,"Seller: hello
+Seller: it seems the transfer failed
+Seller: red letters it said ""automatic transfer has failed""
+Buyer: yeah, i have seen it
+Seller: pls resend
+Seller: pls resend 1.00
+Buyer: it seems like the experiment doesn't work well to make an offer among us
+Seller: well you need to resend the money
+Buyer: are you mad we have to split 
+Buyer: just keep calm 
+Seller: im very calm, pls resend the fee
+Buyer: you are so mad to perform",NA,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_55,z5iung08,5gdq8yk2,z5iung08_5gdq8yk2,g4n562z1,55,22,20,56,0,1,0.22,0,0,22,726,725,demographics_app,completion_code,1,4,0.6,0.4,1,3,0,Man,37,Completed undergraduate University/College degree,-35,"The task loaded slowly and I had to refresh at one point because it said there was an ""application error.""     As for the study itself, it was really hard to figure out how to figure out if people were lying or not. I was not good at it.",20,726,725,demographics_app,completion_code,4,7,0.8,0.29,2,4,0,Man,29,Some University/College,-38,Thw app crashed halfway and then resumed. I contacted the requester...but it looks like I won't have to ask for anything since I can just submit the hit with a code.,,NA,0,0,0,0,0,0,0,1,0,1,0
+g4n562z1_56,pmhnfj1l,tbir0pz5,pmhnfj1l_tbir0pz5,g4n562z1,56,23,21,57,0,0,1,0,0.08,23,726,725,demographics_app,completion_code,1,4,0.84,0.91,1,3,0,Woman,43,Completed undergraduate University/College degree,-31,None,21,726,725,demographics_app,completion_code,4,7,0.93,0.55,2,4,0,Man,22,Completed secondary school/high school,-39,"This was very fun, especially with Among Us being so popular right now, I feel my lying has never been so strong! I tried to create an aire of friendliness to gain trust.","Buyer: Hello
+Seller: Transfer failed 
+Seller: what does happened?
+Buyer: What color was the text alerting you of this
+Seller: red one
+Buyer: Wrong, the text has no color
+Buyer: Thanks for trying to take my money you thieving whelp
+Buyer: Cat got your tongue?
+Seller: fools always shouts 
+Seller: shout more 
+Buyer: Sayonora loser",NA,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_57,ik9yn2n0,3dxi2bdr,ik9yn2n0_3dxi2bdr,g4n562z1,57,19,17,58,1,0,0.97,1,0.5,19,726,725,demographics_app,completion_code,6,9,0.11,0.82,1,6,2,Man,32,Completed secondary school/high school,-28,,17,726,725,demographics_app,completion_code,5,8,0.66,0.88,2,5,0,Man,30,Completed undergraduate University/College degree,-50,I got an application error a lot.,"Buyer: Hello
+Seller: w00t the transfer succeeded hah
+Buyer: Oh, well that is good. 
+Buyer: So, how are things?
+Seller: yes i think the next screen there is a fee if you select no
+Seller: well
+Seller: no bad ig uess
+Buyer: I'll select yes. 
+Seller: thats what ive been doing
+Buyer: If I don't get another application error.
+Buyer: What round are you on?
+Seller: round 1
+Seller: 2
+Seller: 2
+Seller: lagg
+Buyer: good luck",0,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_58,z5iung08,pmhnfj1l,z5iung08_pmhnfj1l,g4n562z1,58,22,23,59,0,0,0.15,1,1,22,726,725,demographics_app,completion_code,1,4,0.6,0.4,1,4,1,Man,37,Completed undergraduate University/College degree,-35,"The task loaded slowly and I had to refresh at one point because it said there was an ""application error.""     As for the study itself, it was really hard to figure out how to figure out if people were lying or not. I was not good at it.",23,726,725,demographics_app,completion_code,1,4,0.84,0.91,2,4,1,Woman,43,Completed undergraduate University/College degree,-31,None,"Buyer: I should transfer 
+Seller: Hi! The transfer failed.
+Seller: yeah, to avoid the penalty. 
+Buyer: we have to done this 
+Seller: to make sure we both get something no matter what, it makes sense to transfer
+Buyer: gotcha",NA,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_59,3dxi2bdr,z5iung08,3dxi2bdr_z5iung08,g4n562z1,59,17,22,60,1,1,0.5,1,0.2,17,726,725,demographics_app,completion_code,5,8,0.66,0.88,1,6,2,Man,30,Completed undergraduate University/College degree,-50,I got an application error a lot.,22,726,725,demographics_app,completion_code,1,4,0.6,0.4,2,5,0,Man,37,Completed undergraduate University/College degree,-35,"The task loaded slowly and I had to refresh at one point because it said there was an ""application error.""     As for the study itself, it was really hard to figure out how to figure out if people were lying or not. I was not good at it.","Seller: Oy.
+Buyer: did you receive the transfer?
+Seller: The amount was not transferred, matey!
+Buyer: did it say why?
+Seller: No, it doesn't ever say why.
+Seller: arg.
+Seller: Does it keep glitching on you?
+Buyer: it takes forever to load and I've had to refresh 
+Seller: I keep getting an application error. 
+Buyer: yeah
+Seller: oof.
+Buyer: how many rounds are there?
+Seller: 6
+Buyer: okay, good. I was worried I might run out of time
+Seller: This is my 6th, and it has taken 40 mins
+Buyer: ouch
+Seller: yeah.
+Buyer: I have one more round
+Seller: hopefully it will complete successfully for both of us
+Buyer: yeah
+Seller: good luck!",1,1,0,0,0,0,0,0,0,0,0,0
+g4n562z1_60,tbir0pz5,pmhnfj1l,tbir0pz5_pmhnfj1l,g4n562z1,60,21,23,61,1,0,0.02,1,1,21,726,725,demographics_app,completion_code,4,7,0.93,0.55,1,5,2,Man,22,Completed secondary school/high school,-39,"This was very fun, especially with Among Us being so popular right now, I feel my lying has never been so strong! I tried to create an aire of friendliness to gain trust.",23,726,725,demographics_app,completion_code,1,4,0.84,0.91,2,5,0,Woman,43,Completed undergraduate University/College degree,-31,None,"Seller: Hi, transfer failed :(
+Buyer: I should transfer to avoid penalty
+Seller: Yeah, this is my first time actually having to convince someone it failed
+Seller: The other times it suxxeeded
+Buyer: gotcha
+Seller: How is your day?
+Seller: Please give our Queen of death Mori Calliope some love for me",1,1,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_1,qz33sh8i,vxgrdxlq,qz33sh8i_vxgrdxlq,k9epxkrh,1,1,2,2,1,0,1,0,0.7,1,726,725,demographics_app,completion_code,7,10,0.81,0.94,1,1,1,Woman,31,Completed secondary school/high school,37,,2,726,725,demographics_app,completion_code,5,8,0.45,0.71,2,1,1,Man,32,"Completed advanced University/College degree (Masters, PhD...)",-48,,,NA,0,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_2,8skuiy6k,1xd8oy7p,8skuiy6k_1xd8oy7p,k9epxkrh,2,3,6,3,0,1,0.49,1,0.03,3,726,725,demographics_app,completion_code,7,10,0.65,0.75,1,1,1,Man,42,Completed undergraduate University/College degree,35,n/a,6,423,725,App1,Wait0,4,7,0.31,0.59,2,1,1,,NA,,NA,,,NA,0,0,0,0,0,0,NA,0,0,0,0
+k9epxkrh_3,bk5r8ha7,4gw7p1d5,bk5r8ha7_4gw7p1d5,k9epxkrh,3,7,5,4,1,0,1,0,1,7,726,725,demographics_app,completion_code,5,8,0.39,0.37,1,1,1,Woman,39,Completed undergraduate University/College degree,44,thank you,5,726,725,demographics_app,completion_code,6,9,0,0.84,2,1,1,Woman,65,Completed secondary school/high school,0,I hate games where I have to lie to people,,NA,0,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_4,9ahb7v0n,vxgrdxlq,9ahb7v0n_vxgrdxlq,k9epxkrh,4,4,2,5,0,0,0,1,0.1,4,726,725,demographics_app,completion_code,4,7,0.13,0.57,1,1,1,Man,61,Completed secondary school/high school,-33,,2,726,725,demographics_app,completion_code,5,8,0.45,0.71,2,2,1,Man,32,"Completed advanced University/College degree (Masters, PhD...)",-48,,,NA,0,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_5,1xd8oy7p,8skuiy6k,1xd8oy7p_8skuiy6k,k9epxkrh,5,6,3,6,0,1,0.5,1,0.2,6,423,725,App1,Wait0,4,7,0.31,0.59,1,2,1,,NA,,NA,,3,726,725,demographics_app,completion_code,7,10,0.65,0.75,2,2,1,Man,42,Completed undergraduate University/College degree,35,n/a,,NA,0,0,0,NA,0,0,0,0,0,0,1
+k9epxkrh_6,4gw7p1d5,bk5r8ha7,4gw7p1d5_bk5r8ha7,k9epxkrh,6,5,7,7,1,0,1,0,1,5,726,725,demographics_app,completion_code,6,9,0,0.84,1,2,1,Woman,65,Completed secondary school/high school,0,I hate games where I have to lie to people,7,726,725,demographics_app,completion_code,5,8,0.39,0.37,2,2,1,Woman,39,Completed undergraduate University/College degree,44,thank you,,NA,0,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_7,vxgrdxlq,9ahb7v0n,vxgrdxlq_9ahb7v0n,k9epxkrh,7,2,4,8,0,0,0.6,1,0.01,2,726,725,demographics_app,completion_code,5,8,0.45,0.71,1,3,1,Man,32,"Completed advanced University/College degree (Masters, PhD...)",-48,,4,726,725,demographics_app,completion_code,4,7,0.13,0.57,2,2,1,Man,61,Completed secondary school/high school,-33,,"Seller: hello
+Buyer: hi there
+Seller: the transfer is failed. 
+Buyer: interesting
+Seller: i can see the message that the transfer is failed.
+Buyer: ok",NA,1,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_8,qz33sh8i,bk5r8ha7,qz33sh8i_bk5r8ha7,k9epxkrh,8,1,7,9,0,0,0.23,1,0.82,1,726,725,demographics_app,completion_code,7,10,0.81,0.94,1,2,1,Woman,31,Completed secondary school/high school,37,,7,726,725,demographics_app,completion_code,5,8,0.39,0.37,2,3,1,Woman,39,Completed undergraduate University/College degree,44,thank you,"Seller: hi
+Buyer: hello
+Buyer: Did you get your transfer?
+Seller: no, it says transfer failed above the box
+Buyer: are you fibbing?
+Seller: no, it states so above
+Buyer: what color are your eyes?
+Seller: brown
+Buyer: :-)",NA,1,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_9,r8lvrhyo,4gw7p1d5,r8lvrhyo_4gw7p1d5,k9epxkrh,9,8,5,10,1,0,0.6,1,0,8,726,725,demographics_app,completion_code,4,7,0.15,0.1,1,1,2,Woman,64,Completed undergraduate University/College degree,25,,5,726,725,demographics_app,completion_code,6,9,0,0.84,2,3,0,Woman,65,Completed secondary school/high school,0,I hate games where I have to lie to people,"Buyer: Hi hows it going
+Buyer: I sent the money I hope you got it
+Seller: Hi. I didn't get the $1 transfer. Do you have time to send it?
+Buyer: I sent it
+Buyer: Are you sure you didn't get it
+Buyer: I would hate for us both to get nothing
+Seller: I keep checking to see if the payment went through but so far I haven't received anything.
+Buyer: That's bad
+Seller: Could you sent the payment again?
+Buyer: I am not sure maybe
+Seller: That way we both get paid.
+Buyer: Yeah or you get twice as much",1,1,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_10,3d0ouep9,8skuiy6k,3d0ouep9_8skuiy6k,k9epxkrh,10,9,3,11,0,0,0.8,1,0.7,9,726,725,demographics_app,completion_code,6,9,0.19,0.87,1,1,1,Woman,23,Some University/College,36,,3,726,725,demographics_app,completion_code,7,10,0.65,0.75,2,3,1,Man,42,Completed undergraduate University/College degree,35,n/a,"Buyer: did the dollar come through for you?
+Seller:  no
+Buyer: how can I be sure?
+Seller: you can't really. but if you don/t transfer a dollar your going to lose two so it would make more sense to transfer.
+Buyer: hrmm. 
+Seller: please transfer the dollar",NA,1,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_11,9ahb7v0n,1xd8oy7p,9ahb7v0n_1xd8oy7p,k9epxkrh,11,4,6,12,0,1,0.01,0,0.5,4,726,725,demographics_app,completion_code,4,7,0.13,0.57,1,3,0,Man,61,Completed secondary school/high school,-33,,6,423,725,App1,Wait0,4,7,0.31,0.59,2,3,0,,NA,,NA,,,NA,0,0,0,0,0,0,NA,1,0,1,0
+k9epxkrh_12,vxgrdxlq,6vrn0ypg,vxgrdxlq_6vrn0ypg,k9epxkrh,12,2,11,13,1,1,0.2,0,0.33,2,726,725,demographics_app,completion_code,5,8,0.45,0.71,1,4,1,Man,32,"Completed advanced University/College degree (Masters, PhD...)",-48,,11,726,725,demographics_app,completion_code,3,6,0.27,0.73,2,1,1,Man,28,Some University/College,25,more valuable and know some source. Thank you,"Seller: hello
+Buyer: hi
+Buyer: what the source
+Seller: the transfer is failed. 
+Buyer: any reason
+Seller: no i don't know
+Buyer: not transfer the amount
+Seller: they give the reason
+Seller: dont*
+Buyer: how to initiate
+Seller: i'm seeing the message
+Buyer: ok
+Seller: next page you will have to send $1
+Buyer: will see what will 
+Seller: otherwise you'll loose $2
+Buyer: are you sure
+Seller: yes
+Seller: i swear
+Buyer: ok i will do i message appears fore me
+Seller: ok
+Buyer: i think will lose",1,1,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_13,bk5r8ha7,qz33sh8i,bk5r8ha7_qz33sh8i,k9epxkrh,13,7,1,14,0,1,0.63,1,0.67,7,726,725,demographics_app,completion_code,5,8,0.39,0.37,1,4,1,Woman,39,Completed undergraduate University/College degree,44,thank you,1,726,725,demographics_app,completion_code,7,10,0.81,0.94,2,3,1,Woman,31,Completed secondary school/high school,37,,"Buyer: hi
+Seller: hello
+Seller: it says above - Transfer failed
+Buyer: above it says that?
+Seller: yes
+Buyer: ok",NA,1,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_14,bxclxbca,r8lvrhyo,bxclxbca_r8lvrhyo,k9epxkrh,14,10,8,15,1,1,0.75,1,0.1,10,726,725,demographics_app,completion_code,7,10,0,0.31,1,1,2,Woman,69,Some University/College,50,none,8,726,725,demographics_app,completion_code,4,7,0.15,0.1,2,2,0,Woman,64,Completed undergraduate University/College degree,25,,"Buyer: Hi. I sent you the $1 payment. Did you receive it  yet?
+Seller: Hi, The transfer did not go through.
+Seller: I have not received it yet.
+Buyer: Can you check to see if maybe the transfer was just slow getting to you?
+Seller: Let me check.
+Seller: No, I have not received it yet.  Are you sure it was transferred?
+Buyer: Yes.
+Seller: Could you check it again to make sure?
+Buyer: I'll resend it now.",1,1,0,0,0,0,0,0,0,1,0,0
+k9epxkrh_15,4gw7p1d5,8skuiy6k,4gw7p1d5_8skuiy6k,k9epxkrh,15,5,3,16,1,1,0,0,0.78,5,726,725,demographics_app,completion_code,6,9,0,0.84,1,4,1,Woman,65,Completed secondary school/high school,0,I hate games where I have to lie to people,3,726,725,demographics_app,completion_code,7,10,0.65,0.75,2,4,1,Man,42,Completed undergraduate University/College degree,35,n/a,"Buyer: be honest with me, did you get it?
+Seller: Hey have you sent the money
+Seller: No I didn't
+Seller: I think it failed
+Buyer: ok, i'll see what I can do
+Seller: Will you try to send it again
+Buyer: probably
+Seller: Well this sucks
+Seller: I wonder how they determine which ones will go through and which won't
+Seller: flip of a coin maybe
+Buyer: something like that I guess",1,1,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_16,3d0ouep9,vxgrdxlq,3d0ouep9_vxgrdxlq,k9epxkrh,16,9,2,17,1,1,0.17,1,0.3,9,726,725,demographics_app,completion_code,6,9,0.19,0.87,1,2,2,Woman,23,Some University/College,36,,2,726,725,demographics_app,completion_code,5,8,0.45,0.71,2,5,0,Man,32,"Completed advanced University/College degree (Masters, PhD...)",-48,,"Buyer: hello
+Seller: hey it did not transfer please send 
+Buyer: what message do you see above the chatbox?
+Buyer: successful/unsuccessful ?
+Seller: Transfer failed
+Buyer: ok
+Seller: I think it would be smarter to transfer rather than lose the 2 dollars",1,1,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_17,6vrn0ypg,bk5r8ha7,6vrn0ypg_bk5r8ha7,k9epxkrh,17,11,7,18,0,1,0.2,0,0.33,11,726,725,demographics_app,completion_code,3,6,0.27,0.73,1,2,0,Man,28,Some University/College,25,more valuable and know some source. Thank you,7,726,725,demographics_app,completion_code,5,8,0.39,0.37,2,5,0,Woman,39,Completed undergraduate University/College degree,44,thank you,"Seller: hi
+Buyer: hey
+Seller: transfer
+Seller: is failed
+Seller: transfer is failed
+Buyer: ok - promise?
+Seller: are you sure 
+Seller: do you imagine
+Buyer: imagine things all the time
+Seller: what do you think about this
+Buyer: about what exactly?
+Seller: will see
+Seller: what to 
+Buyer: you ok?
+Seller: iam wait
+Buyer: ok
+Seller: to see on next
+Seller: will use",NA,1,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_18,4gw7p1d5,r8lvrhyo,4gw7p1d5_r8lvrhyo,k9epxkrh,18,5,8,19,1,0,0,1,0,5,726,725,demographics_app,completion_code,6,9,0,0.84,1,5,2,Woman,65,Completed secondary school/high school,0,I hate games where I have to lie to people,8,726,725,demographics_app,completion_code,4,7,0.15,0.1,2,3,0,Woman,64,Completed undergraduate University/College degree,25,,"Seller: No money again this is the second time
+Buyer: Hi. That's not good.
+Seller: Are they just flipping coins
+Seller: Yeah I hope you can send it again
+Buyer: I don't know, but I do know I sent you the payment.
+Seller: That makes me feel bad that you did it and I didn't get it
+Seller: I am not liking this game very much
+Buyer: Can you check again that maybe the payment was just delayed in getting to you?
+Seller: I have no way to check now
+Buyer: I will resend the payment to you to be sure you did get paid back.
+Seller: Sounds good 
+Seller: I really do feel bad",1,1,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_19,9ahb7v0n,8skuiy6k,9ahb7v0n_8skuiy6k,k9epxkrh,19,4,3,20,0,0,0.03,1,0.15,4,726,725,demographics_app,completion_code,4,7,0.13,0.57,1,4,1,Man,61,Completed secondary school/high school,-33,,3,726,725,demographics_app,completion_code,7,10,0.65,0.75,2,5,1,Man,42,Completed undergraduate University/College degree,35,n/a,"Buyer: did the transfer fail?
+Seller: Transfer failed You may use the chat box below to convince the ""buyer"" in 2 minutes or less that the amount was not transferred.
+Buyer: ok
+Seller: yep
+Buyer: I will resend",NA,1,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_20,1xd8oy7p,bxclxbca,1xd8oy7p_bxclxbca,k9epxkrh,20,6,10,21,0,1,0.5,1,0,6,423,725,App1,Wait0,4,7,0.31,0.59,1,4,1,,NA,,NA,,10,726,725,demographics_app,completion_code,7,10,0,0.31,2,2,1,Woman,69,Some University/College,50,none,,NA,0,0,0,NA,0,0,0,1,1,0,1
+k9epxkrh_21,3d0ouep9,x80a2eo2,3d0ouep9_x80a2eo2,k9epxkrh,21,9,12,22,0,1,0,0,0,9,726,725,demographics_app,completion_code,6,9,0.19,0.87,1,3,0,Woman,23,Some University/College,36,,12,723,725,demographics_app,summary_page,5,8,0,0,2,1,0,,NA,,NA,,,NA,0,0,0,0,1,1,NA,1,0,1,0
+k9epxkrh_22,6vrn0ypg,vxgrdxlq,6vrn0ypg_vxgrdxlq,k9epxkrh,22,11,2,23,1,1,0.04,0,0.75,11,726,725,demographics_app,completion_code,3,6,0.27,0.73,1,3,1,Man,28,Some University/College,25,more valuable and know some source. Thank you,2,726,725,demographics_app,completion_code,5,8,0.45,0.71,2,6,1,Man,32,"Completed advanced University/College degree (Masters, PhD...)",-48,,"Seller: hi
+Buyer: hi
+Seller: i think will transfer
+Seller: what do you think
+Buyer: what
+Seller: what do you analyze
+Buyer: whats the transfer status?
+Seller: how do you think,if its transfer
+Buyer: successful or not?
+Seller: i think it may be succeed 
+Buyer: what message do you see above the chatbox?
+Seller: is not but but it may be
+Buyer: ?
+Seller: will see
+Seller: what the process
+Seller: there might me some strategy
+Seller: to proceed",NA,0,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_23,bk5r8ha7,c7g2rrst,bk5r8ha7_c7g2rrst,k9epxkrh,23,7,13,24,0,1,0.04,1,0.61,7,726,725,demographics_app,completion_code,5,8,0.39,0.37,1,6,1,Woman,39,Completed undergraduate University/College degree,44,thank you,13,726,725,demographics_app,completion_code,4,7,0.73,0.23,2,1,1,Woman,37,Completed secondary school/high school,-12,,"Seller: hello
+Buyer: Hello there
+Seller: it says - Transfer failed 
+Buyer: Okay then thank you
+Seller: your welcome
+Buyer: I don't know why we needed a whole two minutes for this lol
+Seller: LOL
+Seller: Have a great day, make lots of $$$$
+Buyer: u2",NA,1,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_24,qz33sh8i,4gw7p1d5,qz33sh8i_4gw7p1d5,k9epxkrh,24,1,5,25,1,0,0.35,0,1,1,726,725,demographics_app,completion_code,7,10,0.81,0.94,1,4,1,Woman,31,Completed secondary school/high school,37,,5,726,725,demographics_app,completion_code,6,9,0,0.84,2,6,1,Woman,65,Completed secondary school/high school,0,I hate games where I have to lie to people,"Buyer: Hi since this is a game about lying I guess it doesn't matter what you say
+Buyer: But for the sake of argument did you get the transfer
+Seller: lol i did not 
+Buyer: figures
+Buyer: Guess I will decide if I believe you
+Seller: yep, it is about lying but im trying to understand how it benefits me or not . but it did not is what it says above",1,1,0,0,0,0,0,0,0,1,0,0
+k9epxkrh_25,r8lvrhyo,06i7z7kr,r8lvrhyo_06i7z7kr,k9epxkrh,25,8,14,26,1,1,0.35,0,0.22,8,726,725,demographics_app,completion_code,4,7,0.15,0.1,1,4,1,Woman,64,Completed undergraduate University/College degree,25,,14,726,725,demographics_app,completion_code,6,9,0.39,0.13,2,1,1,Man,28,Completed undergraduate University/College degree,0,No.,"Seller: Hello. I just checked and I haven't received the payment yet.
+Seller: I'm not liking this game very much.
+Buyer: Ok I got it, thank you
+Seller: Did you send the payment?
+Buyer: yes
+Buyer: Not sure how long it takes to receive the payment
+Seller: I did  not receive anything.",1,1,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_26,8skuiy6k,9ahb7v0n,8skuiy6k_9ahb7v0n,k9epxkrh,26,3,4,27,1,1,0.05,1,0,3,726,725,demographics_app,completion_code,7,10,0.65,0.75,1,6,2,Man,42,Completed undergraduate University/College degree,35,n/a,4,726,725,demographics_app,completion_code,4,7,0.13,0.57,2,5,0,Man,61,Completed secondary school/high school,-33,,"Seller: Transfer failed
+Buyer: can you copy/paste the message right above the chatbox
+Seller: Transfer failed You may use the chat box below to convince the ""buyer"" in 2 minutes or less that the amount was not transferred.
+Buyer: cool beans
+Buyer: thanks",1,1,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_27,c7g2rrst,6vrn0ypg,c7g2rrst_6vrn0ypg,k9epxkrh,27,13,11,28,0,0,0.31,0,0.11,13,726,725,demographics_app,completion_code,4,7,0.73,0.23,1,2,0,Woman,37,Completed secondary school/high school,-12,,11,726,725,demographics_app,completion_code,3,6,0.27,0.73,2,4,0,Man,28,Some University/College,25,more valuable and know some source. Thank you,"Buyer: hi
+Seller: Hello
+Seller: It says that the transfer failed.
+Buyer: are you sure
+Buyer: is there any other process
+Seller: Yes. Scouts honor. 
+Buyer: do you receive the message
+Buyer: will see
+Seller: Yes its right above the chat box
+Buyer: i think it may be some  strategy to be perform
+Buyer: so what i should do
+Seller: lol transfer. or you'll end up with nothing. Because I'm not lying.
+Buyer: will see on the next page or message
+Buyer: after receiving the message will decide",NA,1,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_28,bxclxbca,1xd8oy7p,bxclxbca_1xd8oy7p,k9epxkrh,28,10,6,29,1,1,0.09,0,0.5,10,726,725,demographics_app,completion_code,7,10,0,0.31,1,3,1,Woman,69,Some University/College,50,none,6,423,725,App1,Wait0,4,7,0.31,0.59,2,5,1,,NA,,NA,,,NA,0,0,0,0,0,0,NA,1,0,1,0
+k9epxkrh_29,06i7z7kr,r8lvrhyo,06i7z7kr_r8lvrhyo,k9epxkrh,29,14,8,30,1,1,0.64,1,0.26,14,726,725,demographics_app,completion_code,6,9,0.39,0.13,1,2,2,Man,28,Completed undergraduate University/College degree,0,No.,8,726,725,demographics_app,completion_code,4,7,0.15,0.1,2,5,0,Woman,64,Completed undergraduate University/College degree,25,,"Seller: The automatic initial transfer succeeded.
+Seller: Did you receive it?
+Buyer: Did you receive the $1 payment from me?
+Seller: Not yet
+Buyer: I sent it over a while ago. Do you need me to resend it?
+Seller: Yes
+Buyer: Ok
+Seller: Thank you",0,1,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_30,9ahb7v0n,3d0ouep9,9ahb7v0n_3d0ouep9,k9epxkrh,30,4,9,31,1,0,1,0,0.5,4,726,725,demographics_app,completion_code,4,7,0.13,0.57,1,6,1,Man,61,Completed secondary school/high school,-33,,9,726,725,demographics_app,completion_code,6,9,0.19,0.87,2,4,1,Woman,23,Some University/College,36,,"Buyer: was it sucessful?
+Seller: transfer succeeded
+Buyer: ok cool",0,1,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_31,6vrn0ypg,x80a2eo2,6vrn0ypg_x80a2eo2,k9epxkrh,31,11,12,32,0,0,0.21,0,0,11,726,725,demographics_app,completion_code,3,6,0.27,0.73,1,5,0,Man,28,Some University/College,25,more valuable and know some source. Thank you,12,723,725,demographics_app,summary_page,5,8,0,0,2,2,0,,NA,,NA,,,NA,0,0,0,0,1,1,NA,1,0,1,0
+k9epxkrh_32,qz33sh8i,c7g2rrst,qz33sh8i_c7g2rrst,k9epxkrh,32,1,13,33,0,1,0.74,1,0.68,1,726,725,demographics_app,completion_code,7,10,0.81,0.94,1,5,1,Woman,31,Completed secondary school/high school,37,,13,726,725,demographics_app,completion_code,4,7,0.73,0.23,2,3,1,Woman,37,Completed secondary school/high school,-12,,"Seller: hi
+Buyer: Hello!
+Buyer: So did you receive the $1?
+Seller: not transferred , so no
+Buyer: okay thank you
+Seller: its what it says above transfer failed 
+Seller: no problem ",NA,1,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_33,3d0ouep9,r8lvrhyo,3d0ouep9_r8lvrhyo,k9epxkrh,33,9,8,34,1,0,1,0,1,9,726,725,demographics_app,completion_code,6,9,0.19,0.87,1,5,1,Woman,23,Some University/College,36,,8,726,725,demographics_app,completion_code,4,7,0.15,0.1,2,6,1,Woman,64,Completed undergraduate University/College degree,25,,"Buyer: Hello. I sent the $1 payment to you.
+Seller: transfer failed
+Buyer: Are you sure? Can you check again?
+Seller: yes failed
+Buyer: That's strange. It shows on my end that the payment was successful.
+Seller: well its not",1,1,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_34,qz33sh8i,06i7z7kr,qz33sh8i_06i7z7kr,k9epxkrh,34,1,14,35,1,1,1,1,0.5,1,726,725,demographics_app,completion_code,7,10,0.81,0.94,1,6,2,Woman,31,Completed secondary school/high school,37,,14,726,725,demographics_app,completion_code,6,9,0.39,0.13,2,3,0,Man,28,Completed undergraduate University/College degree,0,No.,"Seller: hi
+Buyer: Have you received the $1.00?
+Seller: no i have not
+Buyer: Are you sure?
+Buyer: I have already transfered.
+Seller: yes, above says transfer failed 
+Buyer: OK thank you I will transfer again.
+Seller: ok thank you",1,1,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_35,bxclxbca,c7g2rrst,bxclxbca_c7g2rrst,k9epxkrh,35,10,13,36,1,0,0.75,1,0.29,10,726,725,demographics_app,completion_code,7,10,0,0.31,1,4,2,Woman,69,Some University/College,50,none,13,726,725,demographics_app,completion_code,4,7,0.73,0.23,2,4,0,Woman,37,Completed secondary school/high school,-12,,"Buyer: hello there
+Seller: Hi
+Buyer: So did you receive the transfer?
+Seller: No I did not receive it.
+Seller: Did you send it?
+Buyer: I don't know if it was successful. Should say above this chatbox on your screen. 
+Seller: Could you check again?
+Buyer: I can't only you can. It would tell you at the top of this page.",1,1,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_36,dl9mjlgh,6vrn0ypg,dl9mjlgh_6vrn0ypg,k9epxkrh,36,15,11,37,1,0,0.91,0,0.21,15,726,725,demographics_app,completion_code,5,8,0.34,0.32,1,1,1,Man,38,"Completed advanced University/College degree (Masters, PhD...)",-50,none,11,726,725,demographics_app,completion_code,3,6,0.27,0.73,2,6,1,Man,28,Some University/College,25,more valuable and know some source. Thank you,"Buyer: hi
+Seller: the transfer succeeded. no need to send more.
+Buyer: how 
+Buyer: did you receive the message
+Seller: yep. Recieved the message ""Transfer succeeded.""",0,1,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_37,x80a2eo2,3d0ouep9,x80a2eo2_3d0ouep9,k9epxkrh,37,12,9,38,1,1,0,0,0.5,12,723,725,demographics_app,summary_page,5,8,0,0,1,3,1,,NA,,NA,,9,726,725,demographics_app,completion_code,6,9,0.19,0.87,2,6,1,Woman,23,Some University/College,36,,,NA,0,1,1,NA,0,0,0,0,1,0,1
+k9epxkrh_38,06i7z7kr,c7g2rrst,06i7z7kr_c7g2rrst,k9epxkrh,38,14,13,39,1,1,0.42,1,0.69,14,726,725,demographics_app,completion_code,6,9,0.39,0.13,1,4,2,Man,28,Completed undergraduate University/College degree,0,No.,13,726,725,demographics_app,completion_code,4,7,0.73,0.23,2,5,0,Woman,37,Completed secondary school/high school,-12,,"Seller: Hi
+Buyer: hello there
+Buyer: did you receive the transfer?
+Seller: No, above said the transfer was failed
+Buyer: thank you",1,1,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_39,dl9mjlgh,bxclxbca,dl9mjlgh_bxclxbca,k9epxkrh,39,15,10,40,1,0,0.45,1,0.5,15,726,725,demographics_app,completion_code,5,8,0.34,0.32,1,2,2,Man,38,"Completed advanced University/College degree (Masters, PhD...)",-50,none,10,726,725,demographics_app,completion_code,7,10,0,0.31,2,5,0,Woman,69,Some University/College,50,none,"Seller: Hey, the transfer did not succeed this time.
+Buyer: I am sorry, I will check on it.
+Seller: Thanks
+Buyer: Did it go through?
+Seller: It did not go through.
+Buyer: Maybe there is something wrong with it.  I received a message telling me that it was successful.  Can you check again?
+Seller: The message didn't change. It still says it didn't go through.",1,1,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_40,c7g2rrst,59s51svb,c7g2rrst_59s51svb,k9epxkrh,40,13,16,41,1,0,0.87,1,0.25,13,726,725,demographics_app,completion_code,4,7,0.73,0.23,1,6,2,Woman,37,Completed secondary school/high school,-12,,16,726,725,demographics_app,completion_code,3,6,0.88,0.28,2,1,0,Man,50,Completed secondary school/high school,-23,Thank You.,"Seller: Hello there
+Buyer: Hi. Did you get the money I sent?
+Seller: No it says transfer failed.
+Buyer: alright.
+Buyer: Do I need to send it again?
+Seller: Yes.
+Buyer: Okay. 
+Buyer: Anything else?
+Seller: Lol. I don't think so. we don't really need 2 minutes",1,1,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_41,06i7z7kr,dl9mjlgh,06i7z7kr_dl9mjlgh,k9epxkrh,41,14,15,42,0,1,0.87,1,0.42,14,726,725,demographics_app,completion_code,6,9,0.39,0.13,1,5,1,Man,28,Completed undergraduate University/College degree,0,No.,15,726,725,demographics_app,completion_code,5,8,0.34,0.32,2,3,1,Man,38,"Completed advanced University/College degree (Masters, PhD...)",-50,none,"Seller: Hi
+Buyer: Hi.
+Buyer: Did the transfer work?
+Seller: The automatic initial transfer failed.
+Buyer: I guess I'll have to believe you, but I will be extraordinarily sad if you are lying.
+Seller: I am not lying.
+Seller: The ""buyer"" doesn't know whether the amount was transferred or not. You may use the chat box on the next page to convince the ""buyer"" (in 2 minutes or less) that the amount was not transferred. Following the conversation, they will decide whether to send you the $1.00.
+Buyer: I will transfer the money.
+Seller: That's what I copied.",NA,1,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_42,bxclxbca,x80a2eo2,bxclxbca_x80a2eo2,k9epxkrh,42,10,12,43,1,0,0.27,0,0,10,726,725,demographics_app,completion_code,7,10,0,0.31,1,6,1,Woman,69,Some University/College,50,none,12,723,725,demographics_app,summary_page,5,8,0,0,2,4,1,,NA,,NA,,,NA,0,0,0,0,1,1,NA,1,0,1,0
+k9epxkrh_43,b362ge0v,59s51svb,b362ge0v_59s51svb,k9epxkrh,43,17,16,44,1,0,1,0,0.81,17,726,725,demographics_app,completion_code,1,4,0,0.5,1,1,1,Woman,35,Completed undergraduate University/College degree,-18,,16,726,725,demographics_app,completion_code,3,6,0.88,0.28,2,2,1,Man,50,Completed secondary school/high school,-23,Thank You.,"Buyer: Hello.
+Seller: Hello. I didn't receive the $1 payment.
+Seller: Can you resend it?
+Buyer: I have heard that before.
+Buyer: that*
+Seller: Okay. Just making sure you don't get fined $2.
+Buyer: I lost $2 last time.
+Seller: Oh I'm sorry.
+Buyer: If I only knew the truth.",1,1,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_44,dl9mjlgh,06i7z7kr,dl9mjlgh_06i7z7kr,k9epxkrh,44,15,14,45,0,1,0.28,0,0.5,15,726,725,demographics_app,completion_code,5,8,0.34,0.32,1,4,0,Man,38,"Completed advanced University/College degree (Masters, PhD...)",-50,none,14,726,725,demographics_app,completion_code,6,9,0.39,0.13,2,6,0,Man,28,Completed undergraduate University/College degree,0,No.,"Seller: The transfer has failed.
+Seller: Also, it's it always better to transfer the money because you risk losing $2 if you don't?
+Seller: *isn't it
+Buyer: But above state that it's succeeded
+Seller: I doubt that.",NA,1,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_45,59s51svb,b362ge0v,59s51svb_b362ge0v,k9epxkrh,45,16,17,46,0,0,0.7,0,0.49,16,726,725,demographics_app,completion_code,3,6,0.88,0.28,1,3,0,Man,50,Completed secondary school/high school,-23,Thank You.,17,726,725,demographics_app,completion_code,1,4,0,0.5,2,2,0,Woman,35,Completed undergraduate University/College degree,-18,,"Seller: Transfer failed man.
+Buyer: Hello. 
+Seller: Hi
+Buyer: Oh. Someone lied last time unfortunately and I sent the money again.
+Seller: No one is lying this time.
+Buyer: You are not?
+Seller: But I feel for you.
+Seller: nope. 
+Buyer: I hope not.
+Seller: Honest.",NA,1,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_46,x80a2eo2,dl9mjlgh,x80a2eo2_dl9mjlgh,k9epxkrh,46,12,15,47,1,0,0,1,0.5,12,723,725,demographics_app,summary_page,5,8,0,0,1,5,2,,NA,,NA,,15,726,725,demographics_app,completion_code,5,8,0.34,0.32,2,5,0,Man,38,"Completed advanced University/College degree (Masters, PhD...)",-50,none,,NA,0,1,1,NA,0,0,0,0,1,0,1
+k9epxkrh_47,dl9mjlgh,59s51svb,dl9mjlgh_59s51svb,k9epxkrh,47,15,16,48,0,0,0.18,1,0.2,15,726,725,demographics_app,completion_code,5,8,0.34,0.32,1,6,1,Man,38,"Completed advanced University/College degree (Masters, PhD...)",-50,none,16,726,725,demographics_app,completion_code,3,6,0.88,0.28,2,4,1,Man,50,Completed secondary school/high school,-23,Thank You.,"Seller: Hi.
+Buyer: Hello.
+Seller: The transfer has failed.
+Buyer: Are you sure?
+Seller: Yep, that's what it says.
+Buyer: How can I trust you?
+Buyer: I have been lied to before.
+Seller: Isn't it always better to transfer anyway, because you risk losing $2 instead of $1?
+Seller: If you don't transfer this time, you lose $2.
+Buyer: okay.",NA,1,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_48,x80a2eo2,15dbhhpl,x80a2eo2_15dbhhpl,k9epxkrh,48,12,18,49,0,0,0,1,0.5,12,723,725,demographics_app,summary_page,5,8,0,0,1,6,1,,NA,,NA,,18,726,725,demographics_app,completion_code,6,9,0.5,0.5,2,1,1,Woman,27,Completed undergraduate University/College degree,24,an interesting task it was.,,NA,0,1,1,NA,1,1,0,1,1,0,1
+k9epxkrh_49,59s51svb,15dbhhpl,59s51svb_15dbhhpl,k9epxkrh,49,16,18,51,0,1,0.07,1,0,16,726,725,demographics_app,completion_code,3,6,0.88,0.28,1,5,1,Man,50,Completed secondary school/high school,-23,Thank You.,18,726,725,demographics_app,completion_code,6,9,0.5,0.5,2,2,1,Woman,27,Completed undergraduate University/College degree,24,an interesting task it was.,"Buyer: hi
+Seller: Hello.
+Seller: The transfer has failed.
+Buyer: have you received the amount?
+Seller: No, sir.
+Buyer: its okay,will be sending in a few
+Seller: Thanks.
+Seller: Don't want you to pay the $2 fine.
+Buyer: yeah
+Buyer: Thanks alot",NA,1,0,0,0,1,1,0,0,0,0,0
+k9epxkrh_50,15dbhhpl,59s51svb,15dbhhpl_59s51svb,k9epxkrh,50,18,16,52,1,0,0.75,1,0.22,18,726,725,demographics_app,completion_code,6,9,0.5,0.5,1,3,2,Woman,27,Completed undergraduate University/College degree,24,an interesting task it was.,16,726,725,demographics_app,completion_code,3,6,0.88,0.28,2,6,0,Man,50,Completed secondary school/high school,-23,Thank You.,"Seller: hi
+Buyer: Hi.
+Seller: haven't received the amount
+Buyer: Are you sure?
+Seller: Yes,been waiting for it for quite some time
+Buyer: Pinky Promise?
+Seller: yeah..I promise..can't lie to you
+Buyer: What is stopping you?
+Seller: My beliefs
+Buyer: k",1,1,1,1,0,0,0,0,0,1,0,0
+k9epxkrh_51,15dbhhpl,h8nzd2ln,15dbhhpl_h8nzd2ln,k9epxkrh,51,18,19,53,1,1,0.9,1,0.08,18,726,725,demographics_app,completion_code,6,9,0.5,0.5,1,4,2,Woman,27,Completed undergraduate University/College degree,24,an interesting task it was.,19,726,725,demographics_app,completion_code,5,8,0.4,0.74,2,1,0,Man,32,Completed undergraduate University/College degree,11,no,"Seller: Hi
+Buyer: hello
+Buyer: did you get the $1?
+Seller: havent received the amount
+Buyer: okay
+Buyer: you wouldnt lie to me right? ;)
+Seller: definitelyI wouldnt
+Seller: My principles and beliefs wouldnt allow me to lie to you
+Buyer: well i hope your parents raised you well
+Seller: Yes..I was raised with a lot of honesty
+Buyer: okay :)",1,1,1,1,0,0,0,0,0,0,0,0
+k9epxkrh_52,lwb4bh7s,oz5j9ei5,lwb4bh7s_oz5j9ei5,k9epxkrh,52,21,20,54,1,1,1,1,1,21,726,725,demographics_app,completion_code,5,8,0.88,0.39,1,1,2,Man,55,Some University/College,3,the first 2 rounds didn't even have a player...this is buggy BS,20,675,725,App1,Wait0,0,3,0.92,1,2,1,0,,NA,,NA,,,NA,0,0,0,0,0,0,NA,0,0,0,0
+k9epxkrh_53,h8nzd2ln,15dbhhpl,h8nzd2ln_15dbhhpl,k9epxkrh,53,19,18,55,1,0,0.83,1,0.71,19,726,725,demographics_app,completion_code,5,8,0.4,0.74,1,2,2,Man,32,Completed undergraduate University/College degree,11,no,18,726,725,demographics_app,completion_code,6,9,0.5,0.5,2,5,0,Woman,27,Completed undergraduate University/College degree,24,an interesting task it was.,"Seller: hello
+Buyer: Hi
+Buyer: have you received the amount
+Seller: yes i have
+Buyer: are you sure?
+Seller: yes positive!
+Seller: i want you to get some money too
+Buyer: kindly be honest to me,I dont want to be fined.The money means so much to me.
+Seller: i am 100% telling the truth
+Buyer: ooh,let me trust you.Thanks
+Seller: no problem! enjoy 
+Buyer: welcome",0,1,0,0,0,1,1,0,0,0,0,0
+k9epxkrh_54,oz5j9ei5,lwb4bh7s,oz5j9ei5_lwb4bh7s,k9epxkrh,54,20,21,56,0,1,0,0,0.5,20,675,725,App1,Wait0,0,3,0.92,1,1,2,0,,NA,,NA,,21,726,725,demographics_app,completion_code,5,8,0.88,0.39,2,2,0,Man,55,Some University/College,3,the first 2 rounds didn't even have a player...this is buggy BS,,NA,0,0,0,NA,0,0,0,0,0,0,1
+k9epxkrh_55,15dbhhpl,dfpe5cor,15dbhhpl_dfpe5cor,k9epxkrh,55,18,22,57,0,0,0.76,0,0.4,18,726,725,demographics_app,completion_code,6,9,0.5,0.5,1,6,0,Woman,27,Completed undergraduate University/College degree,24,an interesting task it was.,22,726,725,demographics_app,completion_code,2,5,0.6,0.4,2,1,0,Man,47,Completed undergraduate University/College degree,-5,I wasn't very convincing in my attempt to convince the other player!,"Seller: hi
+Buyer: Hey! did the transfer fail?
+Seller: yes it failed,havent received any money
+Buyer: that's too bad
+Buyer: sorry about that
+Seller: yes...kindly send the amount to me.
+Buyer: I'd like to, but I'm not sure if I should
+Seller: you risk being fined 2.00 dollars if you fail to send
+Buyer: Ouch,
+Seller: you need to trust me on this..am 100% honest
+Buyer: hmmm",NA,1,1,1,0,0,0,0,0,0,0,0
+k9epxkrh_56,lwb4bh7s,h8nzd2ln,lwb4bh7s_h8nzd2ln,k9epxkrh,56,21,19,58,1,1,0.13,0,0.96,21,726,725,demographics_app,completion_code,5,8,0.88,0.39,1,3,1,Man,55,Some University/College,3,the first 2 rounds didn't even have a player...this is buggy BS,19,726,725,demographics_app,completion_code,5,8,0.4,0.74,2,3,1,Man,32,Completed undergraduate University/College degree,11,no,"Buyer: hello
+Seller: hey
+Seller: no dough lets get paid
+Buyer: okay
+Seller: this FN HIT sucks big time
+Buyer: i have one question for you to gain your trust: whats your favorite pizza topping
+Seller: cheese
+Buyer: soo, just plain cheese pizza
+Seller: you can't have pizza with no cheese
+Buyer: well, cheese is a given. i really meant after that 
+Seller: old world pepperoni from Marco's...greasy af but so tasty
+Buyer: okay
+Buyer: i have all the information i require
+Seller: word
+Seller: so we still have to wait? sucks
+Buyer: yeah lol",1,1,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_57,h8nzd2ln,lwb4bh7s,h8nzd2ln_lwb4bh7s,k9epxkrh,57,19,21,59,1,1,0.96,0,0.57,19,726,725,demographics_app,completion_code,5,8,0.4,0.74,1,4,1,Man,32,Completed undergraduate University/College degree,11,no,21,726,725,demographics_app,completion_code,5,8,0.88,0.39,2,4,1,Man,55,Some University/College,3,the first 2 rounds didn't even have a player...this is buggy BS,"Seller: hello
+Buyer: hey
+Seller: the money was transferred successfully
+Buyer: cool
+Seller: so i hope that you enjoy the dollar!
+Seller: <3
+Seller: dont spend it all in one place",0,1,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_58,h8nzd2ln,dfpe5cor,h8nzd2ln_dfpe5cor,k9epxkrh,58,19,22,60,1,0,1,0,1,19,726,725,demographics_app,completion_code,5,8,0.4,0.74,1,5,1,Man,32,Completed undergraduate University/College degree,11,no,22,726,725,demographics_app,completion_code,2,5,0.6,0.4,2,2,1,Man,47,Completed undergraduate University/College degree,-5,I wasn't very convincing in my attempt to convince the other player!,"Seller: hello
+Buyer: Hey, what's going on?
+Seller: not too much
+Seller: so my transfer was successful
+Buyer: Very cool.
+Buyer: I'm glad you got it.
+Seller: but i could really use every little bit of extra money rn. having some tough times! but i'd understand if you didn't want to transfer it
+Seller: its up to you! :)
+Buyer: sounds good, 
+Seller: okay <3",0,1,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_59,lwb4bh7s,dfpe5cor,lwb4bh7s_dfpe5cor,k9epxkrh,59,21,22,61,1,0,0.91,0,0.5,21,726,725,demographics_app,completion_code,5,8,0.88,0.39,1,5,1,Man,55,Some University/College,3,the first 2 rounds didn't even have a player...this is buggy BS,22,726,725,demographics_app,completion_code,2,5,0.6,0.4,2,3,1,Man,47,Completed undergraduate University/College degree,-5,I wasn't very convincing in my attempt to convince the other player!,"Buyer: Hello!
+Seller: hey
+Buyer: I see the transfer went through, that's awesome
+Seller: nope
+Buyer: what?
+Seller: nope
+Buyer: my screen says it did
+Seller: lemme hold a dolla big man
+Buyer: I don't know what that means, to be honest
+Seller: you ain't from around here?
+Buyer: about 3.50
+Seller: imma need
+Buyer: i wonder why my screen says you got the payment
+Buyer: it must be a glitch
+Seller: it's lyin' like biden
+Buyer: who's biden?
+Seller: it's on crack like biden jr",1,1,0,0,0,0,0,0,0,0,0,0
+k9epxkrh_60,dfpe5cor,h8nzd2ln,dfpe5cor_h8nzd2ln,k9epxkrh,60,22,19,62,0,1,0.3,0,0.84,22,726,725,demographics_app,completion_code,2,5,0.6,0.4,1,4,0,Man,47,Completed undergraduate University/College degree,-5,I wasn't very convincing in my attempt to convince the other player!,19,726,725,demographics_app,completion_code,5,8,0.4,0.74,2,6,0,Man,32,Completed undergraduate University/College degree,11,no,"Buyer: hello
+Seller: Hey
+Buyer: did you get the money?
+Seller: I'm not sure how this works, this is the first time that the tansfer failed
+Seller: thje other rounds I played it went through
+Buyer: hmm interesting
+Buyer: it always had for me too
+Seller: It just says transfer failed but it doesn't tell me what to do
+Seller: oh wait, now that i read it it tells me that I'm supposed to convince you it failed. LOL
+Seller: I hope you are convinced!
+Buyer: okay i got you lolol",NA,1,0,0,0,0,0,0,0,0,0,0

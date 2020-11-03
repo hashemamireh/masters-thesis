@@ -1,0 +1,139 @@
+participant.id_in_session,participant.code,participant.label,participant._is_bot,participant._index_in_pages,participant._max_page_index,participant._current_app_name,participant._current_page_name,participant.visited,participant.payoff,participant.payoff_plus_participation_fee,session.code,session.label,session.comment,session.is_demo,session.config.real_world_currency_per_point,session.config.participation_fee,introduction_app.1.player.id_in_group,introduction_app.1.player.ability_to_lie,introduction_app.1.player.ability_to_detect_lies,introduction_app.1.player.payoff,introduction_app.1.group.id_in_subsession,introduction_app.1.subsession.round_number,demographics_app.1.player.id_in_group,demographics_app.1.player.gender,demographics_app.1.player.age,demographics_app.1.player.education,demographics_app.1.player.political_beliefs,demographics_app.1.player.comments,demographics_app.1.player.payoff,demographics_app.1.group.id_in_subsession,demographics_app.1.subsession.round_number
+1,5e017hfb,NA,0,366,365,demographics_app,completion_code,1,4,7,qwyowsv5,NA,NA,0,1,3,1,0.9,0.75,0,1,1,1,Man,32,"Completed advanced University/College degree (Masters, PhD...)",-30,None.,0,1,1
+2,ypvg2u66,NA,0,366,365,demographics_app,completion_code,1,3,6,qwyowsv5,NA,NA,0,1,3,2,0.75,0.4,0,1,1,2,Man,21,Completed secondary school/high school,28,,0,1,1
+3,vp8atvt1,NA,0,366,365,demographics_app,completion_code,1,5,8,qwyowsv5,NA,NA,0,1,3,3,0.71,0.97,0,1,1,3,Woman,30,Completed undergraduate University/College degree,-39,,0,1,1
+4,5y50c006,NA,0,366,365,demographics_app,completion_code,1,4,7,qwyowsv5,NA,NA,0,1,3,4,0.95,0.23,0,1,1,4,Woman,58,Completed secondary school/high school,30,,0,1,1
+5,tqwt671t,NA,0,363,365,demographics_app,summary_page,1,4,7,qwyowsv5,NA,NA,0,1,3,5,0.8,0.7,0,1,1,5,,NA,,NA,,0,1,1
+6,lqu28rjs,NA,0,366,365,demographics_app,completion_code,1,5,8,qwyowsv5,NA,NA,0,1,3,6,0.09,0.23,0,1,1,6,Man,28,Completed undergraduate University/College degree,40,"no technical issues, it all worked well.",0,1,1
+7,oxnr974n,NA,0,366,365,demographics_app,completion_code,1,4,7,qwyowsv5,NA,NA,0,1,3,7,1,1,0,1,1,7,Man,33,Completed undergraduate University/College degree,50,,0,1,1
+8,xb4mz9rs,NA,0,366,365,demographics_app,completion_code,1,5,8,qwyowsv5,NA,NA,0,1,3,8,0,0.86,0,1,1,8,Woman,27,Completed undergraduate University/College degree,-9,good,0,1,1
+9,aci2zdda,NA,0,366,365,demographics_app,completion_code,1,3,6,qwyowsv5,NA,NA,0,1,3,9,0.3,0.8,0,1,1,9,Man,63,Completed undergraduate University/College degree,-20,"Real good deal and great pay, lots of fun too. Hard to figure out that last person. Much easier when I was the seller. It's easier to convince others than wonder if they are telling the truth. Thank you.",0,1,1
+10,uii4jglm,NA,0,366,365,demographics_app,completion_code,1,1,4,qwyowsv5,NA,NA,0,1,3,10,0.98,0.66,0,1,1,10,Man,28,Completed undergraduate University/College degree,45,awesome,0,1,1
+11,o8p7t8wy,NA,0,366,365,demographics_app,completion_code,1,2,5,qwyowsv5,NA,NA,0,1,3,11,1,1,0,1,1,11,Man,56,"Completed advanced University/College degree (Masters, PhD...)",47,good and interested,0,1,1
+12,53nh50sx,NA,0,366,365,demographics_app,completion_code,1,0,3,qwyowsv5,NA,NA,0,1,3,12,0.5,0.5,0,1,1,12,Woman,29,Completed undergraduate University/College degree,22,GOOD,0,1,1
+13,a9qhffoh,NA,0,366,365,demographics_app,completion_code,1,0,3,qwyowsv5,NA,NA,0,1,3,13,0.85,0.63,0,1,1,13,Woman,68,Completed secondary school/high school,-38,,0,1,1
+14,hrvfvkot,NA,0,366,365,demographics_app,completion_code,1,0,3,qwyowsv5,NA,NA,0,1,3,14,0.69,0.77,0,1,1,14,Woman,36,Some University/College,31,good,0,1,1
+15,c0hbht52,NA,0,366,365,demographics_app,completion_code,1,0,3,qwyowsv5,NA,NA,0,1,3,15,0.55,0.5,0,1,1,15,Man,31,Completed undergraduate University/College degree,-25,"I'm not sure why I wasn't allowed to play the game. I didn't time out and I answered the questions, but after the first page I was immediately brought to the demographics page.",0,1,1
+16,jjo19r8w,NA,0,366,365,demographics_app,completion_code,1,0,3,qwyowsv5,NA,NA,0,1,3,16,0.36,0.78,0,1,1,16,Man,35,Completed undergraduate University/College degree,29,,0,1,1
+17,e91ey5yk,NA,0,364,365,demographics_app,demographics_page,1,0,3,qwyowsv5,NA,NA,0,1,3,17,0.74,0.42,0,1,1,17,,NA,,NA,,0,1,1
+18,kiele5x1,NA,0,364,365,demographics_app,demographics_page,1,0,3,qwyowsv5,NA,NA,0,1,3,18,0,0.45,0,1,1,18,,NA,,NA,,0,1,1
+19,jxzgwrdi,NA,0,366,365,demographics_app,completion_code,1,0,3,qwyowsv5,NA,NA,0,1,3,19,0.02,0.32,0,1,1,19,Woman,57,Completed undergraduate University/College degree,-22,,0,1,1
+20,2ixvczh7,NA,0,366,365,demographics_app,completion_code,1,0,3,qwyowsv5,NA,NA,0,1,3,20,0.69,0.02,0,1,1,20,Woman,33,Some University/College,3,N/A,0,1,1
+21,mhm2e4jk,NA,0,366,365,demographics_app,completion_code,1,0,3,qwyowsv5,NA,NA,0,1,3,21,0.5,0.6,0,1,1,21,Man,35,Completed undergraduate University/College degree,-25,,0,1,1
+22,6brfugiq,NA,0,366,365,demographics_app,completion_code,1,0,3,qwyowsv5,NA,NA,0,1,3,22,0,0.93,0,1,1,22,Man,46,Completed undergraduate University/College degree,50,,0,1,1
+23,hmwsm9de,NA,0,366,365,demographics_app,completion_code,1,0,3,qwyowsv5,NA,NA,0,1,3,23,0.5,0.5,0,1,1,23,Man,41,Some University/College,50,Nice survey,0,1,1
+24,qx1osz6e,NA,0,366,365,demographics_app,completion_code,1,0,3,qwyowsv5,NA,NA,0,1,3,24,0.8,0.2,0,1,1,24,Woman,27,Completed secondary school/high school,-50,,0,1,1
+25,0x0bkrdg,NA,0,366,365,demographics_app,completion_code,1,0,3,qwyowsv5,NA,NA,0,1,3,25,0.34,0.28,0,1,1,25,Woman,47,Some University/College,31,,0,1,1
+1,jjm5sgkx,NA,0,726,725,demographics_app,completion_code,1,1,4,c8pv0kwe,NA,NA,0,1,3,1,0.73,0.72,0,1,1,1,Man,45,Completed undergraduate University/College degree,-30,thank you,0,1,1
+2,18otinv0,NA,0,726,725,demographics_app,completion_code,1,3,6,c8pv0kwe,NA,NA,0,1,3,2,0.65,0.15,0,1,1,2,Woman,30,Completed undergraduate University/College degree,0,,0,1,1
+3,u1nd1eaa,NA,0,726,725,demographics_app,completion_code,1,6,9,c8pv0kwe,NA,NA,0,1,3,3,0.04,0.5,0,1,1,3,Man,38,"Completed advanced University/College degree (Masters, PhD...)",-50,no comments,0,1,1
+4,vxrlt1v8,NA,0,207,725,App1,Wait0,1,1,4,c8pv0kwe,NA,NA,0,1,3,4,0,0,0,1,1,4,,NA,,NA,,0,1,1
+5,kaymwuel,NA,0,726,725,demographics_app,completion_code,1,2,5,c8pv0kwe,NA,NA,0,1,3,5,0.7,0.61,0,1,1,5,Man,29,Completed undergraduate University/College degree,13,no comments,0,1,1
+6,rq4jn0w3,NA,0,207,725,App1,Wait0,1,1,4,c8pv0kwe,NA,NA,0,1,3,6,0.6,0.55,0,1,1,6,,NA,,NA,,0,1,1
+7,bzsnl3l3,NA,0,726,725,demographics_app,completion_code,1,4,7,c8pv0kwe,NA,NA,0,1,3,7,0.2,0.8,0,1,1,7,Woman,30,Completed undergraduate University/College degree,10,none,0,1,1
+8,wxxiql8h,NA,0,726,725,demographics_app,completion_code,1,2,5,c8pv0kwe,NA,NA,0,1,3,8,0.82,1,0,1,1,8,Man,30,Some University/College,34,Good game,0,1,1
+9,8tngvpu0,NA,0,726,725,demographics_app,completion_code,1,5,8,c8pv0kwe,NA,NA,0,1,3,9,0.8,0.75,0,1,1,9,Man,52,Completed undergraduate University/College degree,-31,No,0,1,1
+10,s8yycozd,NA,0,327,725,App1,Wait0,1,4,7,c8pv0kwe,NA,NA,0,1,3,10,0.7,0.37,0,1,1,10,,NA,,NA,,0,1,1
+11,4lxfrtv3,NA,0,726,725,demographics_app,completion_code,1,4,7,c8pv0kwe,NA,NA,0,1,3,11,0.78,0.24,0,1,1,11,Woman,40,Completed undergraduate University/College degree,0,,0,1,1
+12,2iuobbba,NA,0,726,725,demographics_app,completion_code,1,3,6,c8pv0kwe,NA,NA,0,1,3,12,0.75,0.9,0,1,1,12,Man,49,Completed undergraduate University/College degree,30,There was an error just before the demographic page. Just wanted to make sure that my payout would be correct. $3 participation and $3 Bonus. Thank you and good luck!!,0,1,1
+13,ow8dy0p6,NA,0,726,725,demographics_app,completion_code,1,5,8,c8pv0kwe,NA,NA,0,1,3,13,0.5,0.5,0,1,1,13,Man,26,Completed secondary school/high school,17,,0,1,1
+14,sne9ln7n,NA,0,726,725,demographics_app,completion_code,1,6,9,c8pv0kwe,NA,NA,0,1,3,14,0.73,0.77,0,1,1,14,Man,28,Some University/College,24,Good and useful,0,1,1
+15,uq5yf24q,NA,0,507,725,App1,Wait0,1,2,5,c8pv0kwe,NA,NA,0,1,3,15,0.23,0.78,0,1,1,15,,NA,,NA,,0,1,1
+16,k0u8qx68,NA,0,726,725,demographics_app,completion_code,1,7,10,c8pv0kwe,NA,NA,0,1,3,16,0.14,0.16,0,1,1,16,Man,27,Completed undergraduate University/College degree,-30,na,0,1,1
+17,5zic8hbu,NA,0,507,725,App1,Wait0,1,2,5,c8pv0kwe,NA,NA,0,1,3,17,0.26,0.67,0,1,1,17,,NA,,NA,,0,1,1
+18,gkfb7re2,NA,0,519,725,App1,Wait0,1,0,3,c8pv0kwe,NA,NA,0,1,3,18,0.84,0.5,0,1,1,18,,NA,,NA,,0,1,1
+19,wgt0h0eu,NA,0,726,725,demographics_app,completion_code,1,6,9,c8pv0kwe,NA,NA,0,1,3,19,0.6,0.9,0,1,1,19,Woman,42,Completed secondary school/high school,30,good,0,1,1
+20,ov6wzi31,NA,0,726,725,demographics_app,completion_code,1,4,7,c8pv0kwe,NA,NA,0,1,3,20,0.41,0.46,0,1,1,20,Man,33,Completed secondary school/high school,0,,0,1,1
+21,okx2lrkp,NA,0,726,725,demographics_app,completion_code,1,6,9,c8pv0kwe,NA,NA,0,1,3,21,0.95,0.29,0,1,1,21,Man,27,Completed secondary school/high school,-50,"The HIT was very close to nonfunctional, and I had to reload the pages several times. You probably have already seen it in the logs, but it was really really rough.",0,1,1
+22,plrpsu8n,NA,0,711,725,App1,Wait0,1,8,11,c8pv0kwe,NA,NA,0,1,3,22,0.7,0.58,0,1,1,22,,NA,,NA,,0,1,1
+23,rkzt42b9,NA,0,726,725,demographics_app,completion_code,1,2,5,c8pv0kwe,NA,NA,0,1,3,23,0.12,0.08,0,1,1,23,Man,61,"Completed advanced University/College degree (Masters, PhD...)",32,nice,0,1,1
+24,ueolgd90,NA,0,726,725,demographics_app,completion_code,1,2,5,c8pv0kwe,NA,NA,0,1,3,24,0.1,0.65,0,1,1,24,Man,50,Completed secondary school/high school,10,None,0,1,1
+25,g6vm1daw,NA,0,726,725,demographics_app,completion_code,1,2,5,c8pv0kwe,NA,NA,0,1,3,25,0.8,0.4,0,1,1,25,Woman,28,Some University/College,-16,Fun!,0,1,1
+1,p53oyrys,NA,0,726,725,demographics_app,completion_code,1,4,7,er74u2tp,NA,NA,0,1,3,1,0.63,0.61,0,1,1,1,Man,30,Completed undergraduate University/College degree,15,Good,0,1,1
+2,sxsop3u1,NA,0,726,725,demographics_app,completion_code,1,5,8,er74u2tp,NA,NA,0,1,3,2,0.8,0.83,0,1,1,2,Man,52,Completed undergraduate University/College degree,-35,,0,1,1
+3,427hhu6h,NA,0,726,725,demographics_app,completion_code,1,5,8,er74u2tp,NA,NA,0,1,3,3,0.05,0.2,0,1,1,3,Man,44,"Completed advanced University/College degree (Masters, PhD...)",0,No responses from the partner in two rounds. How can you use the data? The partner is a real man?,0,1,1
+4,55akdiw8,NA,0,726,725,demographics_app,completion_code,1,5,8,er74u2tp,NA,NA,0,1,3,4,0.78,0.83,0,1,1,4,Man,40,Some University/College,40,Interesting,0,1,1
+5,76hhdjq5,NA,0,726,725,demographics_app,completion_code,1,7,10,er74u2tp,NA,NA,0,1,3,5,1,1,0,1,1,5,Man,35,Completed undergraduate University/College degree,50,,0,1,1
+6,mhr2hcmv,NA,0,726,725,demographics_app,completion_code,1,6,9,er74u2tp,NA,NA,0,1,3,6,0.2,0.3,0,1,1,6,Woman,47,Completed undergraduate University/College degree,0,None,0,1,1
+7,1o8dzl71,NA,0,726,725,demographics_app,completion_code,1,4,7,er74u2tp,NA,NA,0,1,3,7,0.86,0.63,0,1,1,7,Man,53,Completed undergraduate University/College degree,50,nice,0,1,1
+8,78tl0v4h,NA,0,495,725,App1,Wait0,1,0,3,er74u2tp,NA,NA,0,1,3,8,0,0,0,1,1,8,,NA,,NA,,0,1,1
+9,1uwr5boj,NA,0,726,725,demographics_app,completion_code,1,4,7,er74u2tp,NA,NA,0,1,3,9,0.64,0.85,0,1,1,9,Man,28,Some University/College,15,NONE,0,1,1
+10,8l6d6b6c,NA,0,726,725,demographics_app,completion_code,1,4,7,er74u2tp,NA,NA,0,1,3,10,0.24,0.36,0,1,1,10,Woman,39,Completed undergraduate University/College degree,50,Thank you,0,1,1
+11,2xjxv7ai,NA,0,500,725,App1,Seller_chat_page,1,1,4,er74u2tp,NA,NA,0,1,3,11,0.86,0.92,0,1,1,11,,NA,,NA,,0,1,1
+12,6pnmneqy,NA,0,726,725,demographics_app,completion_code,1,5,8,er74u2tp,NA,NA,0,1,3,12,0.3,0.25,0,1,1,12,Man,38,"Completed advanced University/College degree (Masters, PhD...)",-50,,0,1,1
+13,wwku5rdu,NA,0,726,725,demographics_app,completion_code,1,6,9,er74u2tp,NA,NA,0,1,3,13,0.67,0.78,0,1,1,13,Man,43,Completed undergraduate University/College degree,25,good,0,1,1
+14,3zksv47r,NA,0,726,725,demographics_app,completion_code,1,4,7,er74u2tp,NA,NA,0,1,3,14,0.46,0.49,0,1,1,14,Man,48,Some University/College,-30,No comments,0,1,1
+15,brnm6twc,NA,0,505,725,App1,Wait3,1,2,5,er74u2tp,NA,NA,0,1,3,15,0.72,0.95,0,1,1,15,,NA,,NA,,0,1,1
+16,ue2lclya,NA,0,543,725,App1,Wait0,1,1,4,er74u2tp,NA,NA,0,1,3,16,0.04,0.76,0,1,1,16,,NA,,NA,,0,1,1
+17,hwdsu32m,NA,0,726,725,demographics_app,completion_code,1,4,7,er74u2tp,NA,NA,0,1,3,17,0.6,0.4,0,1,1,17,Man,45,Completed undergraduate University/College degree,10,No.,0,1,1
+18,eq3u195h,NA,0,726,725,demographics_app,completion_code,1,4,7,er74u2tp,NA,NA,0,1,3,18,0.05,0.88,0,1,1,18,Woman,24,"Completed advanced University/College degree (Masters, PhD...)",-6,Please provide a longer timer. The server hosting the study was very slow and laggy. Thank you.,0,1,1
+19,u1515qih,NA,0,726,725,demographics_app,completion_code,1,7,10,er74u2tp,NA,NA,0,1,3,19,0.73,0.8,0,1,1,19,Woman,39,Completed undergraduate University/College degree,21,I LIKE IT,0,1,1
+20,kl4qabbw,NA,0,726,725,demographics_app,completion_code,1,4,7,er74u2tp,NA,NA,0,1,3,20,0.1,0.6,0,1,1,20,Man,26,Completed undergraduate University/College degree,-45,"It was clear that several of my partners were not fluent English speakers. I suspect they are using stolen accounts and actually live outside the United States. Please reject their work, block their accounts, and report their accounts to Amazon for being fraudulent, thank you.",0,1,1
+21,ee6nexyn,NA,0,726,725,demographics_app,completion_code,1,4,7,er74u2tp,NA,NA,0,1,3,21,0.68,0.71,0,1,1,21,Man,39,"Completed advanced University/College degree (Masters, PhD...)",37,no,0,1,1
+22,3ehfrguf,NA,0,726,725,demographics_app,completion_code,1,2,5,er74u2tp,NA,NA,0,1,3,22,0.2,0.38,0,1,1,22,Woman,34,Completed undergraduate University/College degree,43,,0,1,1
+1,cbeozgfx,NA,0,726,725,demographics_app,completion_code,1,5,8,eh9goh3y,NA,NA,0,1,3,1,0.82,0.87,0,1,1,1,Man,34,Completed primary/elementary school only,-11,Last buyer didn't seem to have too good of a grasp on the experiment.  He didn't understand the penalty and what not.  I think in the future if you run this again you should force a comprehension check at some point.    Buyer #2 didn't really speak great English and it was hard to communicate with him.  Buyer #3 didn't understand the task.,0,1,1
+2,qnxkca8o,NA,0,726,725,demographics_app,completion_code,1,5,8,eh9goh3y,NA,NA,0,1,3,2,0.26,0.31,0,1,1,2,Man,25,Some University/College,50,Very interesting,0,1,1
+3,scfcx6zs,NA,0,726,725,demographics_app,completion_code,1,6,9,eh9goh3y,NA,NA,0,1,3,3,0.28,0.24,0,1,1,3,Man,37,Completed undergraduate University/College degree,0,At least 2 of the people to whom I was paired could speak almost no English.  I sent a message the to requester about this.,0,1,1
+4,k17bnkwt,NA,0,726,725,demographics_app,completion_code,1,6,9,eh9goh3y,NA,NA,0,1,3,4,0.6,0.73,0,1,1,4,Woman,26,Some University/College,-47,,0,1,1
+5,7oubb3ei,NA,0,726,725,demographics_app,completion_code,1,6,9,eh9goh3y,NA,NA,0,1,3,5,0.82,0.73,0,1,1,5,Woman,37,Completed undergraduate University/College degree,-50,This HIT had some issues with loading. I hope this submits.,0,1,1
+6,xxugqzme,NA,0,726,725,demographics_app,completion_code,1,5,8,eh9goh3y,NA,NA,0,1,3,6,0.67,0.57,0,1,1,6,Man,40,Completed undergraduate University/College degree,-9,This was fun but I feel like it needs improvement. I'm not sure how I could have played better and fared better. Overall though I'm satisfied.,0,1,1
+7,t9zox8s5,NA,0,726,725,demographics_app,completion_code,1,4,7,eh9goh3y,NA,NA,0,1,3,7,0.85,0.98,0,1,1,7,Woman,32,"Completed advanced University/College degree (Masters, PhD...)",-50,This was fun!,0,1,1
+8,496406zk,NA,0,726,725,demographics_app,completion_code,1,5,8,eh9goh3y,NA,NA,0,1,3,8,0.79,0.91,0,1,1,8,Woman,39,Completed undergraduate University/College degree,50,Thank you - the last person was a jerk,0,1,1
+9,kh6qqq5m,NA,0,723,725,demographics_app,summary_page,1,4,7,eh9goh3y,NA,NA,0,1,3,9,0.35,0.37,0,1,1,9,,NA,,NA,,0,1,1
+10,no59lf6n,NA,0,726,725,demographics_app,completion_code,1,5,8,eh9goh3y,NA,NA,0,1,3,10,0.17,0.85,0,1,1,10,Man,28,Completed secondary school/high school,30,,0,1,1
+11,nhor2wzs,NA,0,726,725,demographics_app,completion_code,1,4,7,eh9goh3y,NA,NA,0,1,3,11,0.71,0.91,0,1,1,11,Man,25,Completed secondary school/high school,10,THAMKUE,0,1,1
+12,g63j6i7t,NA,0,726,725,demographics_app,completion_code,1,6,9,eh9goh3y,NA,NA,0,1,3,12,0.7,0.99,0,1,1,12,Woman,33,Completed undergraduate University/College degree,10,This was a pleasant experience. It's good to know that people out there are honest.,0,1,1
+13,xsnoxjcv,NA,0,471,725,App1,Wait0,1,1,4,eh9goh3y,NA,NA,0,1,3,13,0.79,0.52,0,1,1,13,,NA,,NA,,0,1,1
+14,5v5ysrbg,NA,0,726,725,demographics_app,completion_code,1,3,6,eh9goh3y,NA,NA,0,1,3,14,0.58,0.73,0,1,1,14,Man,28,Completed secondary school/high school,0,,0,1,1
+15,hvqvpt87,NA,0,726,725,demographics_app,completion_code,1,1,4,eh9goh3y,NA,NA,0,1,3,15,0.77,0.91,0,1,1,15,Man,30,Some University/College,50,good,0,1,1
+16,0owoa5j7,NA,0,726,725,demographics_app,completion_code,1,0,3,eh9goh3y,NA,NA,0,1,3,16,0,0,0,1,1,16,Woman,69,"Completed advanced University/College degree (Masters, PhD...)",-50,thank you,0,1,1
+17,4969f63n,NA,0,495,725,App1,Wait0,1,0,3,eh9goh3y,NA,NA,0,1,3,17,0.13,0.02,0,1,1,17,,NA,,NA,,0,1,1
+18,qm0wt9s5,NA,0,555,725,App1,Wait0,1,3,6,eh9goh3y,NA,NA,0,1,3,18,0.83,0.86,0,1,1,18,,NA,,NA,,0,1,1
+19,4yusp1wt,NA,0,726,725,demographics_app,completion_code,1,3,6,eh9goh3y,NA,NA,0,1,3,19,0.65,0.55,0,1,1,19,Woman,28,Completed undergraduate University/College degree,-50,"None, thank you",0,1,1
+20,i0jdh2ef,NA,0,555,725,App1,Wait0,1,6,9,eh9goh3y,NA,NA,0,1,3,20,0.49,0.46,0,1,1,20,,NA,,NA,,0,1,1
+1,da68abk7,NA,0,726,725,demographics_app,completion_code,1,3,6,g4n562z1,NA,NA,0,1,3,1,0.29,0.29,0,1,1,1,Man,29,Completed undergraduate University/College degree,0,,0,1,1
+2,sl6q9hhx,NA,0,726,725,demographics_app,completion_code,1,6,9,g4n562z1,NA,NA,0,1,3,2,0.9,0.6,0,1,1,2,Woman,54,Completed undergraduate University/College degree,-50,"None, thanks",0,1,1
+3,v1wmge4h,NA,0,726,725,demographics_app,completion_code,1,4,7,g4n562z1,NA,NA,0,1,3,3,0.68,0.85,0,1,1,3,Woman,50,Some University/College,-50,,0,1,1
+4,h5ce4v1q,NA,0,725,725,demographics_app,completion_code,1,6,9,g4n562z1,NA,NA,0,1,3,4,0.05,0.7,0,1,1,4,Man,44,"Completed advanced University/College degree (Masters, PhD...)",35,none,0,1,1
+5,n7k5ktnh,NA,0,726,725,demographics_app,completion_code,1,6,9,g4n562z1,NA,NA,0,1,3,5,0.66,0.29,0,1,1,5,Man,34,Some University/College,43,,0,1,1
+6,3s8sq4nb,NA,0,726,725,demographics_app,completion_code,1,4,7,g4n562z1,NA,NA,0,1,3,6,0.73,0.8,0,1,1,6,Woman,55,Completed undergraduate University/College degree,50,thank you for the survey,0,1,1
+7,b59bq2co,NA,0,339,725,App1,Wait0,1,3,6,g4n562z1,NA,NA,0,1,3,7,0.5,0.5,0,1,1,7,,NA,,NA,,0,1,1
+8,bmmf15qf,NA,0,726,725,demographics_app,completion_code,1,5,8,g4n562z1,NA,NA,0,1,3,8,0.71,0.65,0,1,1,8,Woman,23,Some University/College,-27,This was fun lol !,0,1,1
+9,i7vyss2t,NA,0,726,725,demographics_app,completion_code,1,4,7,g4n562z1,NA,NA,0,1,3,9,0.56,0.56,0,1,1,9,Man,28,Completed secondary school/high school,50,It was fun!,0,1,1
+10,qjz1mlr7,NA,0,726,725,demographics_app,completion_code,1,5,8,g4n562z1,NA,NA,0,1,3,10,0.87,1,0,1,1,10,Woman,70,Some University/College,50,no,0,1,1
+11,1q9g1tyf,NA,0,726,725,demographics_app,completion_code,1,3,6,g4n562z1,NA,NA,0,1,3,11,0.66,0.58,0,1,1,11,Man,29,Completed undergraduate University/College degree,32,no comments,0,1,1
+12,kagd7wc6,NA,0,726,725,demographics_app,completion_code,1,4,7,g4n562z1,NA,NA,0,1,3,12,0.83,0.86,0,1,1,12,Woman,27,Completed secondary school/high school,50,nice,0,1,1
+13,ugrwnhky,NA,0,726,725,demographics_app,completion_code,1,6,9,g4n562z1,NA,NA,0,1,3,13,0.55,0.32,0,1,1,13,Man,33,Some University/College,-2,everything worked well and was easy to understand,0,1,1
+14,260v7sz2,NA,0,726,725,demographics_app,completion_code,1,3,6,g4n562z1,NA,NA,0,1,3,14,0.78,0.39,0,1,1,14,Woman,61,Completed undergraduate University/College degree,-26,,0,1,1
+15,36mh2le8,NA,0,723,725,demographics_app,summary_page,1,2,5,g4n562z1,NA,NA,0,1,3,15,0.95,1,0,1,1,15,,NA,,NA,,0,1,1
+16,fft1pt54,NA,0,507,725,App1,Wait0,1,1,4,g4n562z1,NA,NA,0,1,3,16,0.22,0.31,0,1,1,16,,NA,,NA,,0,1,1
+17,3dxi2bdr,NA,0,726,725,demographics_app,completion_code,1,5,8,g4n562z1,NA,NA,0,1,3,17,0.66,0.88,0,1,1,17,Man,30,Completed undergraduate University/College degree,-50,I got an application error a lot.,0,1,1
+18,mcx8k1am,NA,0,567,725,App1,Wait0,1,0,3,g4n562z1,NA,NA,0,1,3,18,0.27,0.36,0,1,1,18,,NA,,NA,,0,1,1
+19,ik9yn2n0,NA,0,726,725,demographics_app,completion_code,1,6,9,g4n562z1,NA,NA,0,1,3,19,0.11,0.82,0,1,1,19,Man,32,Completed secondary school/high school,-28,,0,1,1
+20,5gdq8yk2,NA,0,726,725,demographics_app,completion_code,1,4,7,g4n562z1,NA,NA,0,1,3,20,0.8,0.29,0,1,1,20,Man,29,Some University/College,-38,Thw app crashed halfway and then resumed. I contacted the requester...but it looks like I won't have to ask for anything since I can just submit the hit with a code.,0,1,1
+21,tbir0pz5,NA,0,726,725,demographics_app,completion_code,1,4,7,g4n562z1,NA,NA,0,1,3,21,0.93,0.55,0,1,1,21,Man,22,Completed secondary school/high school,-39,"This was very fun, especially with Among Us being so popular right now, I feel my lying has never been so strong! I tried to create an aire of friendliness to gain trust.",0,1,1
+22,z5iung08,NA,0,726,725,demographics_app,completion_code,1,1,4,g4n562z1,NA,NA,0,1,3,22,0.6,0.4,0,1,1,22,Man,37,Completed undergraduate University/College degree,-35,"The task loaded slowly and I had to refresh at one point because it said there was an ""application error.""     As for the study itself, it was really hard to figure out how to figure out if people were lying or not. I was not good at it.",0,1,1
+23,pmhnfj1l,NA,0,726,725,demographics_app,completion_code,1,1,4,g4n562z1,NA,NA,0,1,3,23,0.84,0.91,0,1,1,23,Woman,43,Completed undergraduate University/College degree,-31,None,0,1,1
+25,sna8sh0p,NA,0,726,725,demographics_app,completion_code,1,0,3,g4n562z1,NA,NA,0,1,3,25,0.6,0.5,0,1,1,25,Man,29,Completed undergraduate University/College degree,-50,"I was immediately sent to this if it's the end of the study, I'm confused.",0,1,1
+1,qz33sh8i,NA,0,726,725,demographics_app,completion_code,1,7,10,k9epxkrh,NA,NA,0,1,3,1,0.81,0.94,0,1,1,1,Woman,31,Completed secondary school/high school,37,,0,1,1
+2,vxgrdxlq,NA,0,726,725,demographics_app,completion_code,1,5,8,k9epxkrh,NA,NA,0,1,3,2,0.45,0.71,0,1,1,2,Man,32,"Completed advanced University/College degree (Masters, PhD...)",-48,,0,1,1
+3,8skuiy6k,NA,0,726,725,demographics_app,completion_code,1,7,10,k9epxkrh,NA,NA,0,1,3,3,0.65,0.75,0,1,1,3,Man,42,Completed undergraduate University/College degree,35,n/a,0,1,1
+4,9ahb7v0n,NA,0,726,725,demographics_app,completion_code,1,4,7,k9epxkrh,NA,NA,0,1,3,4,0.13,0.57,0,1,1,4,Man,61,Completed secondary school/high school,-33,,0,1,1
+5,4gw7p1d5,NA,0,726,725,demographics_app,completion_code,1,6,9,k9epxkrh,NA,NA,0,1,3,5,0,0.84,0,1,1,5,Woman,65,Completed secondary school/high school,0,I hate games where I have to lie to people,0,1,1
+6,1xd8oy7p,NA,0,423,725,App1,Wait0,1,4,7,k9epxkrh,NA,NA,0,1,3,6,0.31,0.59,0,1,1,6,,NA,,NA,,0,1,1
+7,bk5r8ha7,NA,0,726,725,demographics_app,completion_code,1,5,8,k9epxkrh,NA,NA,0,1,3,7,0.39,0.37,0,1,1,7,Woman,39,Completed undergraduate University/College degree,44,thank you,0,1,1
+8,r8lvrhyo,NA,0,726,725,demographics_app,completion_code,1,4,7,k9epxkrh,NA,NA,0,1,3,8,0.15,0.1,0,1,1,8,Woman,64,Completed undergraduate University/College degree,25,,0,1,1
+9,3d0ouep9,NA,0,726,725,demographics_app,completion_code,1,6,9,k9epxkrh,NA,NA,0,1,3,9,0.19,0.87,0,1,1,9,Woman,23,Some University/College,36,,0,1,1
+10,bxclxbca,NA,0,726,725,demographics_app,completion_code,1,7,10,k9epxkrh,NA,NA,0,1,3,10,0,0.31,0,1,1,10,Woman,69,Some University/College,50,none,0,1,1
+11,6vrn0ypg,NA,0,726,725,demographics_app,completion_code,1,3,6,k9epxkrh,NA,NA,0,1,3,11,0.27,0.73,0,1,1,11,Man,28,Some University/College,25,more valuable and know some source. Thank you,0,1,1
+12,x80a2eo2,NA,0,723,725,demographics_app,summary_page,1,5,8,k9epxkrh,NA,NA,0,1,3,12,0,0,0,1,1,12,,NA,,NA,,0,1,1
+13,c7g2rrst,NA,0,726,725,demographics_app,completion_code,1,4,7,k9epxkrh,NA,NA,0,1,3,13,0.73,0.23,0,1,1,13,Woman,37,Completed secondary school/high school,-12,,0,1,1
+14,06i7z7kr,NA,0,726,725,demographics_app,completion_code,1,6,9,k9epxkrh,NA,NA,0,1,3,14,0.39,0.13,0,1,1,14,Man,28,Completed undergraduate University/College degree,0,No.,0,1,1
+15,dl9mjlgh,NA,0,726,725,demographics_app,completion_code,1,5,8,k9epxkrh,NA,NA,0,1,3,15,0.34,0.32,0,1,1,15,Man,38,"Completed advanced University/College degree (Masters, PhD...)",-50,none,0,1,1
+16,59s51svb,NA,0,726,725,demographics_app,completion_code,1,3,6,k9epxkrh,NA,NA,0,1,3,16,0.88,0.28,0,1,1,16,Man,50,Completed secondary school/high school,-23,Thank You.,0,1,1
+17,b362ge0v,NA,0,726,725,demographics_app,completion_code,1,1,4,k9epxkrh,NA,NA,0,1,3,17,0,0.5,0,1,1,17,Woman,35,Completed undergraduate University/College degree,-18,,0,1,1
+18,15dbhhpl,NA,0,726,725,demographics_app,completion_code,1,6,9,k9epxkrh,NA,NA,0,1,3,18,0.5,0.5,0,1,1,18,Woman,27,Completed undergraduate University/College degree,24,an interesting task it was.,0,1,1
+19,h8nzd2ln,NA,0,726,725,demographics_app,completion_code,1,5,8,k9epxkrh,NA,NA,0,1,3,19,0.4,0.74,0,1,1,19,Man,32,Completed undergraduate University/College degree,11,no,0,1,1
+20,oz5j9ei5,NA,0,675,725,App1,Wait0,1,0,3,k9epxkrh,NA,NA,0,1,3,20,0.92,1,0,1,1,20,,NA,,NA,,0,1,1
+21,lwb4bh7s,NA,0,726,725,demographics_app,completion_code,1,5,8,k9epxkrh,NA,NA,0,1,3,21,0.88,0.39,0,1,1,21,Man,55,Some University/College,3,the first 2 rounds didn't even have a player...this is buggy BS,0,1,1
+22,dfpe5cor,NA,0,726,725,demographics_app,completion_code,1,2,5,k9epxkrh,NA,NA,0,1,3,22,0.6,0.4,0,1,1,22,Man,47,Completed undergraduate University/College degree,-5,I wasn't very convincing in my attempt to convince the other player!,0,1,1
